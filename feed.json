@@ -7,6 +7,126 @@
 	"items": [
 		
 			{
+				"id": "http://mjdescy.micro.blog/2021/12/11/now-that-my.html",
+				
+				"content_html": "<p>Now that my media- and backup server appears to be running stably, I’m turning my attention to setting up my new Apple TV 4K. Somehow it has remained in its box since I received it on Wednesday. I…don’t watch much TV these days. 😀</p>\n",
+				"content_text": "Now that my media- and backup server appears to be running stably, I’m turning my attention to setting up my new Apple TV 4K. Somehow it has remained in its box since I received it on Wednesday. I…don’t watch much TV these days. 😀\n\n",
+				"date_published": "2021-12-11T13:12:40-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/11/now-that-my.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/10/why-do-i.html",
+				"title": "Why do I even bother running a home file server?",
+				"content_html": "<p>Over the past year, my TrueNAS Core server has been bugging me every few months about one of my boot failing. In this case, the boot drives are simply two USB sticks, run in a mirrored configuration. If one fails, the other one handles the load. (The reason I use a USB stick for a boot drive is that my server has an internal USB port for that very purpose, and no other place for the boot drive to go.)</p>\n\n<p>This week, after yet another USB stick failed, I tried to resolve the problem by buying new USB sticks and installing TrueNAS onto them. The OS installs took hours and the server would not reboot. Eventually I discovered that I could buy an SSD drive with the form factor of a USB stick, which is what I have wanted for years. It fits inside my server like a USB stick, but contains a fast, durable SSD drive instead of slow, fragile flash memory. I installed TrueNAS onto it, which seemed to take seconds rather than hours, but I could not boot from it. I spent an hour swapping USB drives and trying to boot the server until it would not boot TrueNAS from any USB drive I had. It was a disaster.</p>\n\n<p>I gave up and installed Ubuntu Server onto the new SSD drive. I knew that Ubuntu supports ZFS now and could import my existing data pool. Luckily, it boots like a champ. After the install, I found some instructions to help me set up ZFS, Samba, and Minio, and—after editing file permissions—everything is set. I didn’t lose any data during the OS switch, but I did mess up my Arm backups when I tried to move them into a new Minio storage location. Luckily, I wasn’t depending on those backups for anything, because my important data is in the cloud and I have backups on Backblaze B2 as well.</p>\n\n<p>I use the NAS daily for media sharing and backups. It takes very little maintenance except once in a while when it becomes a headache and money sink. I sometime wonder if I should go back to having an external hard drive instead, now that 8 TB external hard drives are pretty cheap. The problem with that approach is that external hard drives get hot and die, which happened to me so many times that I bought a NAS.</p>\n\n<p>I will miss running TrueNAS (which used to be called FreeNAS) because I have run it for ten years and used to be really into its FreeBSD underpinnings. Now, all the servers I rely on run either Ubuntu Server or Debian, and I will just have to deal with administering them via SSH rather than via a web page.</p>\n",
+				"content_text": "Over the past year, my TrueNAS Core server has been bugging me every few months about one of my boot failing. In this case, the boot drives are simply two USB sticks, run in a mirrored configuration. If one fails, the other one handles the load. (The reason I use a USB stick for a boot drive is that my server has an internal USB port for that very purpose, and no other place for the boot drive to go.)\n\nThis week, after yet another USB stick failed, I tried to resolve the problem by buying new USB sticks and installing TrueNAS onto them. The OS installs took hours and the server would not reboot. Eventually I discovered that I could buy an SSD drive with the form factor of a USB stick, which is what I have wanted for years. It fits inside my server like a USB stick, but contains a fast, durable SSD drive instead of slow, fragile flash memory. I installed TrueNAS onto it, which seemed to take seconds rather than hours, but I could not boot from it. I spent an hour swapping USB drives and trying to boot the server until it would not boot TrueNAS from any USB drive I had. It was a disaster.\n\nI gave up and installed Ubuntu Server onto the new SSD drive. I knew that Ubuntu supports ZFS now and could import my existing data pool. Luckily, it boots like a champ. After the install, I found some instructions to help me set up ZFS, Samba, and Minio, and—after editing file permissions—everything is set. I didn’t lose any data during the OS switch, but I did mess up my Arm backups when I tried to move them into a new Minio storage location. Luckily, I wasn’t depending on those backups for anything, because my important data is in the cloud and I have backups on Backblaze B2 as well. \n\nI use the NAS daily for media sharing and backups. It takes very little maintenance except once in a while when it becomes a headache and money sink. I sometime wonder if I should go back to having an external hard drive instead, now that 8 TB external hard drives are pretty cheap. The problem with that approach is that external hard drives get hot and die, which happened to me so many times that I bought a NAS.\n\nI will miss running TrueNAS (which used to be called FreeNAS) because I have run it for ten years and used to be really into its FreeBSD underpinnings. Now, all the servers I rely on run either Ubuntu Server or Debian, and I will just have to deal with administering them via SSH rather than via a web page.\n\n\n",
+				"date_published": "2021-12-10T22:14:58-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/10/why-do-i.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/10/i-shared-the.html",
+				
+				"content_html": "<p>I shared the article I wrote to one of my mentors today. He said he loved it and that he would help me get it published in an industry journal. Things are looking up!</p>\n",
+				"content_text": "I shared the article I wrote to one of my mentors today. He said he loved it and that he would help me get it published in an industry journal. Things are looking up!\n\n",
+				"date_published": "2021-12-10T01:10:08-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/10/i-shared-the.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/09/maybe-its-just.html",
+				"title": "Maybe It's Just a Product Nobody Wants",
+				"content_html": "<p>I love <a href=\"https://birchtree.me/blog/maybe-its-just-a-product-nobody-wants/\">how Matt Birchler compares crypto to BitTorrent in his latest blog post</a>, “Maybe It&rsquo;s Just a Product Nobody Wants”:</p>\n\n<blockquote>\n<p>I don&rsquo;t think crypto is going to disappear, by the way. I think it will always have a place in the world, but much like bittorrent before it, it was new &amp; exciting, people tried to use it for basically everything, and then it settled into being used for, well, nothing for most people. Blockchains likely have a more prominent future, but there&rsquo;s a lot of spaghetti being thrown at walls right now, and I think very little of it will stick because it&rsquo;s not actually making better products.</p>\n</blockquote>\n\n<p>I’m a crypto skeptic who thinks a lot about blockchain for work-related reasons. I dislike blockchain technologies because I think that, in the real world, they would fail to eliminate trusted intermediaries in financial transactions. Establishing trust without intermediaries is the whole point of blockchain.</p>\n\n<p>I believe people and businesses are too risk-averse to do away with intermediaries like governments (who offer useful things like a legal system and deposit insurance) and the technology providers, agents, and brokers who make business work today. If crypto really takes off, and the old intermediaries are pushed out, I think that new intermediaries will pop up to fill in the gaps left behind. That future—blockchain <em>with</em> trusted intermediaries—is no better than what we have now, and is in many ways worse.</p>\n",
+				"content_text": "I love [how Matt Birchler compares crypto to BitTorrent in his latest blog post](https://birchtree.me/blog/maybe-its-just-a-product-nobody-wants/), “Maybe It's Just a Product Nobody Wants”:\n\n> I don't think crypto is going to disappear, by the way. I think it will always have a place in the world, but much like bittorrent before it, it was new & exciting, people tried to use it for basically everything, and then it settled into being used for, well, nothing for most people. Blockchains likely have a more prominent future, but there's a lot of spaghetti being thrown at walls right now, and I think very little of it will stick because it's not actually making better products.\n\nI’m a crypto skeptic who thinks a lot about blockchain for work-related reasons. I dislike blockchain technologies because I think that, in the real world, they would fail to eliminate trusted intermediaries in financial transactions. Establishing trust without intermediaries is the whole point of blockchain. \n\nI believe people and businesses are too risk-averse to do away with intermediaries like governments (who offer useful things like a legal system and deposit insurance) and the technology providers, agents, and brokers who make business work today. If crypto really takes off, and the old intermediaries are pushed out, I think that new intermediaries will pop up to fill in the gaps left behind. That future—blockchain *with* trusted intermediaries—is no better than what we have now, and is in many ways worse.\n\n\n",
+				"date_published": "2021-12-09T00:20:41-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/09/maybe-its-just.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/08/my-first-adjustable.html",
+				"title": "My first adjustable desk ended up non-adjustable",
+				"content_html": "<p>I received a motorized sit/stand desk today for my kids to use in the family room. I assembled the whole thing this afternoon, which was not too hard but took about an hour. Once it was done, I discovered that the left side would not lift. It was a frustrating way to end up. I emailed product support and hope to get some kind of answer. I’m afraid that, no matter what, I’m going to have to disassemble the whole thing to fix it. <em>That</em> will be a pain.</p>\n",
+				"content_text": "I received a motorized sit/stand desk today for my kids to use in the family room. I assembled the whole thing this afternoon, which was not too hard but took about an hour. Once it was done, I discovered that the left side would not lift. It was a frustrating way to end up. I emailed product support and hope to get some kind of answer. I’m afraid that, no matter what, I’m going to have to disassemble the whole thing to fix it. *That* will be a pain.\n\n",
+				"date_published": "2021-12-08T21:31:36-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/08/my-first-adjustable.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/08/some-days-i.html",
+				
+				"content_html": "<p>Some days I feel like a hero just because I got dinner on the table and my kids’ homework completed.</p>\n",
+				"content_text": "Some days I feel like a hero just because I got dinner on the table and my kids’ homework completed.\n\n",
+				"date_published": "2021-12-08T21:16:58-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/08/some-days-i.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/08/gris.html",
+				"title": "🎮 Gris",
+				"content_html": "<p>Earlier this week I played (twice!) through <a href=\"https://en.wikipedia.org/wiki/Gris\"><em>Gris</em></a>. It is a beautiful platformer that represents a metaphorical journey of a girl overcoming grief or depression. It is the kind of game that is meant to be an emotional experience rather than a challenge. In fact, it is impossible to lose. What struck me about it is how beautiful it is. The graphics are painterly and the music perfectly fits with the game’s themes and action.</p>\n",
+				"content_text": "Earlier this week I played (twice!) through [*Gris*](https://en.wikipedia.org/wiki/Gris). It is a beautiful platformer that represents a metaphorical journey of a girl overcoming grief or depression. It is the kind of game that is meant to be an emotional experience rather than a challenge. In fact, it is impossible to lose. What struck me about it is how beautiful it is. The graphics are painterly and the music perfectly fits with the game’s themes and action.\n\n",
+				"date_published": "2021-12-08T21:15:30-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/08/gris.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/07/my-wife-and.html",
+				
+				"content_html": "<p>My wife and I had parent-teacher conferences with my daughter’s teachers. My daughter is doing great (which we already knew) and her teachers love her. I am very proud of her.</p>\n",
+				"content_text": "My wife and I had parent-teacher conferences with my daughter’s teachers. My daughter is doing great (which we already knew) and her teachers love her. I am very proud of her.\n\n",
+				"date_published": "2021-12-07T21:25:26-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/07/my-wife-and.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/07/im-enjoying-the.html",
+				
+				"content_html": "<p>🎵 I’m enjoying <a href=\"https://music.apple.com/us/playlist/the-weeknd-essentials/pl.659f6a1cac0f4232ad19d1a2cfdc9fb8\">“The Weeknd Essentials” playlist</a> while I work this morning. I have learned to appreciate his music over the past two years. I was familiar with his biggest hits, but I wasn’t sold on his sound until <a href=\"https://music.apple.com/us/album/future-nostalgia/1538003494\">Due Lipa’s “Future Nostalgia”</a> came out and reminded me how cool and sexy modern 80s-inspired R&amp;B can be.</p>\n",
+				"content_text": "🎵 I’m enjoying [“The Weeknd Essentials” playlist](https://music.apple.com/us/playlist/the-weeknd-essentials/pl.659f6a1cac0f4232ad19d1a2cfdc9fb8) while I work this morning. I have learned to appreciate his music over the past two years. I was familiar with his biggest hits, but I wasn’t sold on his sound until [Due Lipa’s “Future Nostalgia”](https://music.apple.com/us/album/future-nostalgia/1538003494) came out and reminded me how cool and sexy modern 80s-inspired R&B can be.\n\n",
+				"date_published": "2021-12-07T11:05:53-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/07/im-enjoying-the.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/07/i-wonder-what.html",
+				
+				"content_html": "<p>I wonder what specifically happened this week to make “web3” a topic on every tech news site and every tech podcast I listen to.</p>\n",
+				"content_text": "I wonder what specifically happened this week to make “web3” a topic on every tech news site and every tech podcast I listen to.\n\n",
+				"date_published": "2021-12-07T09:52:05-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/07/i-wonder-what.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/06/my-expensive-planck.html",
+				
+				"content_html": "<p>⌨️ My expensive Planck EZ keyboard with the broken LEDs is being replaced with a new one. The customer service rep is even seeing if I can get it with different keyswitches than it originally came with, to match the set I switched to.</p>\n",
+				"content_text": "⌨️ My expensive Planck EZ keyboard with the broken LEDs is being replaced with a new one. The customer service rep is even seeing if I can get it with different keyswitches than it originally came with, to match the set I switched to. \n\n",
+				"date_published": "2021-12-06T21:31:45-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/06/my-expensive-planck.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/05/my-main-or.html",
+				"title": "My main (or only) contribution to gift-giving for my kids this holiday season",
+				"content_html": "<p>My main (or only) contribution to gift-giving for my kids this holiday season was a biggie: I bought them a multi-function color laser printer. (Don’t worry, my wife bought them a ton of other presents that are a lot more fun.)</p>\n\n<p>I got the idea to buy a color printer because my son’s preschool prints everything in color, and the administrators there said that color printing is phenomenal for kids’ worksheets. Beyond filling out preschool worksheet, my son loves to take photos and to draw. Once he gets a newer iPad I’m sure he’ll draw more electronically and will love the ability to print out his creations in full color. My daughter will likely be printing out book covers. She likes to write and illustrate story books, and a color printer will allow her to do that with even more panache. She also makes lots of presentation slide decks for school, and I thought she might need to print them out to turn them in. It turns out that she submits everything to her teachers electronically, so that use case probably won’t pan out.</p>\n\n<p>I didn’t intend to get a big, <em>multifunction</em> printer, though. I had wanted to buy a color printer, which was much cheaper. Due to the global supply shortage, I had to buy what was available, which meant ponying up for the next model up in the lineup, which includes a scanner, too. It cost a lot of money, and I’m well aware of how much toner and paper are going to cost me each year. I think will be worth it, though, to have a mini print-shop running in the family room from now on. My kids are both very excited to have it. I can’t wait to see what they do with it.</p>\n",
+				"content_text": "My main (or only) contribution to gift-giving for my kids this holiday season was a biggie: I bought them a multi-function color laser printer. (Don’t worry, my wife bought them a ton of other presents that are a lot more fun.)\n\nI got the idea to buy a color printer because my son’s preschool prints everything in color, and the administrators there said that color printing is phenomenal for kids’ worksheets. Beyond filling out preschool worksheet, my son loves to take photos and to draw. Once he gets a newer iPad I’m sure he’ll draw more electronically and will love the ability to print out his creations in full color. My daughter will likely be printing out book covers. She likes to write and illustrate story books, and a color printer will allow her to do that with even more panache. She also makes lots of presentation slide decks for school, and I thought she might need to print them out to turn them in. It turns out that she submits everything to her teachers electronically, so that use case probably won’t pan out.\n\nI didn’t intend to get a big, *multifunction* printer, though. I had wanted to buy a color printer, which was much cheaper. Due to the global supply shortage, I had to buy what was available, which meant ponying up for the next model up in the lineup, which includes a scanner, too. It cost a lot of money, and I’m well aware of how much toner and paper are going to cost me each year. I think will be worth it, though, to have a mini print-shop running in the family room from now on. My kids are both very excited to have it. I can’t wait to see what they do with it.\n\n",
+				"date_published": "2021-12-05T23:19:13-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/05/my-main-or.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/05/feeling-dispirited.html",
+				"title": "Feeling dispirited",
+				"content_html": "<p>I had a couple dispiriting meetings toward the end of the week that killed the enthusiasm I had for what I have been working on over the past few months. First, one of my co-presenters said he thought that the lack of audience questions during our webinar indicated that everyone in the audience was just playing on their phones while we talked, waiting to collect their <a href=\"https://corporatefinanceinstitute.com/resources/careers/jobs/continuing-professional-education-cpe/\">CPE</a> credits. Then, later in the week, one of the partners I report to on technology initiatives seemed unenthusiastic about the automation bot I created, which took basically all year to figure out how to do.</p>\n\n<p>I have started to doubt myself again. I am wondering if the presentations I give and the white papers I write are too basic to be useful. Even worse, I am wondering again if my tech skills are not the best fit for my company.</p>\n\n<p>Even outside of work I have felt my creativity drop. I have struggled to think up new ideas to write about or to muster the energy to work on my writing until the ideas start to flow again. I want to start coding a lot more again but have been too tired to get into it almost every night.</p>\n\n<p>What I want is inspiration and energy. What I probably need is a diet, exercise, and more sleep.</p>\n",
+				"content_text": "I had a couple dispiriting meetings toward the end of the week that killed the enthusiasm I had for what I have been working on over the past few months. First, one of my co-presenters said he thought that the lack of audience questions during our webinar indicated that everyone in the audience was just playing on their phones while we talked, waiting to collect their [CPE](https://corporatefinanceinstitute.com/resources/careers/jobs/continuing-professional-education-cpe/) credits. Then, later in the week, one of the partners I report to on technology initiatives seemed unenthusiastic about the automation bot I created, which took basically all year to figure out how to do.\n\nI have started to doubt myself again. I am wondering if the presentations I give and the white papers I write are too basic to be useful. Even worse, I am wondering again if my tech skills are not the best fit for my company.\n\nEven outside of work I have felt my creativity drop. I have struggled to think up new ideas to write about or to muster the energy to work on my writing until the ideas start to flow again. I want to start coding a lot more again but have been too tired to get into it almost every night.\n\nWhat I want is inspiration and energy. What I probably need is a diet, exercise, and more sleep.\n\n",
+				"date_published": "2021-12-05T22:55:10-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/05/feeling-dispirited.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/04/a-hanukkah-covid.html",
+				"title": "A Hanukkah COVID exposure scare",
+				"content_html": "<p>In the middle of our Hanukkah celebration tonight my wife got a text that informed us that our son had been exposed to a classmate with COVID a couple days ago. My brother-in-law’s family left immediately because my son and his kids are unvaccinated. (They are all too young.) I’m not concerned that my son is sick (pre-symptomatic) because the rest of us as vaccinated.</p>\n\n<p>My son’s entire preschool class must stay home all next week, due to the exposure rules. My wife and I will have to figure out how to make that work.</p>\n",
+				"content_text": "In the middle of our Hanukkah celebration tonight my wife got a text that informed us that our son had been exposed to a classmate with COVID a couple days ago. My brother-in-law’s family left immediately because my son and his kids are unvaccinated. (They are all too young.) I’m not concerned that my son is sick (pre-symptomatic) because the rest of us as vaccinated.\n\nMy son’s entire preschool class must stay home all next week, due to the exposure rules. My wife and I will have to figure out how to make that work. \n\n",
+				"date_published": "2021-12-04T19:41:12-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/04/a-hanukkah-covid.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2021/12/04/the-elliptical-machine.html",
+				
+				"content_html": "<p>The elliptical machine and the treadmill stand proudly in my basement like dusty monuments from a forgotten age.</p>\n",
+				"content_text": "The elliptical machine and the treadmill stand proudly in my basement like dusty monuments from a forgotten age.\n\n",
+				"date_published": "2021-12-04T10:59:38-04:00",
+				"url": "https://micro.mjdescy.me/2021/12/04/the-elliptical-machine.html"
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2021/12/03/tonight-i-fell.html",
 				
 				"content_html": "<p>Tonight I fell asleep in my chair in front of my whole family. I have officially become my dad. 😅</p>\n",
