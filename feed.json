@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://mjdescy.micro.blog/2022/02/28/priorities.html",
+				"title": "Priorities",
+				"content_html": "<p>I have been doing fairly well at work this month, but I feel kind of terrible about it. I feel like I am falling short in terms of productivity every day. Part of it is that I have been spending a lot more time <em>managing</em> than <em>doing</em>. I am keeping abreast of what my team needs, at the expense of getting my own tasks completed.</p>\n<p>I probably won’t be able to prioritize my tasks as well as I would like to for the next two of three months. To regain some feeling of control, however, I will go back to a technique that I have often employed when I am unsure of myself: starting each work day with a journal entry in which I list my priorities for the day.</p>\n",
+				"content_text": "I have been doing fairly well at work this month, but I feel kind of terrible about it. I feel like I am falling short in terms of productivity every day. Part of it is that I have been spending a lot more time *managing* than *doing*. I am keeping abreast of what my team needs, at the expense of getting my own tasks completed. \n\nI probably won’t be able to prioritize my tasks as well as I would like to for the next two of three months. To regain some feeling of control, however, I will go back to a technique that I have often employed when I am unsure of myself: starting each work day with a journal entry in which I list my priorities for the day.\n\n",
+				"date_published": "2022-02-28T08:55:44-05:00",
+				"url": "https://micro.mjdescy.me/2022/02/28/priorities.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/02/24/the-poet.html",
+				"title": "The Poet",
+				"content_html": "<p>The poet often sits upon the edge of reason, testing the waters of both sides with both his hyperactive poet-senses and his nightmarishly sluggish normal-senses. Treading both sides for a time, he realizes both of these seas are just as cold and just as briny, but the one just beyond reason is far deeper. With this, he dives in, drinking deep, closing his eyes beneath the surface, coughing up the salt when he bobs up for air.</p>\n<p>The internal battle begins between the all-knowing and the not-caring, between divulging too many secrets and sharing too little of what he knows; it promises to rend him in two. This is the curse of the poet. And that of the saint. To see so much, and know so little, and yet grasp an understanding far beyond the rest of the world.</p>\n<p>At his worst, the poet sits high up above the world and showers his insight down upon it. At his best, he sits high above the world and pulls the rest of it up to him.</p>\n",
+				"content_text": "The poet often sits upon the edge of reason, testing the waters of both sides with both his hyperactive poet-senses and his nightmarishly sluggish normal-senses. Treading both sides for a time, he realizes both of these seas are just as cold and just as briny, but the one just beyond reason is far deeper. With this, he dives in, drinking deep, closing his eyes beneath the surface, coughing up the salt when he bobs up for air.\n\nThe internal battle begins between the all-knowing and the not-caring, between divulging too many secrets and sharing too little of what he knows; it promises to rend him in two. This is the curse of the poet. And that of the saint. To see so much, and know so little, and yet grasp an understanding far beyond the rest of the world.\n\nAt his worst, the poet sits high up above the world and showers his insight down upon it. At his best, he sits high above the world and pulls the rest of it up to him.\n\n",
+				"date_published": "2022-02-24T08:00:00-05:00",
+				"url": "https://micro.mjdescy.me/2022/02/24/the-poet.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/02/23/on-a-break.html",
+				"title": "On a break",
+				"content_html": "<p>I have been taking a brief, unplanned blogging break. I overloaded my brain last week with too much work, too much programming which led to the same dead end I always end up in, and too little sleep. I also had an important doctor appointment yesterday that I was very uncertain about. Fortunately I am past that and can start to think more clearly again. Overall I am well and am looking forward to the future.</p>\n",
+				"content_text": "I have been taking a brief, unplanned blogging break. I overloaded my brain last week with too much work, too much programming which led to the same dead end I always end up in, and too little sleep. I also had an important doctor appointment yesterday that I was very uncertain about. Fortunately I am past that and can start to think more clearly again. Overall I am well and am looking forward to the future.\n\n",
+				"date_published": "2022-02-23T23:02:10-05:00",
+				"url": "https://micro.mjdescy.me/2022/02/23/on-a-break.html",
+				"tags": ["Journal"]
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2022/02/17/i-wasted-a.html",
 				
 				"content_html": "<p>I wasted a <em>ton</em> of time tonight trying to convert some old Apple sample code from an obsolete version of Swift to the current one that compiles. If only I had checked the <a href=\"https://swiftpackageindex.com\">Swift Package Index</a> first! Of course, someone else had already done it and created a package based on it.</p>\n",
