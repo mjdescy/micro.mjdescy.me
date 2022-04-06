@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://mjdescy.micro.blog/2022/04/05/the-reward-for.html",
+				"title": "The reward for doing good work",
+				"content_html": "<p>At the start of my career I learned an important lesson: The reward for doing good work is always more work. That often works in your favor. As you advance in your career, you move from doing many simple, repetitive tasks to solving fewer, more complex, and more interesting problems. In general, my experience bears this out—but not always.</p>\n<p>In my first real job, I was a software developer in a small group within a large company. I started out knowing very little about how to do my job other than the programming fundamentals I picked up in A.P. Computer Science. However, I was smart and driven; I worked very hard and eventually became the best and most knowledgable programmer in my group—at least when it came to web and database development. For my effort, I was award with promotions and raises <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, but the nature of my work actually got worse instead of better.</p>\n<p>Because I was so good at figuring out how other people’s code worked, troubleshooting, and fixing the hardest-to-fix bugs, those became my primary responsibilities as a programmer. I was no longer writing small systems from scratch or developing clean architectures. Instead, I had two roles. First, I was the Sherlock Holmes of diagnosing and fixing coding problems for other members of my team. Second, I was in charge of the technical side of large software integration projects. These are projects that involve bringing in code from people outside the company and making it work on our company’s systems. In both of these roles, I spent many hours a day wrangling with other people’s messy, awful codebases. In the end, my projects were successful, which was rewarding, but a lot of the day-to-day work was mind-meltingly difficult and unsatisfying.</p>\n<p>I had moved from performing lots of simple tasks well to solving more complex—but <em>not</em> more interesting—problems. Sometimes I think that work, programming, and life works out that way.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Don’t get too excited. I was always underpaid in those roles. At the time, I liked what I was doing, and lacked the confidence and the vision to take the risks necessary to switch companies in pursuit of a higher salary.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "At the start of my career I learned an important lesson: The reward for doing good work is always more work. That often works in your favor. As you advance in your career, you move from doing many simple, repetitive tasks to solving fewer, more complex, and more interesting problems. In general, my experience bears this out—but not always.\n\nIn my first real job, I was a software developer in a small group within a large company. I started out knowing very little about how to do my job other than the programming fundamentals I picked up in A.P. Computer Science. However, I was smart and driven; I worked very hard and eventually became the best and most knowledgable programmer in my group—at least when it came to web and database development. For my effort, I was award with promotions and raises [^1], but the nature of my work actually got worse instead of better.\n\nBecause I was so good at figuring out how other people’s code worked, troubleshooting, and fixing the hardest-to-fix bugs, those became my primary responsibilities as a programmer. I was no longer writing small systems from scratch or developing clean architectures. Instead, I had two roles. First, I was the Sherlock Holmes of diagnosing and fixing coding problems for other members of my team. Second, I was in charge of the technical side of large software integration projects. These are projects that involve bringing in code from people outside the company and making it work on our company’s systems. In both of these roles, I spent many hours a day wrangling with other people’s messy, awful codebases. In the end, my projects were successful, which was rewarding, but a lot of the day-to-day work was mind-meltingly difficult and unsatisfying. \n\nI had moved from performing lots of simple tasks well to solving more complex—but *not* more interesting—problems. Sometimes I think that work, programming, and life works out that way.\n\n\n[^1]:\tDon’t get too excited. I was always underpaid in those roles. At the time, I liked what I was doing, and lacked the confidence and the vision to take the risks necessary to switch companies in pursuit of a higher salary.\n",
+				"date_published": "2022-04-05T21:55:08-04:00",
+				"url": "https://micro.mjdescy.me/2022/04/05/the-reward-for.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/04/04/children-of-morta.html",
+				"title": "🎮 Children of Morta",
+				"content_html": "<p>Over the past week, I played through <em>Children of Morta</em> on my Nintendo Switch. It is a <a href=\"https://en.wikipedia.org/wiki/Roguelike\">Roguelike</a> game built around combat and dungeon crawling, with several gimmicks to keep it interesting. There is a strong story element and a very enthusiastic narrator; unfortunately, I didn’t think the story amounted to much in the end.</p>\n<p>Overall, I enjoyed it. It reminded me a little bit of the <em>Diablo</em> games, though my memory of those games is quite hazy.</p>\n<p>At first I found it nearly impossible to beat the first dungeon’s boss. I could reach the boss from my very first run, but I could not defeat it. I discovered that you have to grind and level up your characters’ stats. Once I did that many, many times, my characters were strong enough to kill that boss, and basically everything else that came afterward.</p>\n<p>I very much appreciated that you did not have to mash the attack button endlessly during combat. Instead you rock the right analog stick in the direction you want to loose your arrows or swing your sword. It works very well, much like a twin-stick shooter.</p>\n<p>While the game is fun, it gave me some frustrating moments, too. I experienced a game-breaking bug several times near the end of the game. Sound effects would loop and then cut out entirely; eventually the game would crash. I lost one of my runs entirely due to this bug. It hit me again during my fight with the final boss, which really put me on edge; fortunately, the game did not crash and I was able to complete it anyway.</p>\n",
+				"content_text": "Over the past week, I played through *Children of Morta* on my Nintendo Switch. It is a [Roguelike](https://en.wikipedia.org/wiki/Roguelike) game built around combat and dungeon crawling, with several gimmicks to keep it interesting. There is a strong story element and a very enthusiastic narrator; unfortunately, I didn’t think the story amounted to much in the end. \n\nOverall, I enjoyed it. It reminded me a little bit of the *Diablo* games, though my memory of those games is quite hazy. \n\nAt first I found it nearly impossible to beat the first dungeon’s boss. I could reach the boss from my very first run, but I could not defeat it. I discovered that you have to grind and level up your characters’ stats. Once I did that many, many times, my characters were strong enough to kill that boss, and basically everything else that came afterward.\n\nI very much appreciated that you did not have to mash the attack button endlessly during combat. Instead you rock the right analog stick in the direction you want to loose your arrows or swing your sword. It works very well, much like a twin-stick shooter.\n\nWhile the game is fun, it gave me some frustrating moments, too. I experienced a game-breaking bug several times near the end of the game. Sound effects would loop and then cut out entirely; eventually the game would crash. I lost one of my runs entirely due to this bug. It hit me again during my fight with the final boss, which really put me on edge; fortunately, the game did not crash and I was able to complete it anyway.\n\n",
+				"date_published": "2022-04-04T21:29:11-04:00",
+				"url": "https://micro.mjdescy.me/2022/04/04/children-of-morta.html",
+				"tags": ["Gaming"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/04/03/my-wife-and.html",
+				
+				"content_html": "<p>My wife and I hired a cleaning service for the first time since the COVID pandemic started. Of course we spent most of today frantically cleaning the house to prepare for them. 😅</p>\n",
+				"content_text": "My wife and I hired a cleaning service for the first time since the COVID pandemic started. Of course we spent most of today frantically cleaning the house to prepare for them. 😅\n\n",
+				"date_published": "2022-04-03T18:56:17-04:00",
+				"url": "https://micro.mjdescy.me/2022/04/03/my-wife-and.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/04/03/i-cant-seem.html",
+				
+				"content_html": "<p>I can’t seem to read books lately. It’s hard for me to even watch TV shows. I wonder if my attention span is shot.</p>\n",
+				"content_text": "I can’t seem to read books lately. It’s hard for me to even watch TV shows. I wonder if my attention span is shot.\n\n",
+				"date_published": "2022-04-03T18:54:33-04:00",
+				"url": "https://micro.mjdescy.me/2022/04/03/i-cant-seem.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/03/31/bill-hader-created.html",
+				"title": "📺 Bill Hader Created a Killer to Cope",
+				"content_html": "<p>Rebecca Keegan wrote <a href=\"https://www.hollywoodreporter.com/tv/tv-features/bill-hader-interview-barry-snl-anxiety-1235121564/\">an entertaining and informative profile of <em>Barry</em> star and co-creator Bill Hader</a> in <em>The Hollywood Reporter</em>:</p>\n<blockquote>\n<p>In Barry, which returns to HBO for its third season April 24, Hader plays a reluctant hitman who wants to be an actor. Barry is just really great at killing. This is not so different, Berg points out, from Hader, who became a star on SNL in his 20s almost in spite of himself, fought crippling anxiety on the live broadcasts, and really just wanted to write and direct.</p>\n</blockquote>\n<p>I am very excited that <em>Barry</em> is returning to HBO soon. It is a daring show on many levels. Plot-wise it flirts with show-ending (or at least show-ruining) disaster several times each season. I have no idea how the cliffhanger at the end of Season 2 will be resolved, but I am confident that the writers came up with something satisfying.</p>\n<p>I love Bill Hader, too. He is amazing and deserves every bit of success he has had.</p>\n",
+				"content_text": "Rebecca Keegan wrote [an entertaining and informative profile of _Barry_ star and co-creator Bill Hader](https://www.hollywoodreporter.com/tv/tv-features/bill-hader-interview-barry-snl-anxiety-1235121564/) in _The Hollywood Reporter_:\n\n> In Barry, which returns to HBO for its third season April 24, Hader plays a reluctant hitman who wants to be an actor. Barry is just really great at killing. This is not so different, Berg points out, from Hader, who became a star on SNL in his 20s almost in spite of himself, fought crippling anxiety on the live broadcasts, and really just wanted to write and direct.\n\nI am very excited that _Barry_ is returning to HBO soon. It is a daring show on many levels. Plot-wise it flirts with show-ending (or at least show-ruining) disaster several times each season. I have no idea how the cliffhanger at the end of Season 2 will be resolved, but I am confident that the writers came up with something satisfying. \n\nI love Bill Hader, too. He is amazing and deserves every bit of success he has had.\n\n",
+				"date_published": "2022-03-31T21:20:56-04:00",
+				"url": "https://micro.mjdescy.me/2022/03/31/bill-hader-created.html",
+				"tags": ["TV","News"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/03/30/hot-sauce.html",
+				"title": "Hot Sauce",
+				"content_html": "<p>I have watched enough episodes of <a href=\"https://www.youtube.com/playlist?list=PLAzrgbu8gEMIIK3r4Se1dOZWSZzUSadfZ\">Hot Ones on YouTube</a> to pique my interest in hot sauces. So far I have a bottle of a chipotle-inspired sauce and a bottle of sriracha. I am trying to enjoy them. So far they taste more acidic than hot to me. Perhaps I need to learn to cook with hot peppers instead of dabbing sauce on things.</p>\n",
+				"content_text": "I have watched enough episodes of [Hot Ones on YouTube](https://www.youtube.com/playlist?list=PLAzrgbu8gEMIIK3r4Se1dOZWSZzUSadfZ) to pique my interest in hot sauces. So far I have a bottle of a chipotle-inspired sauce and a bottle of sriracha. I am trying to enjoy them. So far they taste more acidic than hot to me. Perhaps I need to learn to cook with hot peppers instead of dabbing sauce on things.\n\n",
+				"date_published": "2022-03-30T20:55:53-04:00",
+				"url": "https://micro.mjdescy.me/2022/03/30/hot-sauce.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/03/29/try-telling-memento.html",
+				"title": "Try telling Memento Mori to a five-year-old",
+				"content_html": "<p>My five-year-old son just realized that he, and everyone he knows, will die someday. It has lead to unexpected, devastating dinner conversations the past two evenings.</p>\n<p>I don’t know why he started thinking about it. Out of nowhere, he started asking questions about death at dinner last night. At the time, my daughter and I had just started talking about Beethoven. I had looked up the composer’s Wikipedia entry and was reciting when he was born and when he died. Suddenly, my son—who knows that batteries die, that plants die, and even that animals die—asked in a shocked voice, “Why did he die?” Within a second, his lips started to quiver and he started to cry. A dozen other questions followed, none of them we were prepared to answer at a family dinner on a school night.</p>\n<p>My daughter went through this same emotional journey four or five years ago. For her, it was precipitated by the death of my father, who was the first close family member to die since was born. She couldn’t understand why her Grampa was gone, and quickly became terrified that she would die, too. These thoughts scared her so much that she was afraid to fall asleep; my wife or I had to stay with her night after night in her bed to comfort her. We had a lot of talks about death with her to help her understand what it means and to begrudgingly accept it. Of course we told her the pleasant half-truths that death only happens to very old people and is nothing she needs to worry about for a long, long time.</p>\n<p>My son has surprisingly practical concerns about death. Last night, he didn’t ask usb “Will I die?” He figured that out on his own and asked instead, “When will I die?” Tonight he asked us, with eyes wide with alarm, “Where will I go when I die?” My wife and I tried to explain to him that no one really knows, or that he would return to wherever he was before he was born. Those answers only made him more scared. Upon hearing them, he suddenly realized that he might not die in the same place as us or his sister, and became loudly distraught that he might end up somewhere where he couldn’t get to us anymore.</p>\n<p>He then asked when my wife and I, are going to die. That did not bother me. When he asked when his sister was going to die, I teared up because it seemed unimaginable. Finally, before we could steer him to another, far lighter, topic of discussion, he became concerned, to the point of tears, that he is too big or too small to “fit” there—whatever that means. It astounds me that the physical dimensions of the afterlife—or whatever he imagines it to be—are what my little boy is worried about tonight.</p>\n<p>All of my son’s thoughts and ideas about death have come, as far as we know, from his own imagination. No one close to him has died recently. We don’t talk about death much at all in our family; it is kind of taboo in our day-to-day conversations. Reflecting back on the past few weeks, however, I realize that he may have overheard the adults in the family discussing the untimely death of our rabbi’s husband, which occurred a week or so ago and understandably made us all very sad. We tried not to discuss it in front of our children—who did not really know the man—so that we would not upset them. Perhaps my son overheard us anyway.</p>\n<p>It took my daughter a long time to come to terms with the idea that she is going to die someday. I am expecting my son to follow in her footsteps. He will probably have occasional nightmares about death—or at least have trouble falling asleep with worry about it. While it makes me sad to see my son start to go through this phase—and it has certainly led to some difficult dinner conversations—I know that he, like my daughter, is an emotionally healthy kid and will be fine. I expect him to think about death some more, talk about it with us, and become more emotionally mature through the process. He’s going to get through this; we all do.</p>\n<p>It is quite a burden to understand that you, someday, are going to die. I wish I could ease that burden for my children, but I am wise enough to know that I cannot.</p>\n",
+				"content_text": "My five-year-old son just realized that he, and everyone he knows, will die someday. It has lead to unexpected, devastating dinner conversations the past two evenings.\n\nI don’t know why he started thinking about it. Out of nowhere, he started asking questions about death at dinner last night. At the time, my daughter and I had just started talking about Beethoven. I had looked up the composer’s Wikipedia entry and was reciting when he was born and when he died. Suddenly, my son—who knows that batteries die, that plants die, and even that animals die—asked in a shocked voice, “Why did he die?” Within a second, his lips started to quiver and he started to cry. A dozen other questions followed, none of them we were prepared to answer at a family dinner on a school night.\n\nMy daughter went through this same emotional journey four or five years ago. For her, it was precipitated by the death of my father, who was the first close family member to die since was born. She couldn’t understand why her Grampa was gone, and quickly became terrified that she would die, too. These thoughts scared her so much that she was afraid to fall asleep; my wife or I had to stay with her night after night in her bed to comfort her. We had a lot of talks about death with her to help her understand what it means and to begrudgingly accept it. Of course we told her the pleasant half-truths that death only happens to very old people and is nothing she needs to worry about for a long, long time.\n\nMy son has surprisingly practical concerns about death. Last night, he didn’t ask usb “Will I die?” He figured that out on his own and asked instead, “When will I die?” Tonight he asked us, with eyes wide with alarm, “Where will I go when I die?” My wife and I tried to explain to him that no one really knows, or that he would return to wherever he was before he was born. Those answers only made him more scared. Upon hearing them, he suddenly realized that he might not die in the same place as us or his sister, and became loudly distraught that he might end up somewhere where he couldn’t get to us anymore.\n\nHe then asked when my wife and I, are going to die. That did not bother me. When he asked when his sister was going to die, I teared up because it seemed unimaginable. Finally, before we could steer him to another, far lighter, topic of discussion, he became concerned, to the point of tears, that he is too big or too small to “fit” there—whatever that means. It astounds me that the physical dimensions of the afterlife—or whatever he imagines it to be—are what my little boy is worried about tonight.\n\nAll of my son’s thoughts and ideas about death have come, as far as we know, from his own imagination. No one close to him has died recently. We don’t talk about death much at all in our family; it is kind of taboo in our day-to-day conversations. Reflecting back on the past few weeks, however, I realize that he may have overheard the adults in the family discussing the untimely death of our rabbi’s husband, which occurred a week or so ago and understandably made us all very sad. We tried not to discuss it in front of our children—who did not really know the man—so that we would not upset them. Perhaps my son overheard us anyway.\n\nIt took my daughter a long time to come to terms with the idea that she is going to die someday. I am expecting my son to follow in her footsteps. He will probably have occasional nightmares about death—or at least have trouble falling asleep with worry about it. While it makes me sad to see my son start to go through this phase—and it has certainly led to some difficult dinner conversations—I know that he, like my daughter, is an emotionally healthy kid and will be fine. I expect him to think about death some more, talk about it with us, and become more emotionally mature through the process. He’s going to get through this; we all do.\n\nIt is quite a burden to understand that you, someday, are going to die. I wish I could ease that burden for my children, but I am wise enough to know that I cannot.\n\n",
+				"date_published": "2022-03-29T23:09:11-04:00",
+				"url": "https://micro.mjdescy.me/2022/03/29/try-telling-memento.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/03/28/draft-of-the.html",
+				"title": "🎙 Draft of the Ages",
+				"content_html": "<p>The best podcast episode I listened to today was the <a href=\"https://www.youtube.com/watch?v=2pTssBcIsz8\">400th episode of <em>Upgrade</em></a>:</p>\n<blockquote>\n<p>It&rsquo;s episode 400! We evaluate the forward-looking predictions we made back in episode 300, and then draft stories we&rsquo;ll be talking about over the next hundred episodes! Also, an Apple TV+ movie won Best Picture and we round up an awful lot of Apple rumors.</p>\n</blockquote>\n<p><em>Upgrade</em> is one of my favorite tech podcasts. Hosts Make Hurley and Jason Snell have a great rapport, and mostly talk about Apple and streaming TV services, which are beats that I enjoy learning and speculating about. Like most podcasts that track Apple, they they make predictions about product announcements before they happen. Unlike most other podcasts, they make the predictions fun by presenting them in the form of fantasy-sports-style drafts. It is a great tech podcast. I cannot believe I have listened to 400 of them already!</p>\n",
+				"content_text": "The best podcast episode I listened to today was the [400th episode of *Upgrade*](https://www.youtube.com/watch?v=2pTssBcIsz8):\n\n> It's episode 400! We evaluate the forward-looking predictions we made back in episode 300, and then draft stories we'll be talking about over the next hundred episodes! Also, an Apple TV+ movie won Best Picture and we round up an awful lot of Apple rumors.\n\n*Upgrade* is one of my favorite tech podcasts. Hosts Make Hurley and Jason Snell have a great rapport, and mostly talk about Apple and streaming TV services, which are beats that I enjoy learning and speculating about. Like most podcasts that track Apple, they they make predictions about product announcements before they happen. Unlike most other podcasts, they make the predictions fun by presenting them in the form of fantasy-sports-style drafts. It is a great tech podcast. I cannot believe I have listened to 400 of them already!\n\n",
+				"date_published": "2022-03-28T22:03:36-04:00",
+				"url": "https://micro.mjdescy.me/2022/03/28/draft-of-the.html",
+				"tags": ["Podcasts"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/03/28/rick-beato-on.html",
+				"title": "📺 Rick Beato on YouTube",
+				"content_html": "<p>One thing I have gotten into lately is watching videos on YouTube in which musicians talk about music. One channel/host I like is <a href=\"https://www.youtube.com/c/RickBeato\">Rick Beato</a>. He does everything from break down <a href=\"https://www.youtube.com/watch?v=ZnRxTW8GxT8\">the music theory behind certain pop songs</a>, to <a href=\"https://www.youtube.com/watch?v=efRQh2vspVc&amp;t=962s\">live interviews</a>, to simply gushing about <a href=\"https://www.youtube.com/watch?v=2pTssBcIsz8\">great performances and great audio production.</a> What makes his videos enjoyable is his infectious enthusiasm for all kinds of music, and his deep respect for artists, engineers, and producers.</p>\n",
+				"content_text": "One thing I have gotten into lately is watching videos on YouTube in which musicians talk about music. One channel/host I like is [Rick Beato](https://www.youtube.com/c/RickBeato). He does everything from break down [the music theory behind certain pop songs](https://www.youtube.com/watch?v=ZnRxTW8GxT8), to [live interviews](https://www.youtube.com/watch?v=efRQh2vspVc&t=962s), to simply gushing about [great performances and great audio production.](https://www.youtube.com/watch?v=2pTssBcIsz8) What makes his videos enjoyable is his infectious enthusiasm for all kinds of music, and his deep respect for artists, engineers, and producers.\n\n",
+				"date_published": "2022-03-28T21:54:18-04:00",
+				"url": "https://micro.mjdescy.me/2022/03/28/rick-beato-on.html",
+				"tags": ["TV"]
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2022/03/28/will-smith-hits.html",
 				"title": "Will Smith hits Chris Rock over joke about Jada Pinkett Smith at Oscars",
 				"content_html": "<p>I’m super glad my wife and I didn’t bother to watch <a href=\"https://www.theguardian.com/film/2022/mar/27/will-smith-punch-chris-rock-wife-joke-gi-jane-video-oscars\">this nonsense</a> last night. 🙄</p>\n",
@@ -39,7 +120,8 @@
 				"content_html": "<p>The best podcast episode I listened to today was <a href=\"https://overcast.fm/+LsGPupHY4\">the unexpected return of an old favorite: <em>Tim Goodman’s TV Talk Machine</em></a>. The show ended in 2020. I never unsubscribed, and was surprised this week to find new episodes waiting for me. I would not have noticed them if there hadn’t been a redesign of Overcast, my podcast player, for me to look at this week.</p>\n<blockquote>\n<p>It’s been 612 pandemic-fueled days. But we’ve taken the tarp off the TV Talk Machine, replaced a few parts, and are ready to kick it into gear.</p>\n<p>Tim spent the last two years writing TV scripts! He’s going to keep doing that, and write a book, and also has launched a newsletter on Substack so he can write about television again. And… did we mention the TV Talk Machine is back, too? It’s true!</p>\n<p>In this episode Tim explains where he’s been, where he’s going, and the origin of his new project, which launches today! Also Jason raves about “Station Eleven” and believe it or not, there’s a letter from a listener!</p>\n</blockquote>\n<p>Tim Goodman was a TV critic who had clearly burned out by early 2020. He and co-host Jason Snell ended the podcast shortly after Goodman quit his TV critic job and started a secret (at the time) TV development deal. What I learned from this podcast back then is that it must be exhausting to be a TV critic, because it is impossible to keep up with all the TV shows and TV episodes coming out all the time, and because you have to watch shows you don’t even like sometimes in order to write about them or to be culturally current. In general, I figured that he had watched too much TV and got sick of it. This episode confirmed that I was right.</p>\n<p>In the past I learned about a bunch of great TV shows from this podcast. That isn’t why it was fun to listen to, though. The subject matter is usually very light, and Goodman and Snell chat like old friends.</p>\n",
 				"content_text": "The best podcast episode I listened to today was [the unexpected return of an old favorite: *Tim Goodman’s TV Talk Machine*](https://overcast.fm/+LsGPupHY4). The show ended in 2020. I never unsubscribed, and was surprised this week to find new episodes waiting for me. I would not have noticed them if there hadn’t been a redesign of Overcast, my podcast player, for me to look at this week. \n\n> It’s been 612 pandemic-fueled days. But we’ve taken the tarp off the TV Talk Machine, replaced a few parts, and are ready to kick it into gear.\n> \n> Tim spent the last two years writing TV scripts! He’s going to keep doing that, and write a book, and also has launched a newsletter on Substack so he can write about television again. And… did we mention the TV Talk Machine is back, too? It’s true!\n> \n> In this episode Tim explains where he’s been, where he’s going, and the origin of his new project, which launches today! Also Jason raves about “Station Eleven” and believe it or not, there’s a letter from a listener!\n\nTim Goodman was a TV critic who had clearly burned out by early 2020. He and co-host Jason Snell ended the podcast shortly after Goodman quit his TV critic job and started a secret (at the time) TV development deal. What I learned from this podcast back then is that it must be exhausting to be a TV critic, because it is impossible to keep up with all the TV shows and TV episodes coming out all the time, and because you have to watch shows you don’t even like sometimes in order to write about them or to be culturally current. In general, I figured that he had watched too much TV and got sick of it. This episode confirmed that I was right.\n\nIn the past I learned about a bunch of great TV shows from this podcast. That isn’t why it was fun to listen to, though. The subject matter is usually very light, and Goodman and Snell chat like old friends.\n\n",
 				"date_published": "2022-03-27T21:10:31-04:00",
-				"url": "https://micro.mjdescy.me/2022/03/27/tims-back-on.html"
+				"url": "https://micro.mjdescy.me/2022/03/27/tims-back-on.html",
+				"tags": ["Podcasts"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2022/03/27/i-learned-today.html",
@@ -128,7 +210,8 @@
 				"content_html": "<p><a href=\"https://plaintext-productivity.net\">One of my old websites</a> is #2 on <a href=\"https://news.ycombinator.com/item?id=30745524\">Hacker News</a> right now.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "[One of my old websites](https://plaintext-productivity.net) is #2 on [Hacker News](https://news.ycombinator.com/item?id=30745524) right now.\n\n<img src=\"https://micro.mjdescy.me/uploads/2022/bbc0780b23.png\" width=\"600\" height=\"467\" alt=\"\" />\n",
 				"date_published": "2022-03-20T15:54:39-04:00",
-				"url": "https://micro.mjdescy.me/2022/03/20/one-of-my.html"
+				"url": "https://micro.mjdescy.me/2022/03/20/one-of-my.html",
+				"tags": ["Journal"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2022/03/18/a-groggy-senate.html",
@@ -136,7 +219,8 @@
 				"content_html": "<p>Luke Broadwater and Amelia Nierenberg report in <em><a href=\"https://www.nytimes.com/2022/03/15/us/politics/daylight-saving-time-senate.html\">The New York Times</a></em>:</p>\n<blockquote>\n<p>After losing an hour of sleep over the weekend, members of the United States Senate returned to the Capitol this week a bit groggy and in a mood to put an end to all this frustrating clock-changing.</p>\n<p>So on Tuesday, with almost no warning and no debate, the Senate unanimously passed legislation to do away with the biannual springing forward and falling back that most Americans have come to despise, in favor of making daylight saving time permanent. The bill’s fate in the House was not immediately clear, but if the legislation were to pass there and be signed by President Biden, it would take effect in November 2023.</p>\n</blockquote>\n<p>I am trying not to get my hopes up, but I would love it if we stopped changing the clocks twice each year.</p>\n<p>I never really cared about it until I had kids. I learned the hard way that messing with their sleep schedule makes kids crazy, and the effect can last for weeks. Now changing the clicks is a twice-yearly curse.</p>\n<p>I would prefer Daylight Saving Time year-round. Having sunlight in the early evening is of far greater value to me than having the sun rise earlier.</p>\n",
 				"content_text": "Luke Broadwater and Amelia Nierenberg report in *[The New York Times](https://www.nytimes.com/2022/03/15/us/politics/daylight-saving-time-senate.html)*:\n\n> After losing an hour of sleep over the weekend, members of the United States Senate returned to the Capitol this week a bit groggy and in a mood to put an end to all this frustrating clock-changing.\n> \n> So on Tuesday, with almost no warning and no debate, the Senate unanimously passed legislation to do away with the biannual springing forward and falling back that most Americans have come to despise, in favor of making daylight saving time permanent. The bill’s fate in the House was not immediately clear, but if the legislation were to pass there and be signed by President Biden, it would take effect in November 2023.\n\nI am trying not to get my hopes up, but I would love it if we stopped changing the clocks twice each year. \n\nI never really cared about it until I had kids. I learned the hard way that messing with their sleep schedule makes kids crazy, and the effect can last for weeks. Now changing the clicks is a twice-yearly curse.\n\nI would prefer Daylight Saving Time year-round. Having sunlight in the early evening is of far greater value to me than having the sun rise earlier.\n\n",
 				"date_published": "2022-03-18T21:19:01-04:00",
-				"url": "https://micro.mjdescy.me/2022/03/18/a-groggy-senate.html"
+				"url": "https://micro.mjdescy.me/2022/03/18/a-groggy-senate.html",
+				"tags": ["News"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2022/03/17/im-watching-the.html",
@@ -216,7 +300,8 @@
 				"content_html": "<p>Judging by the weather—wind, cold, snow, sleet, hail, and rain—it is the last gasp of winter here in New Jersey. All I have wanted to do is sit under a blanket and watch TV.</p>\n",
 				"content_text": "Judging by the weather—wind, cold, snow, sleet, hail, and rain—it is the last gasp of winter here in New Jersey. All I have wanted to do is sit under a blanket and watch TV. \n\n",
 				"date_published": "2022-03-12T18:14:15-04:00",
-				"url": "https://micro.mjdescy.me/2022/03/12/judging-by-the.html"
+				"url": "https://micro.mjdescy.me/2022/03/12/judging-by-the.html",
+				"tags": ["Journal"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2022/03/10/chesscom-isnt-just.html",
@@ -1457,7 +1542,8 @@
 				"content_html": "<p>When I cut somebody off in an online meeting, I now apologize to the person I spoke over and say “I’m just excited” about whatever it is we are talking about. It may be a lie (because how exciting is my job, anyway?) but I think it is usually appreciated. After I do this, I shut up and listen.</p>\n<p>I almost never mean to cut people off in meetings, by the way. I find it hard, especially during conference calls or WebEx meetings, to know who should talk when a question is thrown out to all attendees at once. Sometimes I start talking at the same time someone else does, and I think we both feel embarrassed about it.</p>\n",
 				"content_text": "When I cut somebody off in an online meeting, I now apologize to the person I spoke over and say “I’m just excited” about whatever it is we are talking about. It may be a lie (because how exciting is my job, anyway?) but I think it is usually appreciated. After I do this, I shut up and listen.\n\nI almost never mean to cut people off in meetings, by the way. I find it hard, especially during conference calls or WebEx meetings, to know who should talk when a question is thrown out to all attendees at once. Sometimes I start talking at the same time someone else does, and I think we both feel embarrassed about it.\n\n",
 				"date_published": "2021-11-14T22:55:03-04:00",
-				"url": "https://micro.mjdescy.me/2021/11/14/how-i-try.html"
+				"url": "https://micro.mjdescy.me/2021/11/14/how-i-try.html",
+				"tags": ["Productivity"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/11/14/why-do-americans.html",
@@ -1465,7 +1551,8 @@
 				"content_html": "<p>Two reasons:</p>\n<ol>\n<li><strong>Culture</strong>. The Puritan work ethic is one of the foundations of our culture, and has been since colonial times. Work is righteous and cleansing to the soul. Of course this is nonsensical, but it is baked into the culture. People are brought up hearing that our ancestors pulled themselves up by their bootstraps (itself a nonsensical idea if you think about it), and that when times get tough we should do the same rather than reach out to others for assistance. This idea can be termed rugged individualism.</li>\n<li><strong>Economic uncertainty</strong>. The US have a poor social safety net, and about half of all voters consistently vote to strip more and more of it away. I have it pretty good, economically speaking, but I feel like I am only a few months away from losing my house if my wife or I lose our jobs and can’t replace it incomes and our health insurance right away. Also, income inequality is such that there is always someone vastly richer than you to compare yourself to. That drives a lot of people to work harder, even though a lot of the very rich inherited their wealth (seed money at least) and/or the connections needed to grow it.</li>\n</ol>\n",
 				"content_text": "Two reasons:\n\n1. **Culture**. The Puritan work ethic is one of the foundations of our culture, and has been since colonial times. Work is righteous and cleansing to the soul. Of course this is nonsensical, but it is baked into the culture. People are brought up hearing that our ancestors pulled themselves up by their bootstraps (itself a nonsensical idea if you think about it), and that when times get tough we should do the same rather than reach out to others for assistance. This idea can be termed rugged individualism.\n2. **Economic uncertainty**. The US have a poor social safety net, and about half of all voters consistently vote to strip more and more of it away. I have it pretty good, economically speaking, but I feel like I am only a few months away from losing my house if my wife or I lose our jobs and can’t replace it incomes and our health insurance right away. Also, income inequality is such that there is always someone vastly richer than you to compare yourself to. That drives a lot of people to work harder, even though a lot of the very rich inherited their wealth (seed money at least) and/or the connections needed to grow it.\n\n",
 				"date_published": "2021-11-14T12:49:54-04:00",
-				"url": "https://micro.mjdescy.me/2021/11/14/why-do-americans.html"
+				"url": "https://micro.mjdescy.me/2021/11/14/why-do-americans.html",
+				"tags": ["Productivity","Thoughts"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/11/13/211038.html",
@@ -1473,7 +1560,8 @@
 				"content_html": "<p>My Instant Pot beef stew came out very well. I didn’t use a recipe; otherwise I would share it. I simply dumped all the ingredients in raw, cooked it under high pressure for 40 minutes, let the pressure naturally, and let it sit on the warm setting for 40 more minutes. It was nearly perfect.</p>\n",
 				"content_text": "My Instant Pot beef stew came out very well. I didn’t use a recipe; otherwise I would share it. I simply dumped all the ingredients in raw, cooked it under high pressure for 40 minutes, let the pressure naturally, and let it sit on the warm setting for 40 more minutes. It was nearly perfect. \n\n",
 				"date_published": "2021-11-13T21:10:38-04:00",
-				"url": "https://micro.mjdescy.me/2021/11/13/211038.html"
+				"url": "https://micro.mjdescy.me/2021/11/13/211038.html",
+				"tags": ["Journal"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/11/13/instant-pot-beef.html",
@@ -1481,7 +1569,8 @@
 				"content_html": "<p>I&rsquo;m attempting to cook a beef stew in the Instant Pot right now. I&rsquo;m not sure if it will come out right. I don&rsquo;t make stew that often, and when I do I usually use a slow cooker or (gasp!) my stove and oven. If it works, though, it could be a game changer for me. I both need to use the Instant Pot more often, to justify its place on my counter, and I need more convenience in my approach to cooking big meals.</p>\n",
 				"content_text": "I'm attempting to cook a beef stew in the Instant Pot right now. I'm not sure if it will come out right. I don't make stew that often, and when I do I usually use a slow cooker or (gasp!) my stove and oven. If it works, though, it could be a game changer for me. I both need to use the Instant Pot more often, to justify its place on my counter, and I need more convenience in my approach to cooking big meals.\n\n",
 				"date_published": "2021-11-13T18:32:50-04:00",
-				"url": "https://micro.mjdescy.me/2021/11/13/instant-pot-beef.html"
+				"url": "https://micro.mjdescy.me/2021/11/13/instant-pot-beef.html",
+				"tags": ["Journal"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/11/13/red-taylors-version.html",
@@ -2308,7 +2397,8 @@
 				"content_html": "<p>According to the superintendent of schools, some parents in my town are sending their children to school wearing “fake” masks that superficially satisfy mask wearing requirements while being completely ineffectual. These masks do not protect the wearer or anybody else from COVID or any other type of disease. They are specifically designed to be as flimsy as possible; some are even see-through. It’s a product for people who want to be assholes, pretend that COVID is not real, and thumb their noses at responsible people. Apparently it is also a product for parents who wish to teach their kids to be assholes, too.</p>\n",
 				"content_text": "According to the superintendent of schools, some parents in my town are sending their children to school wearing “fake” masks that superficially satisfy mask wearing requirements while being completely ineffectual. These masks do not protect the wearer or anybody else from COVID or any other type of disease. They are specifically designed to be as flimsy as possible; some are even see-through. It’s a product for people who want to be assholes, pretend that COVID is not real, and thumb their noses at responsible people. Apparently it is also a product for parents who wish to teach their kids to be assholes, too.\n\n",
 				"date_published": "2021-09-14T20:58:42-04:00",
-				"url": "https://micro.mjdescy.me/2021/09/14/i-learned-yet.html"
+				"url": "https://micro.mjdescy.me/2021/09/14/i-learned-yet.html",
+				"tags": ["News"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/09/13/what-i-am.html",
@@ -2316,7 +2406,8 @@
 				"content_html": "<p>My daughter has been in school three days so far this school year. Every school day, our entire community has received an email from the superintendent of schools stating that there are new COVID cases affecting students and staff at all, or almost all, of the schools in the district.</p>\n<p>This is from today’s email:</p>\n<blockquote>\n<p>As stated previously, I realize that our school community has varying viewpoints on COVID-19 and specifically on mask protocols. We are going to continue to make decisions in the best interest of safety for our students and staff. <em>In only three days of school</em>, we already have had 21 positive student cases and 10 positive staff cases. It is essential that we stay vigilant and monitor for signs and symptoms of COVID-19.</p>\n</blockquote>\n<p>I live in a mid-sized town, and each school is pretty small, and most of the elementary schools have no air conditioning. The kids are being allowed to take off masks for “excessive heat” reasons, due to a loophole in our governor’s COVID masking mandate and due to incredible pressure by a vocal faction of parents. My wife and I believe this attitude about masks is cavalier and dangerous. We hate the idea of sending our daughter into this environment with a vaccine, and also hate the idea of pulling her out of more school because being away so long already has not been good for her mental health. All of us are frustrated and exhausted by all of this, and there does not seem to be an end to the pandemic in sight.</p>\n",
 				"content_text": "My daughter has been in school three days so far this school year. Every school day, our entire community has received an email from the superintendent of schools stating that there are new COVID cases affecting students and staff at all, or almost all, of the schools in the district.\n\nThis is from today’s email:\n\n> As stated previously, I realize that our school community has varying viewpoints on COVID-19 and specifically on mask protocols. We are going to continue to make decisions in the best interest of safety for our students and staff. *In only three days of school*, we already have had 21 positive student cases and 10 positive staff cases. It is essential that we stay vigilant and monitor for signs and symptoms of COVID-19. \n\nI live in a mid-sized town, and each school is pretty small, and most of the elementary schools have no air conditioning. The kids are being allowed to take off masks for “excessive heat” reasons, due to a loophole in our governor’s COVID masking mandate and due to incredible pressure by a vocal faction of parents. My wife and I believe this attitude about masks is cavalier and dangerous. We hate the idea of sending our daughter into this environment with a vaccine, and also hate the idea of pulling her out of more school because being away so long already has not been good for her mental health. All of us are frustrated and exhausted by all of this, and there does not seem to be an end to the pandemic in sight.\n\n",
 				"date_published": "2021-09-13T23:42:19-04:00",
-				"url": "https://micro.mjdescy.me/2021/09/13/what-i-am.html"
+				"url": "https://micro.mjdescy.me/2021/09/13/what-i-am.html",
+				"tags": ["News"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/09/13/i-need-laundry.html",
@@ -2324,7 +2415,8 @@
 				"content_html": "<p>I can’t clean my office because I’m too busy to do anything with it all day, even though I am working in there, and at the end of the day I don’t want to be in there anymore. I have been thinking that I should break up the mess into chunks, box part of it each day, and organize the box while I watch TV. The problem is, I don’t really watch TV much anymore. When I do, it’s usually “good” TV that I have to pay attention to. I no longer have mindless TV shows that are good to kind-of pay attention to while folding laundry. When I was younger and lived alone, I always had sitcoms and sports on that I didn’t really care about, but were good distractions while I was puttering with something or doing light choses. That took up a huge part of my evenings. Now that I have a family, all of that is gone—mostly for the better—but I think I need a little of it back in my life sometimes.</p>\n",
 				"content_text": "I can’t clean my office because I’m too busy to do anything with it all day, even though I am working in there, and at the end of the day I don’t want to be in there anymore. I have been thinking that I should break up the mess into chunks, box part of it each day, and organize the box while I watch TV. The problem is, I don’t really watch TV much anymore. When I do, it’s usually “good” TV that I have to pay attention to. I no longer have mindless TV shows that are good to kind-of pay attention to while folding laundry. When I was younger and lived alone, I always had sitcoms and sports on that I didn’t really care about, but were good distractions while I was puttering with something or doing light choses. That took up a huge part of my evenings. Now that I have a family, all of that is gone—mostly for the better—but I think I need a little of it back in my life sometimes.\n\n",
 				"date_published": "2021-09-13T21:42:59-04:00",
-				"url": "https://micro.mjdescy.me/2021/09/13/i-need-laundry.html"
+				"url": "https://micro.mjdescy.me/2021/09/13/i-need-laundry.html",
+				"tags": ["Thoughts","TV"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/09/12/pasta-party.html",
@@ -2332,7 +2424,8 @@
 				"content_html": "<p>On Saturday, my nine-year-old daughter hosted a pasta party for the family that she had been planning for weeks. She created invitations that listed a schedule full of activities. She also created a menu of four different types of pasta (spaghetti, ziti, farfalle, and elbows), homemade meatballs, homemade bread, and for dessert, chocolate pudding and homemade shortbread. My wife, my mother-in-law, and I cooked. During the party, my daughter led us through telescope painting and decorating (the telescopes were paper towel rolls) and a pasta parade (we walked around the block while my kids held toy pots). After dinner, she gave each of us a goodie bag containing a thank you note and a ten-page short story that she wrote about making a new friend. She worked so hard on everything, it brought tears to my eyes. I am very proud of her.</p>\n",
 				"content_text": "On Saturday, my nine-year-old daughter hosted a pasta party for the family that she had been planning for weeks. She created invitations that listed a schedule full of activities. She also created a menu of four different types of pasta (spaghetti, ziti, farfalle, and elbows), homemade meatballs, homemade bread, and for dessert, chocolate pudding and homemade shortbread. My wife, my mother-in-law, and I cooked. During the party, my daughter led us through telescope painting and decorating (the telescopes were paper towel rolls) and a pasta parade (we walked around the block while my kids held toy pots). After dinner, she gave each of us a goodie bag containing a thank you note and a ten-page short story that she wrote about making a new friend. She worked so hard on everything, it brought tears to my eyes. I am very proud of her.\n\n",
 				"date_published": "2021-09-12T21:54:00-04:00",
-				"url": "https://micro.mjdescy.me/2021/09/12/pasta-party.html"
+				"url": "https://micro.mjdescy.me/2021/09/12/pasta-party.html",
+				"tags": ["Journal"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/09/12/a-good-skill.html",
@@ -2340,7 +2433,8 @@
 				"content_html": "<p>I got my first job when I was sixteen. I was a dishwasher at a restaurant for about half of summer. Soon after I started, my mom wanted me to tell my grandfather about my new job. She was proud of me for getting a job, even though it was a job with low status and poor pay. My grandfather had worked as a short order cook and a baker for most of his life, so he was well-versed in working in a kitchen.</p>\n<p>When I told him about the dishwashing job, what he said back to me was really strange. He said, “That’s great. Washing dishes is a good skill to know in case society collapses and machines won’t work anymore.” It was out of character for him to say something so cynical, and it pretty much stopped the conversation in its tracks.</p>\n<p>Now it is over 25 years later, and I wonder, as I listen to podcasts dissecting news, technology, and podcasts as I wash dishes in my house four times a day: Is society going to collapse? Is climate change the thing that does us all in? Are we, as a species, extinguishing all of the natural resources we need to survive? How long is it going to take for things to start falling apart because of it? Maybe not as long as I would like it to be.</p>\n<p>If that is how society collapses, perhaps machines will be the only things left that will be able to wash dishes. In that case, my dishwashing skills will not be useful after all.</p>\n",
 				"content_text": "I got my first job when I was sixteen. I was a dishwasher at a restaurant for about half of summer. Soon after I started, my mom wanted me to tell my grandfather about my new job. She was proud of me for getting a job, even though it was a job with low status and poor pay. My grandfather had worked as a short order cook and a baker for most of his life, so he was well-versed in working in a kitchen.\n\nWhen I told him about the dishwashing job, what he said back to me was really strange. He said, “That’s great. Washing dishes is a good skill to know in case society collapses and machines won’t work anymore.” It was out of character for him to say something so cynical, and it pretty much stopped the conversation in its tracks.\n\nNow it is over 25 years later, and I wonder, as I listen to podcasts dissecting news, technology, and podcasts as I wash dishes in my house four times a day: Is society going to collapse? Is climate change the thing that does us all in? Are we, as a species, extinguishing all of the natural resources we need to survive? How long is it going to take for things to start falling apart because of it? Maybe not as long as I would like it to be.\n\nIf that is how society collapses, perhaps machines will be the only things left that will be able to wash dishes. In that case, my dishwashing skills will not be useful after all.\n\n",
 				"date_published": "2021-09-12T20:57:44-04:00",
-				"url": "https://micro.mjdescy.me/2021/09/12/a-good-skill.html"
+				"url": "https://micro.mjdescy.me/2021/09/12/a-good-skill.html",
+				"tags": ["Thoughts"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/09/11/chording.html",
@@ -4265,7 +4359,8 @@
 				"content_html": "<p>Today I discovered that there is an open-source community creating a modern GUI file manager for Windows. It’s called <a href=\"https://github.com/files-community/Files\">Files</a> and it is OK and seems to be heading in the right direction. It is a shame that Microsoft essentially abandoned feature development for their file explorer many years ago.</p>\n",
 				"content_text": "Today I discovered that there is an open-source community creating a modern GUI file manager for Windows. It’s called [Files](https://github.com/files-community/Files) and it is OK and seems to be heading in the right direction. It is a shame that Microsoft essentially abandoned feature development for their file explorer many years ago.\n",
 				"date_published": "2021-04-05T16:58:41-04:00",
-				"url": "https://micro.mjdescy.me/2021/04/05/today-i-discovered.html"
+				"url": "https://micro.mjdescy.me/2021/04/05/today-i-discovered.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/04/04/we-are-getting.html",
@@ -4273,7 +4368,8 @@
 				"content_html": "<p>We are getting ready to go to the zoo today. It will be our first post-pandemic outing as a family that isn’t to a local park. I’m looking forward to it, and think it will be safe for us because we will be outside pretty much the entire time.</p>\n",
 				"content_text": "We are getting ready to go to the zoo today. It will be our first post-pandemic outing as a family that isn’t to a local park. I’m looking forward to it, and think it will be safe for us because we will be outside pretty much the entire time.\n",
 				"date_published": "2021-04-04T11:24:20-04:00",
-				"url": "https://micro.mjdescy.me/2021/04/04/we-are-getting.html"
+				"url": "https://micro.mjdescy.me/2021/04/04/we-are-getting.html",
+				"tags": ["Journal"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/04/02/today-i-made.html",
@@ -4281,7 +4377,8 @@
 				"content_html": "<p>Today I made the mistake to look up someone I knew while I was in high school. I was reading an article about illegal drugs, and thought about a high school friend’s younger brother who ran into some drug problems about 20 years ago. Sadly, I discovered that he died last year. I can only conjecture, but it seems, based on what else happened to him over the past few years, that drug problems led to his premature death. Learning about what happened to him made me very sad.</p>\n",
 				"content_text": "Today I made the mistake to look up someone I knew while I was in high school. I was reading an article about illegal drugs, and thought about a high school friend’s younger brother who ran into some drug problems about 20 years ago. Sadly, I discovered that he died last year. I can only conjecture, but it seems, based on what else happened to him over the past few years, that drug problems led to his premature death. Learning about what happened to him made me very sad.\n\n",
 				"date_published": "2021-04-02T17:58:04-04:00",
-				"url": "https://micro.mjdescy.me/2021/04/02/today-i-made.html"
+				"url": "https://micro.mjdescy.me/2021/04/02/today-i-made.html",
+				"tags": ["Journal"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/04/02/apple-arcade-just.html",
@@ -4289,7 +4386,8 @@
 				"content_html": "<p><a href=\"https://www.theverge.com/2021/4/2/22362388/apple-arcade-game-subscription-update-monument-valley-threes-iphone-ipad\">As reported by Andrew Webster in <em>The Verge</em></a>:</p>\n<blockquote>\n<p>Apple’s gaming subscription service just got a massive influx of new titles. The headliner is Fantasian — the latest release from the creator of Final Fantasy — which is joined by other titles like new versions of NBA 2K and The Oregon Trail, and World of Demons from PlatinumGames. As part of the update, the service is getting two new categories of games: Apple calls them “Timeless Classics” and “App Store Greats.”</p>\n</blockquote>\n<p>I literally just canceled my (second) Apple Arcade free trial twelve hours before this announcement. I just can’t seem to get into Apple Arcade at all. For the most part, the reason is that I find my iPhone 12 mini to be too small to be a compelling gaming device. Secondarily, I don’t want to get into a complex, involved game on my iPhone or iPad. I prefer my mobile games to be simple things that can be jumped into and out of, more like the “Timeless Classics” that Apple is now adding to Apple Arcade. It’s too bad for Apple Arcade that I already own almost all of those games.</p>\n",
 				"content_text": "[As reported by Andrew Webster in _The Verge_](https://www.theverge.com/2021/4/2/22362388/apple-arcade-game-subscription-update-monument-valley-threes-iphone-ipad):\n\n> Apple’s gaming subscription service just got a massive influx of new titles. The headliner is Fantasian — the latest release from the creator of Final Fantasy — which is joined by other titles like new versions of NBA 2K and The Oregon Trail, and World of Demons from PlatinumGames. As part of the update, the service is getting two new categories of games: Apple calls them “Timeless Classics” and “App Store Greats.”\n\nI literally just canceled my (second) Apple Arcade free trial twelve hours before this announcement. I just can’t seem to get into Apple Arcade at all. For the most part, the reason is that I find my iPhone 12 mini to be too small to be a compelling gaming device. Secondarily, I don’t want to get into a complex, involved game on my iPhone or iPad. I prefer my mobile games to be simple things that can be jumped into and out of, more like the “Timeless Classics” that Apple is now adding to Apple Arcade. It’s too bad for Apple Arcade that I already own almost all of those games.\n\n",
 				"date_published": "2021-04-02T14:45:49-04:00",
-				"url": "https://micro.mjdescy.me/2021/04/02/apple-arcade-just.html"
+				"url": "https://micro.mjdescy.me/2021/04/02/apple-arcade-just.html",
+				"tags": ["Tech","Apple"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/04/02/fully-vaccinated-people.html",
@@ -4297,7 +4395,8 @@
 				"content_html": "<p><a href=\"https://www.washingtonpost.com/health/2021/04/02/cdc-fully-vaccinated-may-travel/\">As reported by Lena H. Sun and Lori Aratani in <em>The Washington Post</em></a>:</p>\n<blockquote>\n<p>Federal health officials gave the green light Friday for fully vaccinated people to resume travel as an estimated 100 million Americans have had at least one dose of coronavirus vaccine, and evidence mounts of the shots’ effectiveness.</p>\n</blockquote>\n<p>That’s good news, but it doesn’t make me want to go out and travel by plane or train anytime soon.</p>\n<p>I am fully vaccinated, but my kids are not (because, of course, there is no approved vaccine for children yet), and that dramatically limits my desire to travel, eat in indoor restaurants, or do any indoor activities in public unless they are absolutely necessary. I understand that it is probably quite safe for me to do some of these activities (provided I wear a mask, etc.), but it seems to me that doing so would still be (even more) uncomfortable and unpleasant (than it was before).</p>\n<p>My wife and I have been talking every day about what is OK or not OK for us to do now that we are vaccinated. Despite both being vaccinated, we are still not comfortable dining in restaurants or staying in hotels (don’t even talk about flying!), but we have realized that we are way behind our friends and acquaintances in terms of risk taking. We remain concerned about our children being explored to the virus, and about the rising and “extremely high” (per <em>The New York Times</em>) COVID-19 risk level our county is currently at. It just doesn’t make sense for us to change our behavior that much yet—at least not until the local COVID infection numbers go down quite a bit, which won’t happen until after a lot more people get vaccinated.</p>\n",
 				"content_text": "[As reported by Lena H. Sun and Lori Aratani in _The Washington Post_](https://www.washingtonpost.com/health/2021/04/02/cdc-fully-vaccinated-may-travel/):\n\n> Federal health officials gave the green light Friday for fully vaccinated people to resume travel as an estimated 100 million Americans have had at least one dose of coronavirus vaccine, and evidence mounts of the shots’ effectiveness.\n\nThat’s good news, but it doesn’t make me want to go out and travel by plane or train anytime soon.\n\nI am fully vaccinated, but my kids are not (because, of course, there is no approved vaccine for children yet), and that dramatically limits my desire to travel, eat in indoor restaurants, or do any indoor activities in public unless they are absolutely necessary. I understand that it is probably quite safe for me to do some of these activities (provided I wear a mask, etc.), but it seems to me that doing so would still be (even more) uncomfortable and unpleasant (than it was before). \n\nMy wife and I have been talking every day about what is OK or not OK for us to do now that we are vaccinated. Despite both being vaccinated, we are still not comfortable dining in restaurants or staying in hotels (don’t even talk about flying!), but we have realized that we are way behind our friends and acquaintances in terms of risk taking. We remain concerned about our children being explored to the virus, and about the rising and “extremely high” (per _The New York Times_) COVID-19 risk level our county is currently at. It just doesn’t make sense for us to change our behavior that much yet—at least not until the local COVID infection numbers go down quite a bit, which won’t happen until after a lot more people get vaccinated.\n\n",
 				"date_published": "2021-04-02T13:51:55-04:00",
-				"url": "https://micro.mjdescy.me/2021/04/02/fully-vaccinated-people.html"
+				"url": "https://micro.mjdescy.me/2021/04/02/fully-vaccinated-people.html",
+				"tags": ["News"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/04/02/for-the-first.html",
@@ -4305,7 +4404,8 @@
 				"content_html": "<p>⚾️ For the first time in over a year I have a baseball game on in the background as I work. I hope to get by the with MLB “free game of the day” offering this year, rather than paying to subscribe to the season package. There was no free game for the season opener yesterday, though, so I’m watching a spring training game.</p>\n",
 				"content_text": "⚾️ For the first time in over a year I have a baseball game on in the background as I work. I hope to get by the with MLB “free game of the day” offering this year, rather than paying to subscribe to the season package. There was no free game for the season opener yesterday, though, so I’m watching a spring training game.\n\n",
 				"date_published": "2021-04-02T11:11:09-04:00",
-				"url": "https://micro.mjdescy.me/2021/04/02/for-the-first.html"
+				"url": "https://micro.mjdescy.me/2021/04/02/for-the-first.html",
+				"tags": ["Journal"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/04/01/today-i-was.html",
@@ -4664,7 +4764,8 @@
 				"content_html": "<p><a href=\"https://aeternathegame.com\">This game</a> <a href=\"https://www.aeternathegame.com/presskit/#trailers\">looks 100% like a <em>Hollow Knight</em> rip-off</a>, but maybe it will be the best <em>Hollow Knight</em> rip-off there is. It seems to marry <em>Hollow Knight</em> environments, character movement, and platforming challenges to <em>Castlevania</em> character- and background design. As long as it doesn&rsquo;t take in the <em>Castlevania</em>-style grinding, it could be very fun.</p>\n<p>The more Metroidvania games I play, the more I think that <em>Hollow Knight</em> is the best one ever. Platforming and combat are fast and fluid, it nails the difficulty curve,  it doesn&rsquo;t require grinding (unlike the Castlevania games), it allows for slow or fast play, and so on. I could go on and on about it.</p>\n",
 				"content_text": "\n[This game](https://aeternathegame.com) [looks 100% like a _Hollow Knight_ rip-off](https://www.aeternathegame.com/presskit/#trailers), but maybe it will be the best _Hollow Knight_ rip-off there is. It seems to marry _Hollow Knight_ environments, character movement, and platforming challenges to _Castlevania_ character- and background design. As long as it doesn't take in the _Castlevania_-style grinding, it could be very fun.\n\nThe more Metroidvania games I play, the more I think that _Hollow Knight_ is the best one ever. Platforming and combat are fast and fluid, it nails the difficulty curve,  it doesn't require grinding (unlike the Castlevania games), it allows for slow or fast play, and so on. I could go on and on about it. \n",
 				"date_published": "2021-03-07T19:55:13-04:00",
-				"url": "https://micro.mjdescy.me/2021/03/07/aeterna-noctis.html"
+				"url": "https://micro.mjdescy.me/2021/03/07/aeterna-noctis.html",
+				"tags": ["Gaming"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/03/06/i-watched-frozen.html",
@@ -4744,7 +4845,8 @@
 				"content_html": "<p>The first time I heard the term “<a href=\"https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain\">NFT</a>” was yesterday, and I’m already sick of it.</p>\n",
 				"content_text": "The first time I heard the term “[NFT](https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain)” was yesterday, and I’m already sick of it.\n",
 				"date_published": "2021-03-04T15:51:53-04:00",
-				"url": "https://micro.mjdescy.me/2021/03/04/the-first-time.html"
+				"url": "https://micro.mjdescy.me/2021/03/04/the-first-time.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/03/03/i-am-grateful.html",
@@ -4784,7 +4886,8 @@
 				"content_html": "<p>I just looked at the latest release notes (see picture). So <em>that’s</em> why I couldn’t save my files to OneDrive this week. 🤦‍♂️ I figured out a workaround, but was bamboozled for days why something that once worked now did not. OneDrive’s iOS Files integration was always pretty unreliable. Maybe after this feature pull Microsoft will finally fix it.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I just looked at the latest release notes (see picture). So _that’s_ why I couldn’t save my files to OneDrive this week. 🤦‍♂️ I figured out a workaround, but was bamboozled for days why something that once worked now did not. OneDrive’s iOS Files integration was always pretty unreliable. Maybe after this feature pull Microsoft will finally fix it. \n\n<img src=\"https://micro.mjdescy.me/uploads/2021/19e7a1123e.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-27T13:02:33-04:00",
-				"url": "https://micro.mjdescy.me/2021/02/27/microsoft-onedrive-ios.html"
+				"url": "https://micro.mjdescy.me/2021/02/27/microsoft-onedrive-ios.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/02/26/having-tons-of.html",
@@ -5077,11 +5180,12 @@
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/01/29/little-voice.html",
-				"title": "Little Voice",
+				"title": "📺 Little Voice",
 				"content_html": "<p>My wife and I recently discovered the Apple TV+ show “<a href=\"https://tv.apple.com/us/show/little-voice/umc.cmc.4x932osv992wjjdq7ce12za2r\">Little Voice</a>” and very much enjoy it.</p>\n<p>It is different in pace and tone from other shows (like “Curb Your Enthusiasm”) that we have been watching lately. While there is a lot going on in each episode, the pace feels slow and thoughtful, as if the show is focused mainly on the growth of its characters and on illustrating (a version of) the New York City music scene. I would not recommend watching “Little Voice” for its main plot, because it appears to follow the well-worn path of “talented-but-unknown artist slowly becomes successful.” That said, there are a ton of great character moments throughout.</p>\n<p>The main draw of the show is the music, most of which are songs written by series co-creator Sara Bareilles. There is a lot of music performance in each episode. All these sections look great, sound great, and are integrated completely naturally into the story. However, they serve as the primary reason why the pace is slow. If you don’t like the music, then the show will not be for you.</p>\n<p>Overall, I think that “Little Voice” is under-rated. It didn’t blow up like “Ted Lasso” (which is, indeed, great) or “Central Park” (which is also great), but is my third-favorite Apple TV+ series thus far.</p>\n",
 				"content_text": "My wife and I recently discovered the Apple TV+ show “[Little Voice](https://tv.apple.com/us/show/little-voice/umc.cmc.4x932osv992wjjdq7ce12za2r)” and very much enjoy it.\n\nIt is different in pace and tone from other shows (like “Curb Your Enthusiasm”) that we have been watching lately. While there is a lot going on in each episode, the pace feels slow and thoughtful, as if the show is focused mainly on the growth of its characters and on illustrating (a version of) the New York City music scene. I would not recommend watching “Little Voice” for its main plot, because it appears to follow the well-worn path of “talented-but-unknown artist slowly becomes successful.” That said, there are a ton of great character moments throughout.\n\nThe main draw of the show is the music, most of which are songs written by series co-creator Sara Bareilles. There is a lot of music performance in each episode. All these sections look great, sound great, and are integrated completely naturally into the story. However, they serve as the primary reason why the pace is slow. If you don’t like the music, then the show will not be for you. \n\nOverall, I think that “Little Voice” is under-rated. It didn’t blow up like “Ted Lasso” (which is, indeed, great) or “Central Park” (which is also great), but is my third-favorite Apple TV+ series thus far.\n",
 				"date_published": "2021-01-29T11:14:42-04:00",
-				"url": "https://micro.mjdescy.me/2021/01/29/little-voice.html"
+				"url": "https://micro.mjdescy.me/2021/01/29/little-voice.html",
+				"tags": ["TV"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/01/28/i-have-been.html",
@@ -5402,7 +5506,8 @@
 				"content_html": "<p>I am working on a Scriptable script to publish to Micro.blog via iOS share sheets, so I don&rsquo;t have to rely on Drafts for that purpose forever. I am preparing it for publication on GitHub, and am making too many changes to its variable names right now in the process. 😅</p>\n",
 				"content_text": "I am working on a Scriptable script to publish to Micro.blog via iOS share sheets, so I don't have to rely on Drafts for that purpose forever. I am preparing it for publication on GitHub, and am making too many changes to its variable names right now in the process. 😅\n",
 				"date_published": "2021-01-06T00:17:12-04:00",
-				"url": "https://micro.mjdescy.me/2021/01/05/i-am-working.html"
+				"url": "https://micro.mjdescy.me/2021/01/05/i-am-working.html",
+				"tags": ["Coding"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2021/01/05/i-submitted-a.html",
@@ -5450,7 +5555,8 @@
 				"content_html": "<p><a href=\"https://www.cnbc.com/2021/01/04/chipotle-launches-cauliflower-rice-nationwide-as-consumers-cut-grains.html\">Chipotle launches cauliflower rice nationwide as consumers cut grains from their diets</a>. This is a good idea. Cauliflower rice can be very good, at least when it is not overcooked. Still, it probably won&rsquo;t get me to go back to Chipotle ever again. 😅</p>\n",
 				"content_text": "[Chipotle launches cauliflower rice nationwide as consumers cut grains from their diets](https://www.cnbc.com/2021/01/04/chipotle-launches-cauliflower-rice-nationwide-as-consumers-cut-grains.html). This is a good idea. Cauliflower rice can be very good, at least when it is not overcooked. Still, it probably won't get me to go back to Chipotle ever again. 😅\n",
 				"date_published": "2021-01-04T10:36:01-04:00",
-				"url": "https://micro.mjdescy.me/2021/01/04/chipotle-launches-cauliflower.html"
+				"url": "https://micro.mjdescy.me/2021/01/04/chipotle-launches-cauliflower.html",
+				"tags": ["News"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2020/12/30/making-pound-cake.html",
@@ -6000,9 +6106,10 @@
 				"id": "http://mjdescy.micro.blog/2020/11/18/the-rise-and.html",
 				"title": "The Rise and Fall of Getting Things Done",
 				"content_html": "<p>I very much enjoyed <a href=\"https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done\">Cal Newport&rsquo;s rumination on Getting Things Done</a> (GTD), and Merlyn Mann&rsquo;s contributions to personal productivity culture, in The New Yorker.</p>\n<p>Finding <a href=\"https://gettingthingsdone.com\">Getting Things Done</a>, through Merlyn Mann&rsquo;s <a href=\"http://www.43folders.com\">43 Folders</a>, was transformative for me. It supercharged my productivity, for a while at least, numerous times in my life.</p>\n<p>GTD techniques and processes have not fixed the root problems with knowledge work, which Newport points out in the article:</p>\n<blockquote>\n<p>In this context, the shortcomings of personal-productivity systems like G.T.D. become clear. They don’t directly address the fundamental problem: the insidiously haphazard way that work unfolds at the organizational level. They only help individuals cope with its effects. A highly optimized implementation of G.T.D. might have helped Mann organize the hundreds of tasks that arrived haphazardly in his in-box daily, but it could do nothing to reduce the quantity of these requests.</p>\n</blockquote>\n<p>We have a workaholic culture that puts a lot of pressure on the individual worker to be responsible for many, many things that are outside the worker&rsquo;s control. GTD is both a means of dealing with this pressure, and a personal methodology that prolongs one&rsquo;s exposure to all this pressure. It increases the number of balls you can keep in the air, but doesn&rsquo;t address the problem that others keep throwing more and more balls at you that they expect you to juggle.</p>\n",
-				"content_text": "\nI very much enjoyed [Cal Newport's rumination on Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) (GTD), and Merlyn Mann's contributions to personal productivity culture, in The New Yorker. \n\nFinding [Getting Things Done](https://gettingthingsdone.com), through Merlyn Mann's [43 Folders](http://www.43folders.com), was transformative for me. It supercharged my productivity, for a while at least, numerous times in my life.  \n\nGTD techniques and processes have not fixed the root problems with knowledge work, which Newport points out in the article:\n\n> In this context, the shortcomings of personal-productivity systems like G.T.D. become clear. They don’t directly address the fundamental problem: the insidiously haphazard way that work unfolds at the organizational level. They only help individuals cope with its effects. A highly optimized implementation of G.T.D. might have helped Mann organize the hundreds of tasks that arrived haphazardly in his in-box daily, but it could do nothing to reduce the quantity of these requests.\n\nWe have a workaholic culture that puts a lot of pressure on the individual worker to be responsible for many, many things that are outside the worker's control. GTD is both a means of dealing with this pressure, and a personal methodology that prolongs one's exposure to all this pressure. It increases the number of balls you can keep in the air, but doesn't address the problem that others keep throwing more and more balls at you that they expect you to juggle.\n",
+				"content_text": "I very much enjoyed [Cal Newport's rumination on Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) (GTD), and Merlyn Mann's contributions to personal productivity culture, in The New Yorker. \n\nFinding [Getting Things Done](https://gettingthingsdone.com), through Merlyn Mann's [43 Folders](http://www.43folders.com), was transformative for me. It supercharged my productivity, for a while at least, numerous times in my life.  \n\nGTD techniques and processes have not fixed the root problems with knowledge work, which Newport points out in the article:\n\n> In this context, the shortcomings of personal-productivity systems like G.T.D. become clear. They don’t directly address the fundamental problem: the insidiously haphazard way that work unfolds at the organizational level. They only help individuals cope with its effects. A highly optimized implementation of G.T.D. might have helped Mann organize the hundreds of tasks that arrived haphazardly in his in-box daily, but it could do nothing to reduce the quantity of these requests.\n\nWe have a workaholic culture that puts a lot of pressure on the individual worker to be responsible for many, many things that are outside the worker's control. GTD is both a means of dealing with this pressure, and a personal methodology that prolongs one's exposure to all this pressure. It increases the number of balls you can keep in the air, but doesn't address the problem that others keep throwing more and more balls at you that they expect you to juggle.\n",
 				"date_published": "2020-11-18T10:51:55-04:00",
-				"url": "https://micro.mjdescy.me/2020/11/18/the-rise-and.html"
+				"url": "https://micro.mjdescy.me/2020/11/18/the-rise-and.html",
+				"tags": ["Productivity","News"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2020/11/17/gruber-s-review.html",
@@ -6034,7 +6141,8 @@
 				"content_html": "<p><a href=\"https://www.nytimes.com/live/2020/11/15/science/spacex-nasa-launch?referringSource=articleShare\">This is pretty great, isn&rsquo;t it?</a></p>\n",
 				"content_text": "[This is pretty great, isn't it?](https://www.nytimes.com/live/2020/11/15/science/spacex-nasa-launch?referringSource=articleShare)\n",
 				"date_published": "2020-11-15T21:15:16-04:00",
-				"url": "https://micro.mjdescy.me/2020/11/15/this-is-pretty.html"
+				"url": "https://micro.mjdescy.me/2020/11/15/this-is-pretty.html",
+				"tags": ["News"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2020/11/13/it-seems-really.html",
@@ -6114,7 +6222,8 @@
 				"content_html": "<p>My wife and I watched the Biden-Harris acceptance speeches with our daughter, who has never seen anything like it before. We are feeling excited and hopeful. I am especially eager to follow Kamala Harris’s work as Vice President in the hopes that she will be a transformative figure in the office.</p>\n",
 				"content_text": "My wife and I watched the Biden-Harris acceptance speeches with our daughter, who has never seen anything like it before. We are feeling excited and hopeful. I am especially eager to follow Kamala Harris’s work as Vice President in the hopes that she will be a transformative figure in the office.\n",
 				"date_published": "2020-11-07T22:17:00-04:00",
-				"url": "https://micro.mjdescy.me/2020/11/07/my-wife-and.html"
+				"url": "https://micro.mjdescy.me/2020/11/07/my-wife-and.html",
+				"tags": ["Journal","News"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2020/11/07/i-was-at.html",
@@ -6543,7 +6652,8 @@
 				"content_html": "<p>I didn&rsquo;t realize that <a href=\"https://www.theverge.com/2020/9/24/21450413/amazon-echo-alexa-ring-luna-event-recap-biggest-announcements\">Amazon was having a hardware event today</a>. Am I the only one who has been hoping for updated e-ink Kindles?</p>\n",
 				"content_text": "I didn't realize that [Amazon was having a hardware event today](https://www.theverge.com/2020/9/24/21450413/amazon-echo-alexa-ring-luna-event-recap-biggest-announcements). Am I the only one who has been hoping for updated e-ink Kindles?\n",
 				"date_published": "2020-09-24T14:12:05-04:00",
-				"url": "https://micro.mjdescy.me/2020/09/24/i-didnt-realize.html"
+				"url": "https://micro.mjdescy.me/2020/09/24/i-didnt-realize.html",
+				"tags": ["Tech","News"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2020/09/20/the-lovely-blue.html",
@@ -10844,7 +10954,8 @@
 				"content_html": "<p>I think that every bit <a href=\"https://www.nytimes.com/interactive/2019/07/16/us/politics/democratic-fundraising-2020.html\">of this article from the New York Times</a> illustrates what is wrong with the way we pick presidents in the US.</p>\n<blockquote>\n<p>Five Democratic presidential candidates raised a combined $96 million from individual donors in the last three months — about three-quarters of the total fund-raising by the entire Democratic field, according to reports filed with the Federal Election Commission on Monday.</p>\n</blockquote>\n<p>I have to admit that I am annoyed because my favorite candidate is not at the top of the fundraising list. That is a small worry, though. Overall, I am annoyed that all this money is spread out so widely amongst candidates,\nmany of whom should gracefully drop out and run for lower, but still very important, offices.</p>\n<p>Meanwhile, Trump looms over everything like Calamity Ganon over Hyrule Castle in &ldquo;Breath of the Wild&rdquo;:</p>\n<blockquote>\n<p>Trump has more than twice as much cash as the best-funded Democrats.</p>\n<p>President Trump has a big head start on the Democratic field in raising money for the 2020 election. He ended the second quarter with far more cash on hand than even the best-funded Democratic candidate.</p>\n</blockquote>\n<p>I don’t think the Democratic candidates and campaign strategists have a real plan to win. I know there is still a good amount of time to make such a plan, but I’m not sure if there is enough time. I am already tired of the primary process, and it has barely even begun.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I think that every bit [of this article from the New York Times](https://www.nytimes.com/interactive/2019/07/16/us/politics/democratic-fundraising-2020.html) illustrates what is wrong with the way we pick presidents in the US.\n\n> Five Democratic presidential candidates raised a combined $96 million from individual donors in the last three months — about three-quarters of the total fund-raising by the entire Democratic field, according to reports filed with the Federal Election Commission on Monday.\n\nI have to admit that I am annoyed because my favorite candidate is not at the top of the fundraising list. That is a small worry, though. Overall, I am annoyed that all this money is spread out so widely amongst candidates, \nmany of whom should gracefully drop out and run for lower, but still very important, offices.\n\nMeanwhile, Trump looms over everything like Calamity Ganon over Hyrule Castle in \"Breath of the Wild\":\n\n> Trump has more than twice as much cash as the best-funded Democrats.\n> \n> President Trump has a big head start on the Democratic field in raising money for the 2020 election. He ended the second quarter with far more cash on hand than even the best-funded Democratic candidate.\n\nI don’t think the Democratic candidates and campaign strategists have a real plan to win. I know there is still a good amount of time to make such a plan, but I’m not sure if there is enough time. I am already tired of the primary process, and it has barely even begun.\n\n<img src=\"https://micro.mjdescy.me/uploads/2019/5807bb1b3e.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2019-07-16T09:59:14-04:00",
-				"url": "https://micro.mjdescy.me/2019/07/16/in-democratic-fundraising.html"
+				"url": "https://micro.mjdescy.me/2019/07/16/in-democratic-fundraising.html",
+				"tags": ["News"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2019/07/15/sometimes-i-think.html",
@@ -11484,7 +11595,8 @@
 				"content_html": "<p>Since I started dogfooding my new Mac app, I have found a few new bugs that I never noticed before. That &ldquo;having never noticed it before&rdquo; feeling is so weird sometimes that it stops me in my tracks.</p>\n",
 				"content_text": "Since I started dogfooding my new Mac app, I have found a few new bugs that I never noticed before. That \"having never noticed it before\" feeling is so weird sometimes that it stops me in my tracks.\n",
 				"date_published": "2019-05-03T09:38:50-04:00",
-				"url": "https://micro.mjdescy.me/2019/05/03/since-i-started.html"
+				"url": "https://micro.mjdescy.me/2019/05/03/since-i-started.html",
+				"tags": ["Coding"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2019/05/02/after-months-of.html",
@@ -12435,7 +12547,8 @@
 				"content_html": "<p>I spent half the morning researching how to evaluate the results of attribute sample testing—once again. It&rsquo;s hard to remember the parts of statistics that I don&rsquo;t use very often.</p>\n",
 				"content_text": "I spent half the morning researching how to evaluate the results of attribute sample testing—once again. It's hard to remember the parts of statistics that I don't use very often.\n",
 				"date_published": "2019-01-15T15:44:20-04:00",
-				"url": "https://micro.mjdescy.me/2019/01/15/i-spent-half.html"
+				"url": "https://micro.mjdescy.me/2019/01/15/i-spent-half.html",
+				"tags": ["Journal"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2019/01/15/im-happy-that.html",
@@ -13136,6 +13249,15 @@
 				"url": "https://micro.mjdescy.me/2018/10/28/what-a-series.html"
 			},
 			{
+				"id": "http://mjdescy.micro.blog/2018/10/23/i-really-enjoyed.html",
+				
+				"content_html": "<p>I really enjoyed reading John Gruber&rsquo;s <a href=\"https://daringfireball.net/2018/10/the_iphone_xr\">iPhone XR review</a> this morning. I am thinking of waiting for the initial buying rush to wear off, and taking my wife to the store to buy her one.</p>\n",
+				"content_text": "I really enjoyed reading John Gruber's [iPhone XR review](https://daringfireball.net/2018/10/the_iphone_xr) this morning. I am thinking of waiting for the initial buying rush to wear off, and taking my wife to the store to buy her one.\n",
+				"date_published": "2018-10-23T11:09:44-04:00",
+				"url": "https://micro.mjdescy.me/2018/10/23/i-really-enjoyed.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2018/10/09/norah-jones-has.html",
 				
 				"content_html": "<p>🎵 Norah Jones has a new single out, which she wrote with Jeff Tweedy (who plays guitar on the track): <a href=\"https://itunes.apple.com/us/album/a-song-with-no-name/1435826442?i=1435826458\">A Song with No Name</a>. It is bare, stark, and simple, like an old, sad country ballad.</p>\n",
@@ -13152,6 +13274,15 @@
 				"date_published": "2018-09-17T12:00:00-04:00",
 				"url": "https://micro.mjdescy.me/2018/09/17/swiftodo-development-notes.html",
 				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/09/14/143736.html",
+				
+				"content_html": "<p>📺 I think I need to re-watch &ldquo;<a href=\"https://www.imdb.com/title/tt4955642/\">The Good Place</a>&rdquo;. (It&rsquo;s available on Netflix.) And, hey, there&rsquo;s a behind-the-scenes <a href=\"https://www.nbc.com/the-good-place/exclusives/tgp-podcast\">podcast</a> for the show, too!</p>\n",
+				"content_text": "📺 I think I need to re-watch \"[The Good Place](https://www.imdb.com/title/tt4955642/)\". (It's available on Netflix.) And, hey, there's a behind-the-scenes [podcast](https://www.nbc.com/the-good-place/exclusives/tgp-podcast) for the show, too!\n",
+				"date_published": "2018-09-14T10:37:36-04:00",
+				"url": "https://micro.mjdescy.me/2018/09/14/143736.html",
+				"tags": ["TV"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2018/09/07/todays-listen-fine.html",
@@ -13316,6 +13447,15 @@
 				"tags": ["Snippets"]
 			},
 			{
+				"id": "http://mjdescy.micro.blog/2018/07/06/thomas-finchs-ios.html",
+				
+				"content_html": "<p><a href=\"http://thomasfinch.me/iosicon/\">Thomas Finch&rsquo;s iOS 7+ Icon Generator</a> is a nice, little utility. It takes a square app icon and masks it to match the rounded corner shape of modern iOS icons.</p>\n",
+				"content_text": "[Thomas Finch's iOS 7+ Icon Generator](http://thomasfinch.me/iosicon/) is a nice, little utility. It takes a square app icon and masks it to match the rounded corner shape of modern iOS icons.\n",
+				"date_published": "2018-07-06T12:34:36-04:00",
+				"url": "https://micro.mjdescy.me/2018/07/06/thomas-finchs-ios.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2018/06/19/173012.html",
 				
 				"content_html": "<p>I have been wrestling all day with an Access query with a ton of parameters that causes a crash when run via VBA, but works fine when run manually, which no one would ever do.</p>\n",
@@ -13397,6 +13537,15 @@
 				"tags": ["Snippets"]
 			},
 			{
+				"id": "http://mjdescy.micro.blog/2018/05/18/im-still-testing.html",
+				
+				"content_html": "<p>I&rsquo;m <em>still</em> testing and fixing things in my dev build of SwiftoDo 2.12.0. It feels weird to have gone so long without issuing a release. I hope to get everything done next week. I have a very full weekend of family activities ahead of me, though, so I can&rsquo;t do much till Monday.</p>\n",
+				"content_text": "I'm _still_ testing and fixing things in my dev build of SwiftoDo 2.12.0. It feels weird to have gone so long without issuing a release. I hope to get everything done next week. I have a very full weekend of family activities ahead of me, though, so I can't do much till Monday.\n",
+				"date_published": "2018-05-18T19:43:05-04:00",
+				"url": "https://micro.mjdescy.me/2018/05/18/im-still-testing.html",
+				"tags": ["Coding"]
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2018/05/18/carry-on-on.html",
 				"title": "🎵 Carry On",
 				"content_html": "<p>On this bad and sad news day, remember:</p>\n<blockquote>\n<p>If you&rsquo;re lost and alone<br>\nOr you&rsquo;re sinking like a stone<br>\nCarry on<br>\nMay your past be the sound<br>\nOf your feed upon the ground and<br>\nCarry on</p>\n<p>&lsquo;Cause we are, we are shining stars<br>\nWe are invincible<br>\nWe are who we are<br>\nOn our darkest day<br>\nWhen we&rsquo;re miles away<br>\nSo we&rsquo;ll come, we will find our way home</p>\n</blockquote>\n<p>Fun.&rsquo;s &ldquo;Carry On&rdquo; works well, and feels quite different, in <a href=\"https://itunes.apple.com/us/album/carry-on-feat-shannon-purser-rise-cast-version/1382637611?i=1382638029\">this cover version by the cast of &ldquo;Rise&rdquo;</a>.</p>\n",
@@ -13413,6 +13562,15 @@
 				"date_published": "2018-05-18T15:21:01-04:00",
 				"url": "https://micro.mjdescy.me/2018/05/18/frozen-the-broadway.html",
 				"tags": ["Audiophile"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/05/18/while-i-think.html",
+				
+				"content_html": "<p>While I think I <em>want</em> a Nintendo Switch, I’m trying to make due for now with what I already have—an iPad Pro and a SteelSeries Nimbus controller. I’m not sure I even want to commit the <em>time</em> to gaming, but I am curious about the latest Mario and Zelda games.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "While I think I _want_ a Nintendo Switch, I’m trying to make due for now with what I already have—an iPad Pro and a SteelSeries Nimbus controller. I’m not sure I even want to commit the _time_ to gaming, but I am curious about the latest Mario and Zelda games.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-05-18T10:16:15-04:00",
+				"url": "https://micro.mjdescy.me/2018/05/18/while-i-think.html",
+				"tags": ["Gaming"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2018/05/17/the-calm-before.html",
@@ -13494,6 +13652,15 @@
 				"date_published": "2018-04-27T23:00:00-04:00",
 				"url": "https://micro.mjdescy.me/2018/04/27/swiftodo-development-notes.html",
 				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/04/28/i-miss-caesar.html",
+				"title": "I miss Caesar salad",
+				"content_html": "<p>It seems to me that massive outbreaks of food borne illness are becoming more and more common. That <a href=\"https://www.nbcnews.com/health/health-news/romaine-lettuce-e-coli-outbreak-worsens-98-people-now-sick-n869681\">our current, worsening outbreak</a> is the <em>second</em> E. Coli outbreak tied to my favorite type of lettuce in the past six months or so, and it is so virulent, is making me feel worried about our food system, and pessimistic about my country’s will to improve it.</p>\n<blockquote>\n<p>An outbreak of E. coli food poisoning linked to romaine lettuce has widened and has now made at least 98 people sick, federal health officials said Friday.</p>\n<p>More than half have had to be hospitalized because the strain of E. coli causing this outbreak is an especially nasty one, the officials at the Centers for Disease Control and Prevention and the Food and Drug Administration said.</p>\n<p>People in 22 states have reported E. coli infections linked to the outbreak, the CDC and FDA said.</p>\n</blockquote>\n<p>I’m no expert in this, but I feel like we have several problems in our food system that have, in the past few decades, started to compound in dangerous ways that we should have seen coming. Some of these problems include overcrowding of animals, overuse of antibiotics in livestock, and over-concentration in production and processing. When bad hygiene infects food, it’s worse now than it used to be. The bacteria are more resistant to antibiotics, and the food, and food borne illness, is distributed all across the country.</p>\n<p>Another annoyance to me, as a someone who has eaten some raw eggs (usually in cookie dough or homemade eggnog) and rare meat over the years, is that I have <em>never</em> gotten a food borne illness from those activities. I have, however, gotten terribly ill several times from eating restaurant salads, probably due to unwashed hands or vegetables. There are menu warnings about undercooked meat in every restaurant I go to, but none about the danger of eating unwashed vegetables.</p>\n<p>I am impatiently awaiting the day I can eat Caesar salads again.</p>\n",
+				"content_text": "It seems to me that massive outbreaks of food borne illness are becoming more and more common. That [our current, worsening outbreak](https://www.nbcnews.com/health/health-news/romaine-lettuce-e-coli-outbreak-worsens-98-people-now-sick-n869681) is the _second_ E. Coli outbreak tied to my favorite type of lettuce in the past six months or so, and it is so virulent, is making me feel worried about our food system, and pessimistic about my country’s will to improve it.\n\n> An outbreak of E. coli food poisoning linked to romaine lettuce has widened and has now made at least 98 people sick, federal health officials said Friday.\n> \n> More than half have had to be hospitalized because the strain of E. coli causing this outbreak is an especially nasty one, the officials at the Centers for Disease Control and Prevention and the Food and Drug Administration said.\n> \n> People in 22 states have reported E. coli infections linked to the outbreak, the CDC and FDA said.\n\nI’m no expert in this, but I feel like we have several problems in our food system that have, in the past few decades, started to compound in dangerous ways that we should have seen coming. Some of these problems include overcrowding of animals, overuse of antibiotics in livestock, and over-concentration in production and processing. When bad hygiene infects food, it’s worse now than it used to be. The bacteria are more resistant to antibiotics, and the food, and food borne illness, is distributed all across the country.\n\nAnother annoyance to me, as a someone who has eaten some raw eggs (usually in cookie dough or homemade eggnog) and rare meat over the years, is that I have *never* gotten a food borne illness from those activities. I have, however, gotten terribly ill several times from eating restaurant salads, probably due to unwashed hands or vegetables. There are menu warnings about undercooked meat in every restaurant I go to, but none about the danger of eating unwashed vegetables.\n\nI am impatiently awaiting the day I can eat Caesar salads again.\n",
+				"date_published": "2018-04-27T21:35:39-04:00",
+				"url": "https://micro.mjdescy.me/2018/04/27/i-miss-caesar.html",
+				"tags": ["News"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2018/04/27/batman-ninjahttpsmimdbcomtitlett-is.html",
@@ -13658,6 +13825,15 @@
 				"tags": ["Audiophile"]
 			},
 			{
+				"id": "http://mjdescy.micro.blog/2018/02/18/we-had-an.html",
+				
+				"content_html": "<p>We had an enormous house party today. It was a lot of fun, but boy are we wiped out! 🎈</p>\n",
+				"content_text": "We had an enormous house party today. It was a lot of fun, but boy are we wiped out! 🎈 \n",
+				"date_published": "2018-02-17T20:48:49-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/17/we-had-an.html",
+				"tags": ["Journal"]
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2018/02/17/i-saw-thor.html",
 				
 				"content_html": "<p>🎬 I saw &ldquo;Thor: Ragnarok” today and thoroughly enjoyed it. The “Thor&rdquo; and &ldquo;Captain America&rdquo; series started off a little weak but ended up much stronger than the &ldquo;Iron Man” series, which had the opposite trajectory. It’s upsetting that they never made a &ldquo;Black Widow” movie series.</p>\n",
@@ -13685,6 +13861,15 @@
 				"tags": ["Snippets"]
 			},
 			{
+				"id": "http://mjdescy.micro.blog/2018/02/09/swiftodo-is-now.html",
+				
+				"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.7.2 is now available in the App Store</a>. It adds the ability to drag tasks to new priorities, projects, contexts, tasks, and dates, while in “edit” node, depending on sort order.</p>\n",
+				"content_text": "[SwiftoDo 2.7.2 is now available in the App Store](https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&mt=8). It adds the ability to drag tasks to new priorities, projects, contexts, tasks, and dates, while in “edit” node, depending on sort order.\n",
+				"date_published": "2018-02-09T17:53:54-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/09/swiftodo-is-now.html",
+				"tags": ["Coding"]
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2018/02/09/replacing-keyboard-with.html",
 				
 				"content_html": "<p>Replacing &ldquo;Keyboard-&rdquo; with the keyboard emoji (⌨️) solves a minor problem I have in the Drafts 5 beta: You can&rsquo;t sort or hide action groups, and the keyboard-related groups, while useful, are not ones I open from the action groups menu. The ⌨️ emoji sorts them below normal letters.</p>\n<!-- raw HTML omitted -->\n",
@@ -13703,6 +13888,33 @@
 				"tags": ["Coding"]
 			},
 			{
+				"id": "http://mjdescy.micro.blog/2018/02/09/i-have-finally.html",
+				
+				"content_html": "<p>I have finally switched over from Drafts 4 to Drafts 5 (beta) as my daily driver. Its such a cool app, with tons of customizability and depth. I might try to create some JavaScript actions next, but the built in actions do just about everything I want.</p>\n",
+				"content_text": "I have finally switched over from Drafts 4 to Drafts 5 (beta) as my daily driver. Its such a cool app, with tons of customizability and depth. I might try to create some JavaScript actions next, but the built in actions do just about everything I want.\n",
+				"date_published": "2018-02-08T21:54:57-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/08/i-have-finally.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/08/my-wife-inspired.html",
+				
+				"content_html": "<p>My wife inspired me to cook apple &amp; sweet potato mash for my son this evening.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My wife inspired me to cook apple & sweet potato mash for my son this evening.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/f9d4f88773.jpg\" width=\"600\" height=\"599\" />\n",
+				"date_published": "2018-02-08T19:00:54-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/08/my-wife-inspired.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/08/im-on-hour.html",
+				
+				"content_html": "<p>I&rsquo;m on hour 7 of writing data database loading routines. Writing queries in Access is uniquely disappointing. The syntax for joins is awful, the lack of case statements is unfortunate, and the query editor is primitive. I vastly prefer SQL Server, and MySQL is OK as well.</p>\n",
+				"content_text": "I'm on hour 7 of writing data database loading routines. Writing queries in Access is uniquely disappointing. The syntax for joins is awful, the lack of case statements is unfortunate, and the query editor is primitive. I vastly prefer SQL Server, and MySQL is OK as well.\n",
+				"date_published": "2018-02-08T17:08:50-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/08/im-on-hour.html",
+				"tags": ["Coding"]
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2018/02/08/in-high-school.html",
 				
 				"content_html": "<p>🎵 In high school and college, I used to measure how long it took me to write a paper by the number of CDs I listened to while working on it. I think a normal high school paper was 4 albums (R.E.M., Beatles, U2, Pink Floyd) or about 3 hours. I should do that again with my 🎧.</p>\n",
@@ -13712,6 +13924,159 @@
 				"tags": ["Audiophile"]
 			},
 			{
+				"id": "http://mjdescy.micro.blog/2018/02/08/uitableview-moverowat-indexpath.html",
+				
+				"content_html": "<p>UITableView <code>moveRow(at: IndexPath, to: IndexPath)</code> works differently when <code>tableView.dragInteractionEnabled = true</code>, and causes my (dev) app to crash when a move (even when <em>not</em> issued by drag-and-drop) completely empties a section of my table view. It&rsquo;s been frustrating!</p>\n",
+				"content_text": "UITableView `moveRow(at: IndexPath, to: IndexPath)` works differently when `tableView.dragInteractionEnabled = true`, and causes my (dev) app to crash when a move (even when _not_ issued by drag-and-drop) completely empties a section of my table view. It's been frustrating!\n",
+				"date_published": "2018-02-07T22:45:35-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/07/uitableview-moverowat-indexpath.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/07/i-have-fallen.html",
+				
+				"content_html": "<p>🎙 I have fallen 15 episodes behind in my &ldquo;<a href=\"https://twit.tv/shows/security-now\">Security Now</a>&rdquo; listening. I do like the podcast, but listening to it <em>is</em> a little like &ldquo;eating my vegetables&rdquo; sometimes. I’m trying to catch up somewhat today.</p>\n",
+				"content_text": "🎙 I have fallen 15 episodes behind in my \"[Security Now](https://twit.tv/shows/security-now)\" listening. I do like the podcast, but listening to it _is_ a little like \"eating my vegetables\" sometimes. I’m trying to catch up somewhat today.\n",
+				"date_published": "2018-02-07T11:52:24-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/07/i-have-fallen.html",
+				"tags": ["Podcasts"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/07/after-reading-all.html",
+				
+				"content_html": "<p>After reading all the reviews, (like <a href=\"https://daringfireball.net/2018/02/homepod\">this one</a>) I really want <em>two</em> HomePods with AirPlay 2 working. (Oh, god, what is <em>wrong</em> with me?! 😂)</p>\n",
+				"content_text": "After reading all the reviews, (like [this one](https://daringfireball.net/2018/02/homepod)) I really want _two_ HomePods with AirPlay 2 working. (Oh, god, what is _wrong_ with me?! 😂)\n",
+				"date_published": "2018-02-06T22:22:44-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/06/after-reading-all.html",
+				"tags": ["Audiophile"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/06/today-at-work.html",
+				
+				"content_html": "<p>Today at work I thought: &ldquo;I wish I was better at Awk&rdquo;. The last time I thought that was 5 years ago…which is why I am not better at Awk.</p>\n",
+				"content_text": "Today at work I thought: \"I wish I was better at Awk\". The last time I thought that was 5 years ago…which is why I am not better at Awk. \n",
+				"date_published": "2018-02-06T18:19:52-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/06/today-at-work.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/06/on-my-lunch.html",
+				
+				"content_html": "<p>On my lunch break I submitted a new build of <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo</a> to the App Store. My release philosophy has changed this year. I&rsquo;m leaning toward releasing smaller updates, more frequently.</p>\n",
+				"content_text": "On my lunch break I submitted a new build of [SwiftoDo](https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&mt=8) to the App Store. My release philosophy has changed this year. I'm leaning toward releasing smaller updates, more frequently.\n",
+				"date_published": "2018-02-06T14:51:05-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/06/on-my-lunch.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/06/work-today-is.html",
+				
+				"content_html": "<p>Work today is more about juggling priorities than anything else: data mining, sampling, database development, calls and meetings, and so on.</p>\n",
+				"content_text": "Work today is more about juggling priorities than anything else: data mining, sampling, database development, calls and meetings, and so on.\n",
+				"date_published": "2018-02-06T11:51:23-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/06/work-today-is.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/06/i-have-been.html",
+				
+				"content_html": "<p>I have been enjoying the <a href=\"https://itunes.apple.com/us/app/roughly-the-approximate-time-in-words/id1086283722?mt=8\">Roughly app</a>&rsquo;s complication (on the bottom, in the picture) for the Apple Watch. It&rsquo;s a little frivolous to display the approximate time in words, but it&rsquo;s also a little frivolous to use analog watch faces on a digital device.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I have been enjoying the [Roughly app](https://itunes.apple.com/us/app/roughly-the-approximate-time-in-words/id1086283722?mt=8)'s complication (on the bottom, in the picture) for the Apple Watch. It's a little frivolous to display the approximate time in words, but it's also a little frivolous to use analog watch faces on a digital device.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/3411540050.jpg\" width=\"599\" height=\"600\" />\n",
+				"date_published": "2018-02-05T22:48:57-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/05/i-have-been.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/05/fact-decaf-coffee.html",
+				
+				"content_html": "<p>Fact: Decaf coffee does <em>not</em> count as real coffee!</p>\n",
+				"content_text": "Fact: Decaf coffee does _not_ count as real coffee!\n",
+				"date_published": "2018-02-05T19:47:13-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/05/fact-decaf-coffee.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/05/goal-for-the.html",
+				
+				"content_html": "<p>Goal #1 for the week: Reduce coffee consumption to one cup per day. But&hellip;does decaf count? Perhaps I am not off to a good start.</p>\n",
+				"content_text": "Goal #1 for the week: Reduce coffee consumption to one cup per day. But...does decaf count? Perhaps I am not off to a good start.\n",
+				"date_published": "2018-02-05T12:07:30-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/05/goal-for-the.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/04/my-super-bowl.html",
+				
+				"content_html": "<p>🏈 My Super Bowl menu: sirloin steak, caramelized onions, garden salad, French bread with brie or honey butter, as well as tortilla chips, pita chips, hummus, and salsa. Food is the best part of the game!</p>\n",
+				"content_text": "🏈 My Super Bowl menu: sirloin steak, caramelized onions, garden salad, French bread with brie or honey butter, as well as tortilla chips, pita chips, hummus, and salsa. Food is the best part of the game!\n",
+				"date_published": "2018-02-04T12:42:21-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/04/my-super-bowl.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/04/i-am-excited.html",
+				
+				"content_html": "<p>🏈 I am excited about the Super Bowl but I am feeling very conflicted about football in general now. I skipped the entire regular season because I think the sport is dangerous and unethical. So I have a strange mixture of excitement and disgust today. 🤷‍♂️</p>\n",
+				"content_text": "🏈 I am excited about the Super Bowl but I am feeling very conflicted about football in general now. I skipped the entire regular season because I think the sport is dangerous and unethical. So I have a strange mixture of excitement and disgust today. 🤷‍♂️\n",
+				"date_published": "2018-02-04T12:04:14-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/04/i-am-excited.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/04/aint-misbehavin-at.html",
+				
+				"content_html": "<p><em>Ain&rsquo;t Misbehavin'</em> at NJPAC was absolutely wonderful tonight. The performers were excellent and the audience got really loose and into it after itermission. It was great fun to watch. My wife and I loved it and had a lovely time together.</p>\n",
+				"content_text": "_Ain't Misbehavin'_ at NJPAC was absolutely wonderful tonight. The performers were excellent and the audience got really loose and into it after itermission. It was great fun to watch. My wife and I loved it and had a lovely time together.\n",
+				"date_published": "2018-02-04T00:31:55-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/03/aint-misbehavin-at.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/03/im-not-sure.html",
+				
+				"content_html": "<p>I&rsquo;m not sure what the biggest headache was for me today: my actual migraine, or my trip to Wegmans the day before the Super Bowl.</p>\n",
+				"content_text": "I'm not sure what the biggest headache was for me today: my actual migraine, or my trip to Wegmans the day before the Super Bowl.\n",
+				"date_published": "2018-02-03T17:04:25-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/03/im-not-sure.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/03/i-realized-recently.html",
+				
+				"content_html": "<p>I realized recently that Google’s killing of Google Reader made me never trust them again as a customer. They launch and then kill too many products. I still use Search, Gmail, and AdWords, but when it to comes to Android, Home, Assistant, and so on, I am out.</p>\n",
+				"content_text": "I realized recently that Google’s killing of Google Reader made me never trust them again as a customer. They launch and then kill too many products. I still use Search, Gmail, and AdWords, but when it to comes to Android, Home, Assistant, and so on, I am out.\n",
+				"date_published": "2018-02-03T00:33:02-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/02/i-realized-recently.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/02/swiftodo-is-now.html",
+				
+				"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.7.1 is now available in the App Store</a>. It includes minor updates and bug fixes.</p>\n",
+				"content_text": "[SwiftoDo 2.7.1 is now available in the App Store](https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&mt=8). It includes minor updates and bug fixes. \n",
+				"date_published": "2018-02-02T15:44:53-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/02/swiftodo-is-now.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/02/based-on-my.html",
+				
+				"content_html": "<p>Based on my podcast listening for the week, I&rsquo;ve concluded (and I&rsquo;m being half serious here) that Amazon Alexa&rsquo;s key feature, and Siri&rsquo;s key shortcoming, is support for multiple named kitchen timers. That seems like an easy gap to fill. When Apple will finally ship that feature?</p>\n",
+				"content_text": "Based on my podcast listening for the week, I've concluded (and I'm being half serious here) that Amazon Alexa's key feature, and Siri's key shortcoming, is support for multiple named kitchen timers. That seems like an easy gap to fill. When Apple will finally ship that feature?\n",
+				"date_published": "2018-02-02T12:34:09-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/02/based-on-my.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/02/ive-got-a.html",
+				
+				"content_html": "<p>I&rsquo;ve got a couple releases lined up for my iOS app, and need to think about a total rewrite for its macOS counterpart. So, instead of doing anything constructive tonight, I am watching &ldquo;Supergirl&rdquo;. Rest is good sometimes, no?</p>\n",
+				"content_text": "I've got a couple releases lined up for my iOS app, and need to think about a total rewrite for its macOS counterpart. So, instead of doing anything constructive tonight, I am watching \"Supergirl\". Rest is good sometimes, no?\n",
+				"date_published": "2018-02-01T23:39:57-04:00",
+				"url": "https://micro.mjdescy.me/2018/02/01/ive-got-a.html",
+				"tags": ["Coding"]
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2018/02/01/im-thoroughly-enjoying.html",
 				
 				"content_html": "<p>I&rsquo;m thoroughly enjoying Matt Birchler&rsquo;s <a href=\"https://itunes.apple.com/us/playlist/homepod-testing/pl.u-qpZDJs2RG247\">&ldquo;HomePod Testing&rdquo; playlist</a> on Apple Music 🎵. Each track is well produced and interesting. It&rsquo;s great music to work to.</p>\n<!-- raw HTML omitted -->\n",
@@ -13719,6 +14084,141 @@
 				"date_published": "2018-02-01T12:04:52-04:00",
 				"url": "https://micro.mjdescy.me/2018/02/01/im-thoroughly-enjoying.html",
 				"tags": ["Audiophile"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/02/01/i-spent-my.html",
+				
+				"content_html": "<p>I spent my evening figuring out how to transfer an 18-year-old domain name and several personal websites to new hosting providers. It&rsquo;s not something I do every day, so I won&rsquo;t be surprised if something gets screwed up—not that it matters too much.</p>\n",
+				"content_text": "I spent my evening figuring out how to transfer an 18-year-old domain name and several personal websites to new hosting providers. It's not something I do every day, so I won't be surprised if something gets screwed up—not that it matters too much.\n",
+				"date_published": "2018-01-31T23:58:40-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/31/i-spent-my.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/31/the-program-i.html",
+				
+				"content_html": "<p>The program I wrote yesterday has been running, with no output whatsoever, for over 12 hours now, and is nowhere near done. So, how do you, time- and space- efficiently, search for 60,000 strings within 20 million lines of text? 😅</p>\n",
+				"content_text": "The program I wrote yesterday has been running, with no output whatsoever, for over 12 hours now, and is nowhere near done. So, how do you, time- and space- efficiently, search for 60,000 strings within 20 million lines of text? 😅 \n",
+				"date_published": "2018-01-31T09:16:50-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/31/the-program-i.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/30/it-looks-like.html",
+				
+				"content_html": "<p>It looks like I will be working overtime this week. Things are crazy. I think I am involved in getting two or three new practice lines off the ground.</p>\n",
+				"content_text": "It looks like I will be working overtime this week. Things are crazy. I think I am involved in getting two or three new practice lines off the ground.\n",
+				"date_published": "2018-01-30T18:09:41-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/30/it-looks-like.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/30/im-coding-something.html",
+				
+				"content_html": "<p>I&rsquo;m coding something new for work today, mostly because ACL can&rsquo;t read my enormous data files correctly all the way through.</p>\n",
+				"content_text": "I'm coding something new for work today, mostly because ACL can't read my enormous data files correctly all the way through.\n",
+				"date_published": "2018-01-30T13:58:16-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/30/im-coding-something.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/30/every-font-on.html",
+				
+				"content_html": "<p>Every font on all my devices somehow looks different to me today. What the heck happened to my eyes?</p>\n",
+				"content_text": "Every font on all my devices somehow looks different to me today. What the heck happened to my eyes?\n",
+				"date_published": "2018-01-29T23:09:53-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/29/every-font-on.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/29/today-was-unexpectedly.html",
+				
+				"content_html": "<p>Today was unexpectedly full of proposal work for me. I think I need to help revamp how we write proposals at my firm. It was <em>so</em> hectic and we could have done better if we had more time.</p>\n",
+				"content_text": "Today was unexpectedly full of proposal work for me. I think I need to help revamp how we write proposals at my firm. It was _so_ hectic and we could have done better if we had more time.\n",
+				"date_published": "2018-01-29T19:58:27-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/29/today-was-unexpectedly.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/29/the-new-york.html",
+				
+				"content_html": "<p>The New York Times crossword puzzle app and, of course, Micro.blog, have now taken over the time I had previously allotted to Twitter. My mental state is much better, though I am starting think of all words in terms of how many letters are in them.</p>\n",
+				"content_text": "The New York Times crossword puzzle app and, of course, Micro.blog, have now taken over the time I had previously allotted to Twitter. My mental state is much better, though I am starting think of all words in terms of how many letters are in them.\n",
+				"date_published": "2018-01-28T22:11:42-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/28/the-new-york.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/28/i-really-liked.html",
+				
+				"content_html": "<p>I really liked <a href=\"https://www.swiftbysundell.com/posts/composing-types-in-swift\">this back-to-basics post by John Sundell</a> about type composition in Swift. I think lots of programming tutorial writers—and readers—fail to focus on fundamentals. John does not.</p>\n",
+				"content_text": "I really liked [this back-to-basics post by John Sundell](https://www.swiftbysundell.com/posts/composing-types-in-swift) about type composition in Swift. I think lots of programming tutorial writers—and readers—fail to focus on fundamentals. John does not.\n",
+				"date_published": "2018-01-28T16:09:50-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/28/i-really-liked.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/28/swiftodo-is-now.html",
+				
+				"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.7.0 is now available in the App Store</a>. It vastly improves the loading speed for huge task lists, and adds URL support (long-press a task to open any URL it contains).</p>\n",
+				"content_text": "[SwiftoDo 2.7.0 is now available in the App Store](https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&mt=8). It vastly improves the loading speed for huge task lists, and adds URL support (long-press a task to open any URL it contains).\n",
+				"date_published": "2018-01-27T23:09:36-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/27/swiftodo-is-now.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/27/f-and-mph.html",
+				
+				"content_html": "<p>60° F and 20 MPH winds have made it both too warm and too cold for a proper Winterfest for us today.</p>\n",
+				"content_text": "60° F and 20 MPH winds have made it both too warm and too cold for a proper Winterfest for us today.\n",
+				"date_published": "2018-01-27T16:26:50-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/27/f-and-mph.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/27/i-submitted-swiftodohttpsswiftodoappcom.html",
+				
+				"content_html": "<p>I submitted <a href=\"https://swiftodoapp.com\">SwiftoDo</a> 2.7.0 to the App Store earlier today, and tonight I made enough bug fixes and library updates to warrant a version 2.7.1 soon thereafter.</p>\n",
+				"content_text": "I submitted [SwiftoDo](https://swiftodoapp.com) 2.7.0 to the App Store earlier today, and tonight I made enough bug fixes and library updates to warrant a version 2.7.1 soon thereafter.\n",
+				"date_published": "2018-01-27T00:22:23-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/26/i-submitted-swiftodohttpsswiftodoappcom.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/27/i-am-too.html",
+				
+				"content_html": "<p>I am too busy coding tonight to order a <a href=\"https://www.apple.com/homepod/\">HomePod</a>. The audiophile part of me really wants one, though. I have a fancy <a href=\"https://www.beoplay.com/landingpages/beoplaym3#introducing\">BeoPlay M3</a> speaker already, but I think the HomePod has cooler tech and is <em>just</em> large enough to sound a whole lot better.</p>\n",
+				"content_text": "I am too busy coding tonight to order a [HomePod](https://www.apple.com/homepod/). The audiophile part of me really wants one, though. I have a fancy [BeoPlay M3](https://www.beoplay.com/landingpages/beoplaym3#introducing) speaker already, but I think the HomePod has cooler tech and is _just_ large enough to sound a whole lot better.\n",
+				"date_published": "2018-01-26T22:59:02-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/26/i-am-too.html",
+				"tags": ["Audiophile"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/26/i-did-some.html",
+				
+				"content_html": "<p>I did some complicated sampling today.\n<a href=\"https://www.acl.com\">ACL</a>’s new APPEND command made short work of combining 4 tables, which sounds like nothing, but it has <em>long</em> been a weak point in ACL&rsquo;s functionality. It&rsquo;s a welcome improvement.</p>\n",
+				"content_text": "I did some complicated sampling today. \n[ACL](https://www.acl.com)’s new APPEND command made short work of combining 4 tables, which sounds like nothing, but it has _long_ been a weak point in ACL's functionality. It's a welcome improvement.\n",
+				"date_published": "2018-01-26T15:28:17-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/26/i-did-some.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/26/i-diagnosed-and.html",
+				
+				"content_html": "<p>I diagnosed and fixed a memory leak in my iOS app using Instruments and Xcode&rsquo;s memory debugger for the first time tonight. It <em>almost</em> made sense to me. My fix involved removing retain cycles by getting rid of a closure and turning one of my classes into a struct.</p>\n",
+				"content_text": "I diagnosed and fixed a memory leak in my iOS app using Instruments and Xcode's memory debugger for the first time tonight. It _almost_ made sense to me. My fix involved removing retain cycles by getting rid of a closure and turning one of my classes into a struct.\n",
+				"date_published": "2018-01-26T00:37:34-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/25/i-diagnosed-and.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2018/01/25/i-resumed-reading.html",
+				
+				"content_html": "<p>📚 I resumed reading <a href=\"https://en.m.wikipedia.org/wiki/Team_of_Rivals\">Team of Rivals: The Political Genius of Abraham Lincoln</a> last night. It&rsquo;s an incredibly well-written and well-researched book. I had stopped reading it because I thought its subject matter—the break-up of the United States due to intractable racial prejudice—hit a little too close to home for 2017-18. Regardless, I am now continuing.</p>\n",
+				"content_text": "📚 I resumed reading [Team of Rivals: The Political Genius of Abraham Lincoln](https://en.m.wikipedia.org/wiki/Team_of_Rivals) last night. It's an incredibly well-written and well-researched book. I had stopped reading it because I thought its subject matter—the break-up of the United States due to intractable racial prejudice—hit a little too close to home for 2017-18. Regardless, I am now continuing.\n",
+				"date_published": "2018-01-25T17:47:45-04:00",
+				"url": "https://micro.mjdescy.me/2018/01/25/i-resumed-reading.html",
+				"tags": ["Books"]
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2018/01/25/im-back-to.html",
