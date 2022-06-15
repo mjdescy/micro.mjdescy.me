@@ -7,6 +7,83 @@
 	"items": [
 		
 			{
+				"id": "http://mjdescy.micro.blog/2022/06/15/i-have-not.html",
+				
+				"content_html": "<p>I have not felt like I have anything to say lately. It has been a weird, intellectually empty feeling—probably born of overwork and my new, thrice-weekly exercise habit. My mind is scattered and I cannot complete a thought.</p>\n",
+				"content_text": "I have not felt like I have anything to say lately. It has been a weird, intellectually empty feeling—probably born of overwork and my new, thrice-weekly exercise habit. My mind is scattered and I cannot complete a thought.\n",
+				"date_published": "2022-06-15T19:52:34-04:00",
+				"url": "https://micro.mjdescy.me/2022/06/15/i-have-not.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/06/08/i-am-afraid.html",
+				
+				"content_html": "<p>I am afraid I am becoming a workaholic. I keep returning to work or work-related stuff in the evenings now, almost every day. I feel like I can’t get enough done during the day anymore.</p>\n",
+				"content_text": "I am afraid I am becoming a workaholic. I keep returning to work or work-related stuff in the evenings now, almost every day. I feel like I can’t get enough done during the day anymore.\n",
+				"date_published": "2022-06-08T21:38:05-04:00",
+				"url": "https://micro.mjdescy.me/2022/06/08/i-am-afraid.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/06/07/today-was-my.html",
+				
+				"content_html": "<p>Today was my son’s preschool graduation. The whole family went to his very cute graduation ceremony this morning. We had a pizza party in his honor this evening, and my wife made a delicious cake to his specifications (chocolate cake, vanilla buttercream). He is very proud of himself and I am very proud of him.</p>\n",
+				"content_text": "Today was my son’s preschool graduation. The whole family went to his very cute graduation ceremony this morning. We had a pizza party in his honor this evening, and my wife made a delicious cake to his specifications (chocolate cake, vanilla buttercream). He is very proud of himself and I am very proud of him.\n\n",
+				"date_published": "2022-06-07T21:15:05-04:00",
+				"url": "https://micro.mjdescy.me/2022/06/07/today-was-my.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/06/06/i-watched-apples.html",
+				
+				"content_html": "<p>I watched Apple’s WWDC keynote this afternoon. I am most excited about the new MacBooks because I have been hoping for that kind design since 2020. I really want one, but the closest I will ever get is buying one for my daughter next year to use for middle school.</p>\n",
+				"content_text": "I watched Apple’s WWDC keynote this afternoon. I am most excited about the new MacBooks because I have been hoping for that kind design since 2020. I really want one, but the closest I will ever get is buying one for my daughter next year to use for middle school.\n\n",
+				"date_published": "2022-06-06T21:13:09-04:00",
+				"url": "https://micro.mjdescy.me/2022/06/06/i-watched-apples.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/06/05/ask-microblog-can.html",
+				
+				"content_html": "<p>Ask Micro.blog: Can anyone recommend a good PC game controller for young children? I think my kids' hands are too small for my Xbox controller. There are many choices on Amazon but many seem low quality. I&rsquo;m planning to set up a retro gaming machine.</p>\n",
+				"content_text": "Ask Micro.blog: Can anyone recommend a good PC game controller for young children? I think my kids' hands are too small for my Xbox controller. There are many choices on Amazon but many seem low quality. I'm planning to set up a retro gaming machine.\n",
+				"date_published": "2022-06-05T20:59:31-04:00",
+				"url": "https://micro.mjdescy.me/2022/06/05/ask-microblog-can.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/06/05/my-son-the.html",
+				"title": "My son, the programmer",
+				"content_html": "<p>Today I showed my son how to do a couple things in Python for the first time. We only spent about half an hour on it, but it was a lot of fun. First, I showed him how to to use a <a href=\"https://jupyter.org\">Jupyter</a> notebook in Visual Studio Code. We made Markdown and Python cells. For the Python cells, I walked him through a Hello World example. I then had him print out whatever he wanted many times in a for loop. That was the first fun thing I used to do in BASIC on the Apple ][ in school. In a short amount of time, he learned <code>print</code>, <code>for</code>, and <code>range</code>, which is pretty good for a five-year-old’s first lesson. I plan to get turtle graphics (maybe <a href=\"https://pythonturtle.org\">this</a>, I’m not sure) installed on his machine soon.</p>\n",
+				"content_text": "Today I showed my son how to do a couple things in Python for the first time. We only spent about half an hour on it, but it was a lot of fun. First, I showed him how to to use a [Jupyter](https://jupyter.org) notebook in Visual Studio Code. We made Markdown and Python cells. For the Python cells, I walked him through a Hello World example. I then had him print out whatever he wanted many times in a for loop. That was the first fun thing I used to do in BASIC on the Apple ][ in school. In a short amount of time, he learned `print`, `for`, and `range`, which is pretty good for a five-year-old’s first lesson. I plan to get turtle graphics (maybe [this](https://pythonturtle.org), I’m not sure) installed on his machine soon.\n\n",
+				"date_published": "2022-06-05T20:52:04-04:00",
+				"url": "https://micro.mjdescy.me/2022/06/05/my-son-the.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/06/04/my-current-python.html",
+				"title": "My current Python project",
+				"content_html": "<p>I have been burning the midnight oil over the past week writing a data validator program—basically a front-end to the <a href=\"https://petl.readthedocs.io/en/stable/\">PETL</a> validate function—in Python. This would be my third such program, and it is going to be the sort where it can be configured entirely, and flexibly, with configuration files. Theoretically, it should not require coding, or at least not that much coding, to set up validation rules. It has been a fun project thus far, and it is nearing the point where all the pieces will come together.</p>\n<p>Lately I have been writing unit tests, and that has been where all the pain points have been. I used to use Python’s standard <a href=\"https://docs.python.org/3/library/unittest.html\">unittest</a> framework for unit testing, but it requires so much repetitive code that I decided to use <a href=\"https://docs.pytest.org/en/7.1.x/\">pytest</a> instead. Pytest lets you parametrize unit test functions, which reduces code repetition considerably.</p>\n<p>I never used pytest before, and ended up spending a lot of time trying to figure out how to get it working correctly. Getting my test module access to the package I’m testing was the first major hurdle. After that I spent a couple hours figuring out that I couldn’t make test fixtures that return lists, and that I couldn’t use text fixtures as test parameters. For the latter, I found a workaround in the form of the <a href=\"https://docs.pytest.org/en/7.1.x/\">pytest-lazy-fixture</a> package.</p>\n",
+				"content_text": "I have been burning the midnight oil over the past week writing a data validator program—basically a front-end to the [PETL](https://petl.readthedocs.io/en/stable/) validate function—in Python. This would be my third such program, and it is going to be the sort where it can be configured entirely, and flexibly, with configuration files. Theoretically, it should not require coding, or at least not that much coding, to set up validation rules. It has been a fun project thus far, and it is nearing the point where all the pieces will come together.\n\nLately I have been writing unit tests, and that has been where all the pain points have been. I used to use Python’s standard [unittest](https://docs.python.org/3/library/unittest.html) framework for unit testing, but it requires so much repetitive code that I decided to use [pytest](https://docs.pytest.org/en/7.1.x/) instead. Pytest lets you parametrize unit test functions, which reduces code repetition considerably. \n\nI never used pytest before, and ended up spending a lot of time trying to figure out how to get it working correctly. Getting my test module access to the package I’m testing was the first major hurdle. After that I spent a couple hours figuring out that I couldn’t make test fixtures that return lists, and that I couldn’t use text fixtures as test parameters. For the latter, I found a workaround in the form of the [pytest-lazy-fixture](https://docs.pytest.org/en/7.1.x/) package.\n\n",
+				"date_published": "2022-06-04T21:17:38-04:00",
+				"url": "https://micro.mjdescy.me/2022/06/04/my-current-python.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/06/04/today-was-my.html",
+				
+				"content_html": "<p>Today was my son’s first playdate, which has been long delayed due to COVID. We met our son’s friend’s parents, who were very nice, and had a fun cookout this afternoon. I even made coffee ice cream in my new ice cream machine.</p>\n",
+				"content_text": "Today was my son’s first playdate, which has been long delayed due to COVID. We met our son’s friend’s parents, who were very nice, and had a fun cookout this afternoon. I even made coffee ice cream in my new ice cream machine.\n\n",
+				"date_published": "2022-06-04T21:06:03-04:00",
+				"url": "https://micro.mjdescy.me/2022/06/04/today-was-my.html",
+				"tags": ["Journal"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/06/03/enable-recycle-bin.html",
+				"title": "Enable Recycle Bin on mapped network drives",
+				"content_html": "<p>My favorite tech discovery of the week was this one: an old TechNet post titled “<a href=\"https://social.technet.microsoft.com/Forums/windows/en-US/a349801f-398f-4139-8e8b-b0a92f599e2b/enable-recycle-bin-on-mapped-network-drives?forum=w8itpronetworking\">Enable Recycle Bin on mapped network drives</a>.” This article helped me figure out how to get the Windows Recycle Bin working on my primary documents folder, which is a mapped drive that isn’t <em>really</em> a mapped drive.</p>\n<p>For historical reasons, I store my documents on a mapped drive that is actually a deeply nested folder on my hard drive. Several years ago, my company implemented Microsoft OneDrive for file sync, sharing, backup, and so on. While that is great, it did mean that I had to move my folder tree to a very long path. Because I like to use long, descriptive names for everything, I ended up bumping into “file path too long” errors, especially in Excel. Excel will not even open a file whose path is over 256 characters long.</p>\n<p>When your Microsoft OneDrive root folder already takes up almost 100 characters, that leaves too little left for me to use. To get around the character limit, I used the <code>[SUBST]</code> command in a startup script to substitute a drive letter (Z: in my case) for a folder on the C: drive.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> The downside of using SUBST is that you get no support for the Recycle Bin<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. To get around that limitation, I found that using <a href=\"https://www.farmanager.com\">FAR Manager</a>, rather than File Explorer, as my file manager would actually move files to the Recycle Bin upon deletion. Unfortunately, FAR Manager’s text-only interface and general jankiness led me to abandon it for <a href=\"https://doublecommander.com\">Double Commander</a>, which is superior for my needs but does not move the file to the Recycle Bin on my mapped Z: drive.</p>\n<p>The TechNet post I found describes a way to make a .reg file that will update the Windows Registry and create a new mapped drive to whatever location you want, with full Recycle Bin support. You create the file, run it once, and you are all set. The drive, unlike one mapped with <code>SUBST</code>, will persist across reboots, and it will have full Recycle Bin support.</p>\n<p>I love it, and think I should try to write a PowerShell or Python script that will create such mappings without having to edit a .reg file manually.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Believe it or not, but I still remembered the SUBST command from my MS-DOS days in the late 1980s and early 1990s.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>I take it for granted that it is preferable to have the safety net of the Recycle Bin, in case I delete something accidentally.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "My favorite tech discovery of the week was this one: an old TechNet post titled “[Enable Recycle Bin on mapped network drives](https://social.technet.microsoft.com/Forums/windows/en-US/a349801f-398f-4139-8e8b-b0a92f599e2b/enable-recycle-bin-on-mapped-network-drives?forum=w8itpronetworking).” This article helped me figure out how to get the Windows Recycle Bin working on my primary documents folder, which is a mapped drive that isn’t _really_ a mapped drive. \n\nFor historical reasons, I store my documents on a mapped drive that is actually a deeply nested folder on my hard drive. Several years ago, my company implemented Microsoft OneDrive for file sync, sharing, backup, and so on. While that is great, it did mean that I had to move my folder tree to a very long path. Because I like to use long, descriptive names for everything, I ended up bumping into “file path too long” errors, especially in Excel. Excel will not even open a file whose path is over 256 characters long. \n\nWhen your Microsoft OneDrive root folder already takes up almost 100 characters, that leaves too little left for me to use. To get around the character limit, I used the `[SUBST]` command in a startup script to substitute a drive letter (Z: in my case) for a folder on the C: drive.[^1] The downside of using SUBST is that you get no support for the Recycle Bin[^2]. To get around that limitation, I found that using [FAR Manager](https://www.farmanager.com), rather than File Explorer, as my file manager would actually move files to the Recycle Bin upon deletion. Unfortunately, FAR Manager’s text-only interface and general jankiness led me to abandon it for [Double Commander](https://doublecommander.com), which is superior for my needs but does not move the file to the Recycle Bin on my mapped Z: drive.\n\nThe TechNet post I found describes a way to make a .reg file that will update the Windows Registry and create a new mapped drive to whatever location you want, with full Recycle Bin support. You create the file, run it once, and you are all set. The drive, unlike one mapped with `SUBST`, will persist across reboots, and it will have full Recycle Bin support.\n\nI love it, and think I should try to write a PowerShell or Python script that will create such mappings without having to edit a .reg file manually.\n\n[^1]:\tBelieve it or not, but I still remembered the SUBST command from my MS-DOS days in the late 1980s and early 1990s.\n\n[^2]:\tI take it for granted that it is preferable to have the safety net of the Recycle Bin, in case I delete something accidentally.\n",
+				"date_published": "2022-06-03T23:19:24-04:00",
+				"url": "https://micro.mjdescy.me/2022/06/03/enable-recycle-bin.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2022/06/03/i-did-my.html",
 				
 				"content_html": "<p>I did my first workout at my new gym tonight. I am happy I did, and am proud to say that it was not as hard as I thought to get back into cardio and weights again after many years away from them.</p>\n",
