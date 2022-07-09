@@ -25,6 +25,107 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://micro.mjdescy.me/2022/07/08/i-was-delighted.html" class="u-url"><time class="dt-published" datetime="2022-07-08 22:50:04 -0400">Jul 8, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I was delighted to learn this evening that I could install the excellent, open-source database Postgres on my Mac by downloading a simple app bundle—<a href="https://postgresapp.com">Postgres.app</a>—and copying it to my Applications folder. In contrast, installing SQL Server on my Windows machine at work was a <em>big deal</em>.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://micro.mjdescy.me/2022/07/07/ori-and-the.html">🎮 Ori and the Will of the Wisps</a></h1>
+		
+
+		<a href="https://micro.mjdescy.me/2022/07/07/ori-and-the.html" class="u-url"><time class="dt-published" datetime="2022-07-07 18:33:45 -0400">Jul 7, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Over this past week I played through <a href="https://en.wikipedia.org/wiki/Ori_and_the_Will_of_the_Wisps">Ori and the Will of the Wisps</a> on the Nintendo Switch. It is a challenging Metroidvania with beautiful graphics and a moving story. I highly recommend it—especially if you enjoy platforming challenges. The way that Ori moves, jumps, bashes off enemies, and launches into the air is pure delight.</p>
+<p>I had purchased the game almost two years ago when it first came out, and abandoned my save file because the game kept crashing. I had hoped the game would be patched so it no longer crashed, but that did not happen. On this play-through, the game crashed five or six times. Fortunately, I didn’t lose any progress when it did.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://micro.mjdescy.me/2022/07/06/etl-with-python.html">ETL with Python</a></h1>
+		
+
+		<a href="https://micro.mjdescy.me/2022/07/06/etl-with-python.html" class="u-url"><time class="dt-published" datetime="2022-07-06 22:24:26 -0400">Jul 6, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I have been experimenting with writing ETL (extract, transform, load) scripts in Python for work. The scripts were mostly fun and easy to write, but the outcomes have been disappointing: unacceptably slow load times.</p>
+<p>I usually work with an instance of SQL Server that runs locally on my computer. I use it for data collection, analysis, and reporting, and have never needed a shared server. In the local environment, I have always loaded .csv files to staging tables via BCP or the BULK INSERT command in T-SQL scripts; then I use T-SQL queries or stored procedures to load the data into the destination tables. This approach is very fast, but it only does “L” part of ETL (load). It also doesn’t work for remote databases, unless I have access to a filesystem that database server can read.</p>
+<p>A Python script using a library such as PETL or Pandas, on the other hand, can do the whole thing: read a file in from just about any file format, transform the rows and columns in various ways, then load it into the database.</p>
+<p>Lately I have been working with various databases that are stored somewhere in the cloud. They are the slowest databases I have ever worked with, and I don’t have access to the filesystem they can BULK INSERT from. Writing an ETL script lets me work around that problem easily. By far the hardest part of writing my first ETL scripts with Python was getting working SQL connection string. (I think that part would have been a cinch if our database was something open source like PostGRES.)</p>
+<p>Unfortunately, my simple ETL script could load a table at the rate of 5 records per second, which is comically slow. At that rate, our data will take days or weeks to load. I’m not sure what the bottleneck is. It is probably slow network transfer time on top of a hugely sub-optimal data insertion method on the database side. I think that, in the end, it may not be worth figuring out. I should probably try <a href="https://docs.microsoft.com/en-us/sql/integration-services/import-export-data/import-and-export-data-with-the-sql-server-import-and-export-wizard?view=sql-server-ver16">a better tool for the job</a>.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://micro.mjdescy.me/2022/07/04/dependence-day.html">Dependence Day</a></h1>
+		
+
+		<a href="https://micro.mjdescy.me/2022/07/04/dependence-day.html" class="u-url"><time class="dt-published" datetime="2022-07-04 12:13:14 -0400">Jul 4, 2022</time></a>
+
+		<div class="e-content">
+			 <p>On Independence Day, we Americans celebrate throwing off the yoke of tyranny of the British Crown and declaring that we, and all people, have certain inalienable rights under natural law.</p>
+<p>The Supreme Court has made a mockery of this idea in its recent decision <em><a href="https://www.law.cornell.edu/supremecourt/text/19-1392">Dobbs v. Jackson</a></em>. Now we are being led to believe that our natural rights are not natural at all. Instead, they depend on national tradition—specifically what the <em>Supreme Court majority</em> deems to be national tradition.</p>
+<p>I refuse to believe that our rights should depend on the whims of a small group of unelected officials. It’s not much better than living under a monarchy.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://micro.mjdescy.me/2022/07/03/stranger-things-season.html" class="u-url"><time class="dt-published" datetime="2022-07-03 21:42:44 -0400">Jul 3, 2022</time></a>
+
+		<div class="e-content">
+			 <p>📺 <em>Stranger Things</em> season 4 really clicked for me. Sure, it has some clumsy bits and didn&rsquo;t serve half its characters with a real story, but overall I was hooked from the start and loved every minute of it.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://micro.mjdescy.me/2022/07/02/summer-computer-science.html">Summer computer science</a></h1>
+		
+
+		<a href="https://micro.mjdescy.me/2022/07/02/summer-computer-science.html" class="u-url"><time class="dt-published" datetime="2022-07-02 22:10:32 -0400">Jul 2, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I started teaching my son Python <a href="https://docs.python.org/3/library/turtle.html">turtle graphics</a> this week. He’s only 5, but he is absolutely mad for computers and is thrilled to get to use them to do something.</p>
+<p>I first learned to program using <a href="https://en.wikipedia.org/wiki/Turtle_graphics">turtle graphics</a> in <a href="https://en.wikipedia.org/wiki/Logo_(programming_language)">Logo</a> when I was in third grade. It was back in the 1980s, when computers were too expensive for my family to own, so it was also the first time I ever used a computer. My mom signed me up for a class at the local community college. We all used Apple IIs in the computer lab, which were probably old even then. Most of those machines had green monochrome monitors, and all of them had two 5.25” floppy drives. Now, of course, he is using my old MacBook Pro on my couch, and coding with Python in Visual Studio Code.</p>
+<p>We have been working through some simple exercises, like finding different ways to draw a square. He understands looping already, and asked how to create an infinite loop to draw the square (and watch the turtle move) endlessly.</p>
+<p>He and I are progressing very slowly, mostly because he asks lots and lots of questions, and partially because he is interested in doing things with turtle graphics that I was not prepared to teach him. (I had planned to teach him to draw lines and shapes. He is more interested in turning the turtle into a rocketship and moving it all around the screen.)</p>
+<p>He is getting it. I installed <a href="https://omz-software.com/pythonista/">Pythonista</a> on his iPad last night, and this morning he used it to write a Python program all on his own, starting with:</p>
+<pre><code>from turtle import *
+</code></pre>
+<p>It’s pretty cool.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://micro.mjdescy.me/2022/07/02/summer-math.html">Summer math</a></h1>
+		
+
+		<a href="https://micro.mjdescy.me/2022/07/02/summer-math.html" class="u-url"><time class="dt-published" datetime="2022-07-02 22:04:32 -0400">Jul 2, 2022</time></a>
+
+		<div class="e-content">
+			 <p>It took a few days of cajoling, but I somehow convinced my daughter to study math with me over the summer—at least until we go on vacation in about a month. We are going through a “step up to fifth grade” packet that her math teacher gave us. I am making up my own problems based on the material and challenging her to think mathematically, too. She is an A+ student in the middle level of math in her grade, but she has been unable to pass the school’s rigorous, though largely arbitrary, criteria to gain entry into the highest level. I am hoping to be able to help her break through whatever glass ceiling the school is imposing on her. Our math studies have been a very rewarding part of our day.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://micro.mjdescy.me/2022/07/01/i-have-been.html" class="u-url"><time class="dt-published" datetime="2022-07-01 17:43:17 -0400">Jul 1, 2022</time></a>
 
 		<div class="e-content">
