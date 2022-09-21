@@ -7,6 +7,92 @@
 	"items": [
 		
 			{
+				"id": "http://mjdescy.micro.blog/2022/09/20/is-there-no.html",
+				"title": "Is there no good and fast way to create an ETL job in Python?",
+				"content_html": "<p>I <em>love</em> using <a href=\"https://petl.readthedocs.io/en/stable/\">PETL</a> to read, transform, and validate datasets. Its API is simple and straightforward to use, and its documentation, while not perfect, is really good. Unfortunately, PETL’s data processing—especially loading data into SQL Server—is very slow—to the point of being completely unusable for anything but the smallest datasets.</p>\n<p><a href=\"http://odo.pydata.org/en/latest/overview.html\">Odo</a> promises to be much faster at data loads, and seems dead-simple to use, but I cannot get it to work. It turns out that the package hasn’t been updated in five years, which is why it will not work with the modern Python version I am using. I just wasted an hour on it and will probably give it up completely.</p>\n<p>I can’t find any other ETL tools that will do the data load for me. I have to rely on the SQL Server Import/Export Wizard, which usually works and is fast but is a one-shot thing because I don’t have SQL Server Integration Services at my disposal.</p>\n<p>I suppose I will either have to fork Odo, get it working, and figure out how to get my fork of Odo into my project, or I will have to write my own import routine using SQL Alchemy. Both seem difficult to me and not worth the trouble. I’m not the database administrator on my project—I’m supposed to be the data analyst!</p>\n",
+				"content_text": "I _love_ using [PETL](https://petl.readthedocs.io/en/stable/) to read, transform, and validate datasets. Its API is simple and straightforward to use, and its documentation, while not perfect, is really good. Unfortunately, PETL’s data processing—especially loading data into SQL Server—is very slow—to the point of being completely unusable for anything but the smallest datasets.\n\n[Odo](http://odo.pydata.org/en/latest/overview.html) promises to be much faster at data loads, and seems dead-simple to use, but I cannot get it to work. It turns out that the package hasn’t been updated in five years, which is why it will not work with the modern Python version I am using. I just wasted an hour on it and will probably give it up completely.\n\nI can’t find any other ETL tools that will do the data load for me. I have to rely on the SQL Server Import/Export Wizard, which usually works and is fast but is a one-shot thing because I don’t have SQL Server Integration Services at my disposal.\n\nI suppose I will either have to fork Odo, get it working, and figure out how to get my fork of Odo into my project, or I will have to write my own import routine using SQL Alchemy. Both seem difficult to me and not worth the trouble. I’m not the database administrator on my project—I’m supposed to be the data analyst!\n\n",
+				"date_published": "2022-09-20T22:51:33-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/20/is-there-no.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/09/20/chess-is-just.html",
+				"title": "Chess is just poker now",
+				"content_html": "<p>The chess cheating scandal <em>du jour</em> is puzzling and fascinating. Matteo Wong’s <a href=\"https://www.theatlantic.com/technology/archive/2022/09/carlsen-niemann-chess-cheating-poker/671472/\">article in <em>The Atlantic</em></a> does not really unpack the issue, but instead provide some depth into how computers have changed the game over the past 25 years:</p>\n<blockquote>\n<p>What once seemed magical became calculable; where one could rely on intuition came to require rigorous memorization and training with a machine. Chess, once poetic and philosophical, was acquiring elements of a spelling bee: a battle of preparation, a measure of hours invested.</p>\n</blockquote>\n<p>It is interesting, though understandable from a technological standpoint, that the concern in the 1990s was that a person might help the computer engine cheat. Today, conversely, the concern is that a computer engine (combined with some spycraft tech, it must be said) might help person cheat.</p>\n",
+				"content_text": "The chess cheating scandal *du jour* is puzzling and fascinating. Matteo Wong’s [article in _The Atlantic_](https://www.theatlantic.com/technology/archive/2022/09/carlsen-niemann-chess-cheating-poker/671472/) does not really unpack the issue, but instead provide some depth into how computers have changed the game over the past 25 years:\n\n> What once seemed magical became calculable; where one could rely on intuition came to require rigorous memorization and training with a machine. Chess, once poetic and philosophical, was acquiring elements of a spelling bee: a battle of preparation, a measure of hours invested. \n\nIt is interesting, though understandable from a technological standpoint, that the concern in the 1990s was that a person might help the computer engine cheat. Today, conversely, the concern is that a computer engine (combined with some spycraft tech, it must be said) might help person cheat.\n\n",
+				"date_published": "2022-09-20T10:58:32-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/20/chess-is-just.html",
+				"tags": ["Chess","Thoughts"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/09/19/longrunning-data-feeds.html",
+				"title": "Long-running data feeds are a real thing after all",
+				"content_html": "<p>Over the weekend I wrote a SQL Server stored procedure and some user-defined functions it relies on that cleaned up data and inserted it into a new table. It was the sort of thing that took a short time to write, but an awfully long time to execute and to troubleshoot. It gave me an opportunity to learn more about using SQL Server’s “Include Actual Execution Plan” and “Include Live Query Statistics” features, which helped point me in the direction of creating an index that supposedly sped the whole process up by 30%.</p>\n<p>The first version of my load script ran for 9.5 hours, and then bombed because it tried to insert a NULL value into the primary key of a table. Zero rows were inserted. I revised it to create a second version, which eventually got killed by the server (it timed out or over-burdened the database server, I guess) before it completed after over ten hours. Zero rows were inserted. The final version ran yesterday and overnight last night for over 16 hours, which makes it the longest-running data feed I have ever written by over 10 hours. This run was successful. Only 37,000 rows were inserted, but to get the data I had to comb over 45 million records, which is why it took so long.</p>\n<p>As an auditor, I have not always believed it when IT would tell me a data feed took all weekend to run. This experience helped me understand than it can happen, especially when it is an ad-hoc job.</p>\n",
+				"content_text": "Over the weekend I wrote a SQL Server stored procedure and some user-defined functions it relies on that cleaned up data and inserted it into a new table. It was the sort of thing that took a short time to write, but an awfully long time to execute and to troubleshoot. It gave me an opportunity to learn more about using SQL Server’s “Include Actual Execution Plan” and “Include Live Query Statistics” features, which helped point me in the direction of creating an index that supposedly sped the whole process up by 30%.\n\nThe first version of my load script ran for 9.5 hours, and then bombed because it tried to insert a NULL value into the primary key of a table. Zero rows were inserted. I revised it to create a second version, which eventually got killed by the server (it timed out or over-burdened the database server, I guess) before it completed after over ten hours. Zero rows were inserted. The final version ran yesterday and overnight last night for over 16 hours, which makes it the longest-running data feed I have ever written by over 10 hours. This run was successful. Only 37,000 rows were inserted, but to get the data I had to comb over 45 million records, which is why it took so long.\n\nAs an auditor, I have not always believed it when IT would tell me a data feed took all weekend to run. This experience helped me understand than it can happen, especially when it is an ad-hoc job.\n\n",
+				"date_published": "2022-09-19T21:12:03-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/19/longrunning-data-feeds.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/09/17/todays-listen-autofiction.html",
+				
+				"content_html": "<p>🎵 Today’s listen: <a href=\"https://music.apple.com/us/album/autofiction/1623155517\"><em>Autofiction</em> by (The London) Suede</a>. It’s really good! They went “punk” after 30 years. 😀</p>\n",
+				"content_text": "🎵 Today’s listen: [_Autofiction_ by (The London) Suede](https://music.apple.com/us/album/autofiction/1623155517). It’s really good! They went “punk” after 30 years. 😀\n",
+				"date_published": "2022-09-17T09:45:12-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/17/todays-listen-autofiction.html",
+				"tags": ["Audiophile"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/09/17/i-wrote-a.html",
+				
+				"content_html": "<p>I wrote a SQL script that queried, cleaned, and loaded data into a table. It failed after <em>9 hours</em> of runtime because of a NULL value in the source data that I had forgotten about. 🤦‍♂️</p>\n",
+				"content_text": "I wrote a SQL script that queried, cleaned, and loaded data into a table. It failed after _9 hours_ of runtime because of a NULL value in the source data that I had forgotten about. 🤦‍♂️\n",
+				"date_published": "2022-09-17T09:42:25-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/17/i-wrote-a.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/09/16/i-am-still.html",
+				
+				"content_html": "<p>I am still learning new T-SQL operators. Today I discovered <a href=\"https://www.mssqltips.com/sqlservertip/1958/sql-server-cross-apply-and-outer-apply/\">CROSS APPLY</a>, which is for joining to a table-valued function (with parameters pulled from the other tables).</p>\n",
+				"content_text": "I am still learning new T-SQL operators. Today I discovered [CROSS APPLY](https://www.mssqltips.com/sqlservertip/1958/sql-server-cross-apply-and-outer-apply/), which is for joining to a table-valued function (with parameters pulled from the other tables).\n\n",
+				"date_published": "2022-09-16T11:49:43-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/16/i-am-still.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/09/16/todays-listen-asphalt.html",
+				
+				"content_html": "<p>🎵 Today’s listen: <a href=\"https://music.apple.com/us/album/asphalt-meadows/1621735243\"><em>Asphalt Meadows</em> by Death Cab for Cutie</a>. I’m excited to hear new music from one of my favorite bands from the aughts.</p>\n",
+				"content_text": "🎵 Today’s listen: [*Asphalt Meadows* by Death Cab for Cutie](https://music.apple.com/us/album/asphalt-meadows/1621735243). I’m excited to hear new music from one of my favorite bands from the aughts.\n\n",
+				"date_published": "2022-09-16T10:16:28-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/16/todays-listen-asphalt.html",
+				"tags": ["Audiophile"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/09/15/tableau-is-a.html",
+				
+				"content_html": "<p>Tableau is a very powerful data visualization tool. The more I use it, though, the weirder it is to me from a UI standpoint. ￼ I find it both easier and harder to use that it’s nearest competitor, Microsoft Power BI.</p>\n",
+				"content_text": "Tableau is a very powerful data visualization tool. The more I use it, though, the weirder it is to me from a UI standpoint. ￼ I find it both easier and harder to use that it’s nearest competitor, Microsoft Power BI.\n",
+				"date_published": "2022-09-15T10:56:26-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/15/tableau-is-a.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/09/14/i-coded-and.html",
+				
+				"content_html": "<p>I coded and tested an update to one of my iOS apps tonight. It has been too long since I touched Xcode. I have been working more evening hours this year than ever before—mainly because I am on dad duty during daytime hours—and don&rsquo;t get to work on my hobbies as much as I used to.</p>\n",
+				"content_text": "I coded and tested an update to one of my iOS apps tonight. It has been too long since I touched Xcode. I have been working more evening hours this year than ever before—mainly because I am on dad duty during daytime hours—and don't get to work on my hobbies as much as I used to.\n",
+				"date_published": "2022-09-14T23:30:53-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/14/i-coded-and.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/09/14/my-son-lost.html",
+				
+				"content_html": "<p>My son lost his first tooth today! It happened while he was at school, eating an apple. His teacher wrapped it up for us and sent it home with a note.</p>\n",
+				"content_text": "My son lost his first tooth today! It happened while he was at school, eating an apple. His teacher wrapped it up for us and sent it home with a note.\n",
+				"date_published": "2022-09-14T22:48:47-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/14/my-son-lost.html"
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2022/09/13/ios-is-very.html",
 				
 				"content_html": "<p>iOS 16 is very nice! I am enjoying the new Lock Screens and how they tie to the system Focus feature.</p>\n",
