@@ -24,6 +24,131 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://micro.mjdescy.me/2022/09/20/is-there-no.html">Is there no good and fast way to create an ETL job in Python?</a></h1>
+		
+
+		<a href="https://micro.mjdescy.me/2022/09/20/is-there-no.html" class="u-url"><time class="dt-published" datetime="2022-09-20 22:51:33 -0400">Sep 20, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I <em>love</em> using <a href="https://petl.readthedocs.io/en/stable/">PETL</a> to read, transform, and validate datasets. Its API is simple and straightforward to use, and its documentation, while not perfect, is really good. Unfortunately, PETL’s data processing—especially loading data into SQL Server—is very slow—to the point of being completely unusable for anything but the smallest datasets.</p>
+<p><a href="http://odo.pydata.org/en/latest/overview.html">Odo</a> promises to be much faster at data loads, and seems dead-simple to use, but I cannot get it to work. It turns out that the package hasn’t been updated in five years, which is why it will not work with the modern Python version I am using. I just wasted an hour on it and will probably give it up completely.</p>
+<p>I can’t find any other ETL tools that will do the data load for me. I have to rely on the SQL Server Import/Export Wizard, which usually works and is fast but is a one-shot thing because I don’t have SQL Server Integration Services at my disposal.</p>
+<p>I suppose I will either have to fork Odo, get it working, and figure out how to get my fork of Odo into my project, or I will have to write my own import routine using SQL Alchemy. Both seem difficult to me and not worth the trouble. I’m not the database administrator on my project—I’m supposed to be the data analyst!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://micro.mjdescy.me/2022/09/20/chess-is-just.html">Chess is just poker now</a></h1>
+		
+
+		<a href="https://micro.mjdescy.me/2022/09/20/chess-is-just.html" class="u-url"><time class="dt-published" datetime="2022-09-20 10:58:32 -0400">Sep 20, 2022</time></a>
+
+		<div class="e-content">
+			 <p>The chess cheating scandal <em>du jour</em> is puzzling and fascinating. Matteo Wong’s <a href="https://www.theatlantic.com/technology/archive/2022/09/carlsen-niemann-chess-cheating-poker/671472/">article in <em>The Atlantic</em></a> does not really unpack the issue, but instead provide some depth into how computers have changed the game over the past 25 years:</p>
+<blockquote>
+<p>What once seemed magical became calculable; where one could rely on intuition came to require rigorous memorization and training with a machine. Chess, once poetic and philosophical, was acquiring elements of a spelling bee: a battle of preparation, a measure of hours invested.</p>
+</blockquote>
+<p>It is interesting, though understandable from a technological standpoint, that the concern in the 1990s was that a person might help the computer engine cheat. Today, conversely, the concern is that a computer engine (combined with some spycraft tech, it must be said) might help person cheat.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://micro.mjdescy.me/2022/09/19/longrunning-data-feeds.html">Long-running data feeds are a real thing after all</a></h1>
+		
+
+		<a href="https://micro.mjdescy.me/2022/09/19/longrunning-data-feeds.html" class="u-url"><time class="dt-published" datetime="2022-09-19 21:12:03 -0400">Sep 19, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Over the weekend I wrote a SQL Server stored procedure and some user-defined functions it relies on that cleaned up data and inserted it into a new table. It was the sort of thing that took a short time to write, but an awfully long time to execute and to troubleshoot. It gave me an opportunity to learn more about using SQL Server’s “Include Actual Execution Plan” and “Include Live Query Statistics” features, which helped point me in the direction of creating an index that supposedly sped the whole process up by 30%.</p>
+<p>The first version of my load script ran for 9.5 hours, and then bombed because it tried to insert a NULL value into the primary key of a table. Zero rows were inserted. I revised it to create a second version, which eventually got killed by the server (it timed out or over-burdened the database server, I guess) before it completed after over ten hours. Zero rows were inserted. The final version ran yesterday and overnight last night for over 16 hours, which makes it the longest-running data feed I have ever written by over 10 hours. This run was successful. Only 37,000 rows were inserted, but to get the data I had to comb over 45 million records, which is why it took so long.</p>
+<p>As an auditor, I have not always believed it when IT would tell me a data feed took all weekend to run. This experience helped me understand than it can happen, especially when it is an ad-hoc job.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://micro.mjdescy.me/2022/09/17/todays-listen-autofiction.html" class="u-url"><time class="dt-published" datetime="2022-09-17 09:45:12 -0400">Sep 17, 2022</time></a>
+
+		<div class="e-content">
+			 <p>🎵 Today’s listen: <a href="https://music.apple.com/us/album/autofiction/1623155517"><em>Autofiction</em> by (The London) Suede</a>. It’s really good! They went “punk” after 30 years. 😀</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://micro.mjdescy.me/2022/09/17/i-wrote-a.html" class="u-url"><time class="dt-published" datetime="2022-09-17 09:42:25 -0400">Sep 17, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I wrote a SQL script that queried, cleaned, and loaded data into a table. It failed after <em>9 hours</em> of runtime because of a NULL value in the source data that I had forgotten about. 🤦‍♂️</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://micro.mjdescy.me/2022/09/16/i-am-still.html" class="u-url"><time class="dt-published" datetime="2022-09-16 11:49:43 -0400">Sep 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I am still learning new T-SQL operators. Today I discovered <a href="https://www.mssqltips.com/sqlservertip/1958/sql-server-cross-apply-and-outer-apply/">CROSS APPLY</a>, which is for joining to a table-valued function (with parameters pulled from the other tables).</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://micro.mjdescy.me/2022/09/16/todays-listen-asphalt.html" class="u-url"><time class="dt-published" datetime="2022-09-16 10:16:28 -0400">Sep 16, 2022</time></a>
+
+		<div class="e-content">
+			 <p>🎵 Today’s listen: <a href="https://music.apple.com/us/album/asphalt-meadows/1621735243"><em>Asphalt Meadows</em> by Death Cab for Cutie</a>. I’m excited to hear new music from one of my favorite bands from the aughts.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://micro.mjdescy.me/2022/09/15/tableau-is-a.html" class="u-url"><time class="dt-published" datetime="2022-09-15 10:56:26 -0400">Sep 15, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Tableau is a very powerful data visualization tool. The more I use it, though, the weirder it is to me from a UI standpoint. ￼ I find it both easier and harder to use that it’s nearest competitor, Microsoft Power BI.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://micro.mjdescy.me/2022/09/14/i-coded-and.html" class="u-url"><time class="dt-published" datetime="2022-09-14 23:30:53 -0400">Sep 14, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I coded and tested an update to one of my iOS apps tonight. It has been too long since I touched Xcode. I have been working more evening hours this year than ever before—mainly because I am on dad duty during daytime hours—and don&rsquo;t get to work on my hobbies as much as I used to.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://micro.mjdescy.me/2022/09/14/my-son-lost.html" class="u-url"><time class="dt-published" datetime="2022-09-14 22:48:47 -0400">Sep 14, 2022</time></a>
+
+		<div class="e-content">
+			 <p>My son lost his first tooth today! It happened while he was at school, eating an apple. His teacher wrapped it up for us and sent it home with a note.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://micro.mjdescy.me/2022/09/13/ios-is-very.html" class="u-url"><time class="dt-published" datetime="2022-09-13 11:22:59 -0400">Sep 13, 2022</time></a>
 
