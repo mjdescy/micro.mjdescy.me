@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://mjdescy.micro.blog/2022/10/16/blah.html",
+				"title": "Blah",
+				"content_html": "<p>I stopped writing blog posts a couple months ago for no reason whatsoever. It has been very hard to get back into the habit of posting something regularly.</p>\n<p>I have not lost interest in blogging. Something stranger has happened: I have lost interest in myself. I don’t completely know why.</p>\n<p>I am not overly depressed or anything—just maxed out. My general feeling about the past couple months has been that I have put in more effort, and reaped fewer rewards for that effort, than I have in years.</p>\n",
+				"content_text": "I stopped writing blog posts a couple months ago for no reason whatsoever. It has been very hard to get back into the habit of posting something regularly. \n\nI have not lost interest in blogging. Something stranger has happened: I have lost interest in myself. I don’t completely know why.\n\nI am not overly depressed or anything—just maxed out. My general feeling about the past couple months has been that I have put in more effort, and reaped fewer rewards for that effort, than I have in years.\n\n",
+				"date_published": "2022-10-16T10:03:29-04:00",
+				"url": "https://micro.mjdescy.me/2022/10/16/blah.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/09/21/i-have-some.html",
+				
+				"content_html": "<p>I have some light reading tonight: <a href=\"https://pola-rs.github.io/polars-book/user-guide/introduction.html\">Polars User Guide</a>. I basically hate <a href=\"https://pandas.pydata.org\">Pandas</a>&rsquo;s API and hope to use something more nicely designed, and a heck of a lot faster, instead.</p>\n",
+				"content_text": "I have some light reading tonight: [Polars User Guide](https://pola-rs.github.io/polars-book/user-guide/introduction.html). I basically hate [Pandas](https://pandas.pydata.org)'s API and hope to use something more nicely designed, and a heck of a lot faster, instead.\n",
+				"date_published": "2022-09-21T23:35:21-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/21/i-have-some.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/09/21/i-finished-watching.html",
+				
+				"content_html": "<p>📺 I finished watching <a href=\"https://en.wikipedia.org/wiki/Slow_Horses\"><em>Slow Horses</em></a> Season 1 tonight. I loved it and can&rsquo;t wait for Season 2. I&rsquo;m wondering if I would like the books that the show is based on. I also wonder if it will get more than two seasons.</p>\n",
+				"content_text": "📺 I finished watching [_Slow Horses_](https://en.wikipedia.org/wiki/Slow_Horses) Season 1 tonight. I loved it and can't wait for Season 2. I'm wondering if I would like the books that the show is based on. I also wonder if it will get more than two seasons.\n",
+				"date_published": "2022-09-21T23:29:24-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/21/i-finished-watching.html",
+				"tags": ["TV"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/09/21/im-uninstalling-visual.html",
+				
+				"content_html": "<p>I&rsquo;m uninstalling Visual Studio from my work computer. It feels weird to do it, but I haven&rsquo;t used it in years. Visual Studio Code killed it for me.</p>\n",
+				"content_text": "I'm uninstalling Visual Studio from my work computer. It feels weird to do it, but I haven't used it in years. Visual Studio Code killed it for me.\n",
+				"date_published": "2022-09-21T10:50:04-04:00",
+				"url": "https://micro.mjdescy.me/2022/09/21/im-uninstalling-visual.html"
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2022/09/20/is-there-no.html",
 				"title": "Is there no good and fast way to create an ETL job in Python?",
 				"content_html": "<p>I <em>love</em> using <a href=\"https://petl.readthedocs.io/en/stable/\">PETL</a> to read, transform, and validate datasets. Its API is simple and straightforward to use, and its documentation, while not perfect, is really good. Unfortunately, PETL’s data processing—especially loading data into SQL Server—is very slow—to the point of being completely unusable for anything but the smallest datasets.</p>\n<p><a href=\"http://odo.pydata.org/en/latest/overview.html\">Odo</a> promises to be much faster at data loads, and seems dead-simple to use, but I cannot get it to work. It turns out that the package hasn’t been updated in five years, which is why it will not work with the modern Python version I am using. I just wasted an hour on it and will probably give it up completely.</p>\n<p>I can’t find any other ETL tools that will do the data load for me. I have to rely on the SQL Server Import/Export Wizard, which usually works and is fast but is a one-shot thing because I don’t have SQL Server Integration Services at my disposal.</p>\n<p>I suppose I will either have to fork Odo, get it working, and figure out how to get my fork of Odo into my project, or I will have to write my own import routine using SQL Alchemy. Both seem difficult to me and not worth the trouble. I’m not the database administrator on my project—I’m supposed to be the data analyst!</p>\n",
