@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mjdescy.micro.blog/2022/11/11/today-im-taking.html",
+				
+				"content_html": "<p>Today I’m taking my family to Boston for a short trip. We are excited. My wife and I went to college near Boston and have fond memories of the city.</p>\n",
+				"content_text": "Today I’m taking my family to Boston for a short trip. We are excited. My wife and I went to college near Boston and have fond memories of the city.\n",
+				"date_published": "2022-11-11T09:34:41-04:00",
+				"url": "https://micro.mjdescy.me/2022/11/11/today-im-taking.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2022/11/01/my-son-and.html",
+				
+				"content_html": "<p>My son and I are sick for the second time since school started. No one liked wearing a facemask last year but I didn’t catch a cold or COVID until my son stopped wearing his.</p>\n",
+				"content_text": "My son and I are sick for the second time since school started. No one liked wearing a facemask last year but I didn’t catch a cold or COVID until my son stopped wearing his. \n",
+				"date_published": "2022-11-01T21:23:51-04:00",
+				"url": "https://micro.mjdescy.me/2022/11/01/my-son-and.html"
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2022/11/01/for-the-first.html",
 				
 				"content_html": "<p>For the first time in about 15 years I am no long a customer of Verizon Wireless. My family is living the MVNO life. I hope it works out, but I get the impression that, because eSims make switching quick and easy, we can always switch carriers again if we need to.</p>\n",
