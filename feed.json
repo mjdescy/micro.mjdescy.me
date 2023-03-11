@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://mjdescy.micro.blog/2023/03/10/my-friends-from.html",
+				
+				"content_html": "<p>My friends from high school would never believe that I attended religious services twice this week. There was a lot of music and merriment each time.</p>\n",
+				"content_text": "My friends from high school would never believe that I attended religious services twice this week. There was a lot of music and merriment each time.\n",
+				"date_published": "2023-03-10T20:53:36-05:00",
+				"url": "https://micro.mjdescy.me/2023/03/10/my-friends-from.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/03/06/today-seems-like.html",
+				
+				"content_html": "<p> 🎵 Today seems like a good day to listen to a ton of Lana Del Rey.</p>\n",
+				"content_text": " 🎵 Today seems like a good day to listen to a ton of Lana Del Rey.\n",
+				"date_published": "2023-03-06T09:00:07-05:00",
+				"url": "https://micro.mjdescy.me/2023/03/06/today-seems-like.html",
+				"tags": ["Audiophile"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/03/04/i-followed-a.html",
+				
+				"content_html": "<p>I followed a bunch of (semi-famous, mostly tech) podcasters I listen to in Mastodon and it totally became Twitter again for me, in good ways (there is content) and in bad (it&rsquo;s a lot of outrage and virtue signaling). I don&rsquo;t really know people on the platform, so I think it might just not be for me.</p>\n",
+				"content_text": "I followed a bunch of (semi-famous, mostly tech) podcasters I listen to in Mastodon and it totally became Twitter again for me, in good ways (there is content) and in bad (it's a lot of outrage and virtue signaling). I don't really know people on the platform, so I think it might just not be for me.\n",
+				"date_published": "2023-03-04T16:27:36-05:00",
+				"url": "https://micro.mjdescy.me/2023/03/04/i-followed-a.html"
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2023/03/04/finished-reading-constance.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781542014267\">Constance</a> by Matthew Fitzsimmons 📚 It was an OK sci-fi thriller. The writing was competent but it was never exciting. It was obvious from the start who the big bad was, and the characters seemed to lack inner lives. ⭐️⭐️⭐️ out of 5.</p>\n",
@@ -683,7 +708,7 @@
 				"id": "http://mjdescy.micro.blog/2022/08/01/whitefield-new-hampshire.html",
 				
 				"content_html": "<p>Whitefield, New Hampshire, band concert. My father-in-law is playing a song he arranged and my kids are dancing and running around the town green.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Whitefield, New Hampshire, band concert. My father-in-law is playing a song he arranged and my kids are dancing and running around the town green.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2022/62ef5a3201.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Whitefield, New Hampshire, band concert. My father-in-law is playing a song he arranged and my kids are dancing and running around the town green.\n\n<img src=\"uploads/2022/62ef5a3201.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-08-01T18:46:25-05:00",
 				"url": "https://micro.mjdescy.me/2022/08/01/whitefield-new-hampshire.html"
 			},
@@ -1745,7 +1770,7 @@
 				"id": "http://mjdescy.micro.blog/2022/03/20/one-of-my.html",
 				
 				"content_html": "<p><a href=\"https://plaintext-productivity.net\">One of my old websites</a> is #2 on <a href=\"https://news.ycombinator.com/item?id=30745524\">Hacker News</a> right now.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[One of my old websites](https://plaintext-productivity.net) is #2 on [Hacker News](https://news.ycombinator.com/item?id=30745524) right now.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2022/bbc0780b23.png\" width=\"600\" height=\"467\" alt=\"\" />\n",
+				"content_text": "[One of my old websites](https://plaintext-productivity.net) is #2 on [Hacker News](https://news.ycombinator.com/item?id=30745524) right now.\n\n<img src=\"uploads/2022/bbc0780b23.png\" width=\"600\" height=\"467\" alt=\"\" />\n",
 				"date_published": "2022-03-20T14:54:39-05:00",
 				"url": "https://micro.mjdescy.me/2022/03/20/one-of-my.html",
 				"tags": ["Journal"]
@@ -2033,7 +2058,7 @@
 				"id": "http://mjdescy.micro.blog/2022/02/13/grounds-for-sculpture.html",
 				"title": "Grounds for Sculpture",
 				"content_html": "<p>My son turns five tomorrow. As part of our celebration for him, we all took a trip to <a href=\"https://www.groundsforsculpture.org\">Grounds for Sculpture</a>. It is a huge sculpture garden that my kids love to visit.</p>\n<p>Part of their fun, which my wife and I can&rsquo;t fully understand, is that they both bring their nearly-identical stuffed penguin toys there to stomp on some of the sculptures. They have also named a bunch of the sculptures and enjoy visiting them and pretending to have a chat with them.</p>\n<p>We have been there four times now, and have discovered new things to see and marvel at every time we have visited. I took a bunch of great shots of the family today, but for my blog I will only post pictures of some of the cool sculptures we saw there.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "My son turns five tomorrow. As part of our celebration for him, we all took a trip to [Grounds for Sculpture](https://www.groundsforsculpture.org). It is a huge sculpture garden that my kids love to visit. \n\nPart of their fun, which my wife and I can't fully understand, is that they both bring their nearly-identical stuffed penguin toys there to stomp on some of the sculptures. They have also named a bunch of the sculptures and enjoy visiting them and pretending to have a chat with them.\n\nWe have been there four times now, and have discovered new things to see and marvel at every time we have visited. I took a bunch of great shots of the family today, but for my blog I will only post pictures of some of the cool sculptures we saw there.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2022/7a942ed954.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2022/8899d281c1.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2022/54e0515f12.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2022/a0a4dcb54e.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2022/21ed3cc99d.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2022/ad248c4256.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2022/a3cb3f65e7.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2022/963dbdb2c1.jpg\" width=\"504\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My son turns five tomorrow. As part of our celebration for him, we all took a trip to [Grounds for Sculpture](https://www.groundsforsculpture.org). It is a huge sculpture garden that my kids love to visit. \n\nPart of their fun, which my wife and I can't fully understand, is that they both bring their nearly-identical stuffed penguin toys there to stomp on some of the sculptures. They have also named a bunch of the sculptures and enjoy visiting them and pretending to have a chat with them.\n\nWe have been there four times now, and have discovered new things to see and marvel at every time we have visited. I took a bunch of great shots of the family today, but for my blog I will only post pictures of some of the cool sculptures we saw there.\n\n<img src=\"uploads/2022/7a942ed954.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2022/8899d281c1.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2022/54e0515f12.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2022/a0a4dcb54e.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/21ed3cc99d.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2022/ad248c4256.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2022/a3cb3f65e7.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/963dbdb2c1.jpg\" width=\"504\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-13T00:09:33-05:00",
 				"url": "https://micro.mjdescy.me/2022/02/13/grounds-for-sculpture.html",
 				"tags": ["Journal"]
@@ -2338,8 +2363,8 @@
 			{
 				"id": "http://mjdescy.micro.blog/2022/01/09/another-office-setup.html",
 				"title": "Another office setup revision",
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/2098/2022/74320c2aac.jpg\" alt=\"\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/2098/2022/8e7abe6159.jpg\" alt=\"\"></p>\n<p>Late tonight I reconfigured my desk setup for the umpteenth time. The main reason is that my last setup revision, which moved my monitor forward and my keyboard and mouse to a pull-out drawer under the desk, left my headphone and stereo amps in a no-mans-land behind my monitor, completely out of reach.</p>\n<p>My desk is strange, and I wish I had one or two normal, five-foot-wide rectangular desks in its place. I have a corner desk that is not nearly as wide as I would like, though it does connect to desktop areas of varying utility along each side. (Imagine a V-shaped desk, where the main seating area is at the apex of the V, with a secondary desk area on the left, and a cabinet on the right, all connected together.)</p>\n<p>I am planning to add a second monitor to the main area that I use for work. Unfortunately, it is unclear how exactly it would fit comfortably there, but I went ahead and ordered a new monitor anyway. (Both monitors are/will be 4K 27-inch displays.) My plan is to orient it vertically (with a downward tilt so I can read it) to the right of my current monitor. It may look a little weird, and be less useful for me to use on that side, but I don’t have anywhere else to put it.</p>\n<p>Oddly, for this setup I moved my work laptop onto the floor. It’s actually on a little five-inch-high shelf I made right that sits on on the floor under my desk, far enough from my chair that I cannot kick it. Fortunately, you can’t see it or the multitude of wires connecting to every side of it, unless you crawl under the desk. I’m sure I will have to do that occasionally to reboot the laptop, but that won’t be too often, and has always been a pain for me to do anyway.</p>\n<p>I moved my headphone dac/amp stack right next to my Mac mini, which has its own setup to the left of my work computer’s monitor-and-keyboard setup. Because the path for headphone cords no longer crosses over my keyboard or mouse at either computer, I will be able use it again. (I haven’t been able to use it since the last revision to my desk setup.) I really look forward to that.</p>\n<p>My two laptops (one a very old MacBook Pro, the other a relatively new Dell running Windows 11) are now in a drawer. I removed their chargers from their power strip, and they now reside neatly in labeled bags next to the laptops. I just don’t use them that much since I got my Mac mini, and I never plug them into a monitor. It just makes sense for me now to consider them as portable, and to pull them out when I need them and hide them the rest of the time.</p>\n<p>Also as part of this revision, I put my high-speed Epson scanner away in a cabinet because I never use it. It’s s shame, because it is very fast. Unfortunately, it isn’t that useful for my scanning needs because I don’t have stacks of letter-size papers to scan. Instead, I usually have a bunch of irregularly sized papers that require a flatbed banner (which I have as part of my multifunction printer).</p>\n<p>Now that I am done, I am happy again with it. Everything looks tidy and functional. Adding the second monitor to the work setup will be a challenge for another night.</p>\n",
-				"content_text": "![](https://cdn.uploads.micro.blog/2098/2022/74320c2aac.jpg)\n\n![](https://cdn.uploads.micro.blog/2098/2022/8e7abe6159.jpg)\n\nLate tonight I reconfigured my desk setup for the umpteenth time. The main reason is that my last setup revision, which moved my monitor forward and my keyboard and mouse to a pull-out drawer under the desk, left my headphone and stereo amps in a no-mans-land behind my monitor, completely out of reach.\n\nMy desk is strange, and I wish I had one or two normal, five-foot-wide rectangular desks in its place. I have a corner desk that is not nearly as wide as I would like, though it does connect to desktop areas of varying utility along each side. (Imagine a V-shaped desk, where the main seating area is at the apex of the V, with a secondary desk area on the left, and a cabinet on the right, all connected together.)\n\nI am planning to add a second monitor to the main area that I use for work. Unfortunately, it is unclear how exactly it would fit comfortably there, but I went ahead and ordered a new monitor anyway. (Both monitors are/will be 4K 27-inch displays.) My plan is to orient it vertically (with a downward tilt so I can read it) to the right of my current monitor. It may look a little weird, and be less useful for me to use on that side, but I don’t have anywhere else to put it.\n\nOddly, for this setup I moved my work laptop onto the floor. It’s actually on a little five-inch-high shelf I made right that sits on on the floor under my desk, far enough from my chair that I cannot kick it. Fortunately, you can’t see it or the multitude of wires connecting to every side of it, unless you crawl under the desk. I’m sure I will have to do that occasionally to reboot the laptop, but that won’t be too often, and has always been a pain for me to do anyway.\n\nI moved my headphone dac/amp stack right next to my Mac mini, which has its own setup to the left of my work computer’s monitor-and-keyboard setup. Because the path for headphone cords no longer crosses over my keyboard or mouse at either computer, I will be able use it again. (I haven’t been able to use it since the last revision to my desk setup.) I really look forward to that.\n\nMy two laptops (one a very old MacBook Pro, the other a relatively new Dell running Windows 11) are now in a drawer. I removed their chargers from their power strip, and they now reside neatly in labeled bags next to the laptops. I just don’t use them that much since I got my Mac mini, and I never plug them into a monitor. It just makes sense for me now to consider them as portable, and to pull them out when I need them and hide them the rest of the time. \n\nAlso as part of this revision, I put my high-speed Epson scanner away in a cabinet because I never use it. It’s s shame, because it is very fast. Unfortunately, it isn’t that useful for my scanning needs because I don’t have stacks of letter-size papers to scan. Instead, I usually have a bunch of irregularly sized papers that require a flatbed banner (which I have as part of my multifunction printer).\n\nNow that I am done, I am happy again with it. Everything looks tidy and functional. Adding the second monitor to the work setup will be a challenge for another night.\n\n",
+				"content_html": "<p><img src=\"https://micro.mjdescy.me/uploads/2022/74320c2aac.jpg\" alt=\"\"></p>\n<p><img src=\"https://micro.mjdescy.me/uploads/2022/8e7abe6159.jpg\" alt=\"\"></p>\n<p>Late tonight I reconfigured my desk setup for the umpteenth time. The main reason is that my last setup revision, which moved my monitor forward and my keyboard and mouse to a pull-out drawer under the desk, left my headphone and stereo amps in a no-mans-land behind my monitor, completely out of reach.</p>\n<p>My desk is strange, and I wish I had one or two normal, five-foot-wide rectangular desks in its place. I have a corner desk that is not nearly as wide as I would like, though it does connect to desktop areas of varying utility along each side. (Imagine a V-shaped desk, where the main seating area is at the apex of the V, with a secondary desk area on the left, and a cabinet on the right, all connected together.)</p>\n<p>I am planning to add a second monitor to the main area that I use for work. Unfortunately, it is unclear how exactly it would fit comfortably there, but I went ahead and ordered a new monitor anyway. (Both monitors are/will be 4K 27-inch displays.) My plan is to orient it vertically (with a downward tilt so I can read it) to the right of my current monitor. It may look a little weird, and be less useful for me to use on that side, but I don’t have anywhere else to put it.</p>\n<p>Oddly, for this setup I moved my work laptop onto the floor. It’s actually on a little five-inch-high shelf I made right that sits on on the floor under my desk, far enough from my chair that I cannot kick it. Fortunately, you can’t see it or the multitude of wires connecting to every side of it, unless you crawl under the desk. I’m sure I will have to do that occasionally to reboot the laptop, but that won’t be too often, and has always been a pain for me to do anyway.</p>\n<p>I moved my headphone dac/amp stack right next to my Mac mini, which has its own setup to the left of my work computer’s monitor-and-keyboard setup. Because the path for headphone cords no longer crosses over my keyboard or mouse at either computer, I will be able use it again. (I haven’t been able to use it since the last revision to my desk setup.) I really look forward to that.</p>\n<p>My two laptops (one a very old MacBook Pro, the other a relatively new Dell running Windows 11) are now in a drawer. I removed their chargers from their power strip, and they now reside neatly in labeled bags next to the laptops. I just don’t use them that much since I got my Mac mini, and I never plug them into a monitor. It just makes sense for me now to consider them as portable, and to pull them out when I need them and hide them the rest of the time.</p>\n<p>Also as part of this revision, I put my high-speed Epson scanner away in a cabinet because I never use it. It’s s shame, because it is very fast. Unfortunately, it isn’t that useful for my scanning needs because I don’t have stacks of letter-size papers to scan. Instead, I usually have a bunch of irregularly sized papers that require a flatbed banner (which I have as part of my multifunction printer).</p>\n<p>Now that I am done, I am happy again with it. Everything looks tidy and functional. Adding the second monitor to the work setup will be a challenge for another night.</p>\n",
+				"content_text": "![](https://micro.mjdescy.me/uploads/2022/74320c2aac.jpg)\n\n![](https://micro.mjdescy.me/uploads/2022/8e7abe6159.jpg)\n\nLate tonight I reconfigured my desk setup for the umpteenth time. The main reason is that my last setup revision, which moved my monitor forward and my keyboard and mouse to a pull-out drawer under the desk, left my headphone and stereo amps in a no-mans-land behind my monitor, completely out of reach.\n\nMy desk is strange, and I wish I had one or two normal, five-foot-wide rectangular desks in its place. I have a corner desk that is not nearly as wide as I would like, though it does connect to desktop areas of varying utility along each side. (Imagine a V-shaped desk, where the main seating area is at the apex of the V, with a secondary desk area on the left, and a cabinet on the right, all connected together.)\n\nI am planning to add a second monitor to the main area that I use for work. Unfortunately, it is unclear how exactly it would fit comfortably there, but I went ahead and ordered a new monitor anyway. (Both monitors are/will be 4K 27-inch displays.) My plan is to orient it vertically (with a downward tilt so I can read it) to the right of my current monitor. It may look a little weird, and be less useful for me to use on that side, but I don’t have anywhere else to put it.\n\nOddly, for this setup I moved my work laptop onto the floor. It’s actually on a little five-inch-high shelf I made right that sits on on the floor under my desk, far enough from my chair that I cannot kick it. Fortunately, you can’t see it or the multitude of wires connecting to every side of it, unless you crawl under the desk. I’m sure I will have to do that occasionally to reboot the laptop, but that won’t be too often, and has always been a pain for me to do anyway.\n\nI moved my headphone dac/amp stack right next to my Mac mini, which has its own setup to the left of my work computer’s monitor-and-keyboard setup. Because the path for headphone cords no longer crosses over my keyboard or mouse at either computer, I will be able use it again. (I haven’t been able to use it since the last revision to my desk setup.) I really look forward to that.\n\nMy two laptops (one a very old MacBook Pro, the other a relatively new Dell running Windows 11) are now in a drawer. I removed their chargers from their power strip, and they now reside neatly in labeled bags next to the laptops. I just don’t use them that much since I got my Mac mini, and I never plug them into a monitor. It just makes sense for me now to consider them as portable, and to pull them out when I need them and hide them the rest of the time. \n\nAlso as part of this revision, I put my high-speed Epson scanner away in a cabinet because I never use it. It’s s shame, because it is very fast. Unfortunately, it isn’t that useful for my scanning needs because I don’t have stacks of letter-size papers to scan. Instead, I usually have a bunch of irregularly sized papers that require a flatbed banner (which I have as part of my multifunction printer).\n\nNow that I am done, I am happy again with it. Everything looks tidy and functional. Adding the second monitor to the work setup will be a challenge for another night.\n\n",
 				"date_published": "2022-01-09T01:31:20-05:00",
 				"url": "https://micro.mjdescy.me/2022/01/09/another-office-setup.html",
 				"tags": ["Productivity"]
@@ -2969,7 +2994,7 @@
 				"id": "http://mjdescy.micro.blog/2021/11/20/this-is-my.html",
 				
 				"content_html": "<p>This is my handiwork for the night. Most of the kids’ Hanukkah presents are wrapped. 😮‍💨</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is my handiwork for the night. Most of the kids’ Hanukkah presents are wrapped. 😮‍💨 \n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/30f71504c7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "This is my handiwork for the night. Most of the kids’ Hanukkah presents are wrapped. 😮‍💨 \n\n<img src=\"uploads/2021/30f71504c7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-20T22:32:18-05:00",
 				"url": "https://micro.mjdescy.me/2021/11/20/this-is-my.html",
 				"tags": ["Journal"]
@@ -3256,8 +3281,8 @@
 			{
 				"id": "http://mjdescy.micro.blog/2021/11/05/years-late-to.html",
 				"title": "🎮 25 years late to Pokémon",
-				"content_html": "<p><a href=\"https://micro.mjdescy.me/2021/10/20/startinf-out-with.html\">My retro handheld</a>, perhaps understandably but not by design, has become a dedicated Pokémon machine. I never played a Pokémon game before last week, and honestly never understood their appeal. Last night, when my brain was too tired for anything else, I had fun grinding away at <a href=\"https://pokemondb.net/yellow\">Pokémon Yellow</a> for hours. I am missing out on the game’s social features like trading and battling. It must have been amazing to have been a little kid with a Game Boy, a link cable, and like-minded friends.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/2098/2021/9ad70eb598.jpg\" alt=\"\"></p>\n",
-				"content_text": "[My retro handheld](https://micro.mjdescy.me/2021/10/20/startinf-out-with.html), perhaps understandably but not by design, has become a dedicated Pokémon machine. I never played a Pokémon game before last week, and honestly never understood their appeal. Last night, when my brain was too tired for anything else, I had fun grinding away at [Pokémon Yellow](https://pokemondb.net/yellow) for hours. I am missing out on the game’s social features like trading and battling. It must have been amazing to have been a little kid with a Game Boy, a link cable, and like-minded friends.\n\n![](https://cdn.uploads.micro.blog/2098/2021/9ad70eb598.jpg)\n\n",
+				"content_html": "<p><a href=\"https://micro.mjdescy.me/2021/10/20/startinf-out-with.html\">My retro handheld</a>, perhaps understandably but not by design, has become a dedicated Pokémon machine. I never played a Pokémon game before last week, and honestly never understood their appeal. Last night, when my brain was too tired for anything else, I had fun grinding away at <a href=\"https://pokemondb.net/yellow\">Pokémon Yellow</a> for hours. I am missing out on the game’s social features like trading and battling. It must have been amazing to have been a little kid with a Game Boy, a link cable, and like-minded friends.</p>\n<p><img src=\"https://micro.mjdescy.me/uploads/2021/9ad70eb598.jpg\" alt=\"\"></p>\n",
+				"content_text": "[My retro handheld](https://micro.mjdescy.me/2021/10/20/startinf-out-with.html), perhaps understandably but not by design, has become a dedicated Pokémon machine. I never played a Pokémon game before last week, and honestly never understood their appeal. Last night, when my brain was too tired for anything else, I had fun grinding away at [Pokémon Yellow](https://pokemondb.net/yellow) for hours. I am missing out on the game’s social features like trading and battling. It must have been amazing to have been a little kid with a Game Boy, a link cable, and like-minded friends.\n\n![](https://micro.mjdescy.me/uploads/2021/9ad70eb598.jpg)\n\n",
 				"date_published": "2021-11-05T08:50:26-05:00",
 				"url": "https://micro.mjdescy.me/2021/11/05/years-late-to.html",
 				"tags": ["Gaming"]
@@ -3275,7 +3300,7 @@
 				"id": "http://mjdescy.micro.blog/2021/11/03/the-new-jersey.html",
 				
 				"content_html": "<p>The New Jersey governor&rsquo;s election is certainly a nail-biter! Maybe Phil Murphy will pull out a win after all. I can&rsquo;t help thinking, though,  that there is no good reason any statewide election should be this close.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The New Jersey governor's election is certainly a nail-biter! Maybe Phil Murphy will pull out a win after all. I can't help thinking, though,  that there is no good reason any statewide election should be this close.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/965657a4cf.jpg\" width=\"600\" height=\"476\" alt=\"\" />\n",
+				"content_text": "The New Jersey governor's election is certainly a nail-biter! Maybe Phil Murphy will pull out a win after all. I can't help thinking, though,  that there is no good reason any statewide election should be this close.\n\n<img src=\"uploads/2021/965657a4cf.jpg\" width=\"600\" height=\"476\" alt=\"\" />\n",
 				"date_published": "2021-11-03T09:48:17-05:00",
 				"url": "https://micro.mjdescy.me/2021/11/03/the-new-jersey.html",
 				"tags": ["Thoughts"]
@@ -3320,7 +3345,7 @@
 				"id": "http://mjdescy.micro.blog/2021/10/31/i-carved-a.html",
 				
 				"content_html": "<p>I carved a <em>happy</em> jack o’lantern this Halloween.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I carved a _happy_ jack o’lantern this Halloween. \n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/3219d686da.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I carved a _happy_ jack o’lantern this Halloween. \n\n<img src=\"uploads/2021/3219d686da.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-31T18:51:12-05:00",
 				"url": "https://micro.mjdescy.me/2021/10/31/i-carved-a.html",
 				"tags": ["Journal"]
@@ -3329,7 +3354,7 @@
 				"id": "http://mjdescy.micro.blog/2021/10/31/double-chocolate-cupcakes.html",
 				
 				"content_html": "<p>Double chocolate cupcakes for Halloween.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Double chocolate cupcakes for Halloween. \n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/2a5c456527.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Double chocolate cupcakes for Halloween. \n\n<img src=\"uploads/2021/2a5c456527.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-31T14:58:03-05:00",
 				"url": "https://micro.mjdescy.me/2021/10/31/double-chocolate-cupcakes.html",
 				"tags": ["Journal"]
@@ -4076,7 +4101,7 @@
 				"id": "http://mjdescy.micro.blog/2021/09/03/i-am-trying.html",
 				
 				"content_html": "<p>I am trying a new keyboard layout, Colemak DH, and have switched around keys and reprogrammed the Planck EZ to enable it. Colemak is proving easier now that I can look at the key legends for the correct letter.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am trying a new keyboard layout, Colemak DH, and have switched around keys and reprogrammed the Planck EZ to enable it. Colemak is proving easier now that I can look at the key legends for the correct letter.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/a88d624535.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "I am trying a new keyboard layout, Colemak DH, and have switched around keys and reprogrammed the Planck EZ to enable it. Colemak is proving easier now that I can look at the key legends for the correct letter.\n\n<img src=\"uploads/2021/a88d624535.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-09-03T15:57:18-05:00",
 				"url": "https://micro.mjdescy.me/2021/09/03/i-am-trying.html",
 				"tags": ["Keyboards"]
@@ -4157,7 +4182,7 @@
 				"id": "http://mjdescy.micro.blog/2021/08/26/we-stayed-at.html",
 				
 				"content_html": "<p>We stayed at the beach until it got dark tonight, which was a first for us. We like to go at dinner time and stay until dusk. It is quieter and cooler then. Sunset was pretty, if a bit subdued compared to the last couple times we have gone. This time, I brought my camera, though.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We stayed at the beach until it got dark tonight, which was a first for us. We like to go at dinner time and stay until dusk. It is quieter and cooler then. Sunset was pretty, if a bit subdued compared to the last couple times we have gone. This time, I brought my camera, though.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/72f4f27ffa.jpg\" width=\"600\" height=\"303\" alt=\"\" />\n",
+				"content_text": "We stayed at the beach until it got dark tonight, which was a first for us. We like to go at dinner time and stay until dusk. It is quieter and cooler then. Sunset was pretty, if a bit subdued compared to the last couple times we have gone. This time, I brought my camera, though.\n\n<img src=\"uploads/2021/72f4f27ffa.jpg\" width=\"600\" height=\"303\" alt=\"\" />\n",
 				"date_published": "2021-08-26T20:39:01-05:00",
 				"url": "https://micro.mjdescy.me/2021/08/26/we-stayed-at.html",
 				"tags": ["Journal"]
@@ -4193,7 +4218,7 @@
 				"id": "http://mjdescy.micro.blog/2021/08/24/my-birthday-present.html",
 				
 				"content_html": "<p>My birthday present arrived a couple months early: a <a href=\"https://ergodox-ez.com/pages/planck\">Planck EZ</a> 40% ortholinear keyboard. Please excuse me for a while: I need to relearn how to type. 😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My birthday present arrived a couple months early: a [Planck EZ](https://ergodox-ez.com/pages/planck) 40% ortholinear keyboard. Please excuse me for a while: I need to relearn how to type. 😅\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/6bd520e4c6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "My birthday present arrived a couple months early: a [Planck EZ](https://ergodox-ez.com/pages/planck) 40% ortholinear keyboard. Please excuse me for a while: I need to relearn how to type. 😅\n\n<img src=\"uploads/2021/6bd520e4c6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-08-24T14:43:47-05:00",
 				"url": "https://micro.mjdescy.me/2021/08/24/my-birthday-present.html",
 				"tags": ["Keyboards"]
@@ -4337,7 +4362,7 @@
 				"id": "http://mjdescy.micro.blog/2021/08/11/this-afternoon-at.html",
 				
 				"content_html": "<p>This afternoon at Burns Lake in Whitefield, New Hampshire.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This afternoon at Burns Lake in Whitefield, New Hampshire.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/a85e06a1aa.jpg\" width=\"600\" height=\"269\" alt=\"\" />\n",
+				"content_text": "This afternoon at Burns Lake in Whitefield, New Hampshire.\n\n<img src=\"uploads/2021/a85e06a1aa.jpg\" width=\"600\" height=\"269\" alt=\"\" />\n",
 				"date_published": "2021-08-11T21:48:26-05:00",
 				"url": "https://micro.mjdescy.me/2021/08/11/this-afternoon-at.html",
 				"tags": ["Journal"]
@@ -4346,7 +4371,7 @@
 				"id": "http://mjdescy.micro.blog/2021/08/11/lake-winnipesaukee-is.html",
 				
 				"content_html": "<p>Lake Winnipesaukee is a fun, low-key place. We spent an afternoon there with some old friends yesterday.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lake Winnipesaukee is a fun, low-key place. We spent an afternoon there with some old friends yesterday.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/ddc1886a87.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/3084339336.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/18d61e9605.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Lake Winnipesaukee is a fun, low-key place. We spent an afternoon there with some old friends yesterday.\n\n<img src=\"uploads/2021/ddc1886a87.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/3084339336.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/18d61e9605.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-11T18:15:22-05:00",
 				"url": "https://micro.mjdescy.me/2021/08/11/lake-winnipesaukee-is.html",
 				"tags": ["Journal"]
@@ -4373,7 +4398,7 @@
 				"id": "http://mjdescy.micro.blog/2021/08/08/todays-activity-was.html",
 				
 				"content_html": "<p>Today’s activity was blueberry picking at a nearby farm. My kids really loved it. We have a ton of blueberries now, and plan to bake something yummy with them: a blueberry buckle, perhaps.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Today’s activity was blueberry picking at a nearby farm. My kids really loved it. We have a ton of blueberries now, and plan to bake something yummy with them: a blueberry buckle, perhaps.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/8c1b68c6ba.jpg\" width=\"600\" height=\"337\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/3f96d7aa24.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/44412c180b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/80c9ac81ca.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/926207fd46.jpg\" width=\"600\" height=\"437\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/b34c8ed124.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/b6e9def896.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/4fbe650001.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Today’s activity was blueberry picking at a nearby farm. My kids really loved it. We have a ton of blueberries now, and plan to bake something yummy with them: a blueberry buckle, perhaps.\n\n<img src=\"uploads/2021/8c1b68c6ba.jpg\" width=\"600\" height=\"337\" alt=\"\" /><img src=\"uploads/2021/3f96d7aa24.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/44412c180b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/80c9ac81ca.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/926207fd46.jpg\" width=\"600\" height=\"437\" alt=\"\" /><img src=\"uploads/2021/b34c8ed124.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/b6e9def896.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"uploads/2021/4fbe650001.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-08-08T19:38:50-05:00",
 				"url": "https://micro.mjdescy.me/2021/08/08/todays-activity-was.html",
 				"tags": ["Journal"]
@@ -4382,7 +4407,7 @@
 				"id": "http://mjdescy.micro.blog/2021/08/07/we-found-a.html",
 				
 				"content_html": "<p>We found a new lunch spot today at <a href=\"https://en.wikipedia.org/wiki/Moore_Reservoir\">Moore Resevoir</a>, and had a conversation about the <a href=\"https://en.wikipedia.org/wiki/Connecticut_River\">Connecticut River</a> (the river I lived near my entire childhood) while we were there.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We found a new lunch spot today at [Moore Resevoir](https://en.wikipedia.org/wiki/Moore_Reservoir), and had a conversation about the [Connecticut River](https://en.wikipedia.org/wiki/Connecticut_River) (the river I lived near my entire childhood) while we were there.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/3900e5ac77.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "We found a new lunch spot today at [Moore Resevoir](https://en.wikipedia.org/wiki/Moore_Reservoir), and had a conversation about the [Connecticut River](https://en.wikipedia.org/wiki/Connecticut_River) (the river I lived near my entire childhood) while we were there.\n\n<img src=\"uploads/2021/3900e5ac77.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-08-07T12:59:31-05:00",
 				"url": "https://micro.mjdescy.me/2021/08/07/we-found-a.html",
 				"tags": ["Journal"]
@@ -4391,7 +4416,7 @@
 				"id": "http://mjdescy.micro.blog/2021/08/06/we-spent-the.html",
 				
 				"content_html": "<p>We spent the afternoon at Echo Lake in Franconia State Park. It is a great place for the kids to swim and play. They made sand castles, lakes, and swimming pools for their toys on the beach.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We spent the afternoon at Echo Lake in Franconia State Park. It is a great place for the kids to swim and play. They made sand castles, lakes, and swimming pools for their toys on the beach.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/4c693a0f31.jpg\" width=\"600\" height=\"278\" alt=\"\" />\n",
+				"content_text": "We spent the afternoon at Echo Lake in Franconia State Park. It is a great place for the kids to swim and play. They made sand castles, lakes, and swimming pools for their toys on the beach.\n\n<img src=\"uploads/2021/4c693a0f31.jpg\" width=\"600\" height=\"278\" alt=\"\" />\n",
 				"date_published": "2021-08-06T19:09:41-05:00",
 				"url": "https://micro.mjdescy.me/2021/08/06/we-spent-the.html",
 				"tags": ["Journal"]
@@ -4400,7 +4425,7 @@
 				"id": "http://mjdescy.micro.blog/2021/08/05/here-is-a.html",
 				
 				"content_html": "<p>Here is a view of “our lake” in New Hampshire. We spent the afternoon there a couple days ago. The kids played in the sand and water, the adults chatted, and I took pictures. More recently we went on a couple short hikes and spent an afternoon at Santa’s Village, a theme park.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Here is a view of “our lake” in New Hampshire. We spent the afternoon there a couple days ago. The kids played in the sand and water, the adults chatted, and I took pictures. More recently we went on a couple short hikes and spent an afternoon at Santa’s Village, a theme park.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/ba35e1ec40.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Here is a view of “our lake” in New Hampshire. We spent the afternoon there a couple days ago. The kids played in the sand and water, the adults chatted, and I took pictures. More recently we went on a couple short hikes and spent an afternoon at Santa’s Village, a theme park.\n\n<img src=\"uploads/2021/ba35e1ec40.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-08-05T21:38:29-05:00",
 				"url": "https://micro.mjdescy.me/2021/08/05/here-is-a.html",
 				"tags": ["Journal"]
@@ -4418,7 +4443,7 @@
 				"id": "http://mjdescy.micro.blog/2021/08/03/the-old-man.html",
 				"title": "The Old Man of the Mountain",
 				"content_html": "<p>My family’s plans for a picnic lunch and an afternoon of swimming at <a href=\"https://en.wikipedia.org/wiki/Echo_Lake_(Franconia_Notch)\">Echo Lake</a>, in Franconia State Park, were cut short because tickets for the lake were sold out. Echo Lake is one of my family’s favorite spots in the White Mountains. The mountain views are beautiful and there is a large (artificial) sandy beach to sunbathe and play on.</p>\n<p>We went to the nearby <a href=\"https://en.wikipedia.org/wiki/Profile_Lake\">Profile Lake</a> instead, and ate our lunch at the <a href=\"https://en.wikipedia.org/wiki/Old_Man_of_the_Mountain\">Old Man of the Mountain</a> viewing area. Because the Old Man rock formation fell down in 2003, you can’t see it anymore. The park set up clever “steel profilers” that you can line up your vision with to create an optical illusion of what the old rock face looked like.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "My family’s plans for a picnic lunch and an afternoon of swimming at [Echo Lake](https://en.wikipedia.org/wiki/Echo_Lake_(Franconia_Notch)), in Franconia State Park, were cut short because tickets for the lake were sold out. Echo Lake is one of my family’s favorite spots in the White Mountains. The mountain views are beautiful and there is a large (artificial) sandy beach to sunbathe and play on.\n\nWe went to the nearby [Profile Lake](https://en.wikipedia.org/wiki/Profile_Lake) instead, and ate our lunch at the [Old Man of the Mountain](https://en.wikipedia.org/wiki/Old_Man_of_the_Mountain) viewing area. Because the Old Man rock formation fell down in 2003, you can’t see it anymore. The park set up clever “steel profilers” that you can line up your vision with to create an optical illusion of what the old rock face looked like.\n\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/e1a7bd2dd6.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/b8aa7156a5.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/85ad8f430b.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/e47b09d5a6.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "My family’s plans for a picnic lunch and an afternoon of swimming at [Echo Lake](https://en.wikipedia.org/wiki/Echo_Lake_(Franconia_Notch)), in Franconia State Park, were cut short because tickets for the lake were sold out. Echo Lake is one of my family’s favorite spots in the White Mountains. The mountain views are beautiful and there is a large (artificial) sandy beach to sunbathe and play on.\n\nWe went to the nearby [Profile Lake](https://en.wikipedia.org/wiki/Profile_Lake) instead, and ate our lunch at the [Old Man of the Mountain](https://en.wikipedia.org/wiki/Old_Man_of_the_Mountain) viewing area. Because the Old Man rock formation fell down in 2003, you can’t see it anymore. The park set up clever “steel profilers” that you can line up your vision with to create an optical illusion of what the old rock face looked like.\n\n\n<img src=\"uploads/2021/e1a7bd2dd6.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2021/b8aa7156a5.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2021/85ad8f430b.jpg\" width=\"600\" height=\"400\" alt=\"\" /><img src=\"uploads/2021/e47b09d5a6.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2021-08-03T16:39:01-05:00",
 				"url": "https://micro.mjdescy.me/2021/08/03/the-old-man.html",
 				"tags": ["Journal"]
@@ -4427,7 +4452,7 @@
 				"id": "http://mjdescy.micro.blog/2021/08/02/beaver-brook-falls.html",
 				"title": "Beaver Brook Falls",
 				"content_html": "<p>Today I drove the family to a tiny park in northern New Hampshire that consisted of a picnic area, a waterfall, and a couple of short trails. We ate a picnic lunch when we got there and then explored the place. We enjoyed experiencing the roar and spray of the falls and had multiple great vantage points to view it from. It was a great time.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Today I drove the family to a tiny park in northern New Hampshire that consisted of a picnic area, a waterfall, and a couple of short trails. We ate a picnic lunch when we got there and then explored the place. We enjoyed experiencing the roar and spray of the falls and had multiple great vantage points to view it from. It was a great time.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/21ac9783aa.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/fdb685866d.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/f6099b5dda.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/9e9ce007b8.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Today I drove the family to a tiny park in northern New Hampshire that consisted of a picnic area, a waterfall, and a couple of short trails. We ate a picnic lunch when we got there and then explored the place. We enjoyed experiencing the roar and spray of the falls and had multiple great vantage points to view it from. It was a great time.\n\n<img src=\"uploads/2021/21ac9783aa.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/fdb685866d.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2021/f6099b5dda.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2021/9e9ce007b8.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-08-02T18:45:18-05:00",
 				"url": "https://micro.mjdescy.me/2021/08/02/beaver-brook-falls.html",
 				"tags": ["Journal"]
@@ -4445,7 +4470,7 @@
 				"id": "http://mjdescy.micro.blog/2021/08/01/a-lowkey-day.html",
 				"title": "A low-key day in Littleton, NH",
 				"content_html": "<p>After a sunny, exciting day at the fair, today was overcast, cool, and low-key.\nWe took the kids to a playground (with a view of a mountain) and to the bookstore/toy store in nearby Littleton, New Hampshire. The kids had great fun, but we had to cut our visit to down short due to rain.</p>\n<p>Ironically, for the warmest year on record, this has been the coldest stretch of days that I have ever been in the mountains. It is a welcome respite from the heat in New Jersey, but it feels like I have traveled back in time. Nighttimes feel crisp, like late August/early September when I was a child.</p>\n<p>We plan to go to a lake or to a theme park soon, once the sun returns and the temperature rises.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "After a sunny, exciting day at the fair, today was overcast, cool, and low-key. \nWe took the kids to a playground (with a view of a mountain) and to the bookstore/toy store in nearby Littleton, New Hampshire. The kids had great fun, but we had to cut our visit to down short due to rain.\n\nIronically, for the warmest year on record, this has been the coldest stretch of days that I have ever been in the mountains. It is a welcome respite from the heat in New Jersey, but it feels like I have traveled back in time. Nighttimes feel crisp, like late August/early September when I was a child.\n\nWe plan to go to a lake or to a theme park soon, once the sun returns and the temperature rises.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/10150a0514.jpg\" width=\"600\" height=\"337\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/dafcecefe3.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/64a8cfad8a.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "After a sunny, exciting day at the fair, today was overcast, cool, and low-key. \nWe took the kids to a playground (with a view of a mountain) and to the bookstore/toy store in nearby Littleton, New Hampshire. The kids had great fun, but we had to cut our visit to down short due to rain.\n\nIronically, for the warmest year on record, this has been the coldest stretch of days that I have ever been in the mountains. It is a welcome respite from the heat in New Jersey, but it feels like I have traveled back in time. Nighttimes feel crisp, like late August/early September when I was a child.\n\nWe plan to go to a lake or to a theme park soon, once the sun returns and the temperature rises.\n\n<img src=\"uploads/2021/10150a0514.jpg\" width=\"600\" height=\"337\" alt=\"\" /><img src=\"uploads/2021/dafcecefe3.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2021/64a8cfad8a.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-08-01T18:24:49-05:00",
 				"url": "https://micro.mjdescy.me/2021/08/01/a-lowkey-day.html",
 				"tags": ["Journal"]
@@ -4454,7 +4479,7 @@
 				"id": "http://mjdescy.micro.blog/2021/07/31/the-north-haverhill.html",
 				"title": "The North Haverhill Fair",
 				"content_html": "<p>My family and I very much enjoyed the North Haverhill fair today. We had perfect weather, and I lucked out with the fair food (my wife and I shared the best fried Oreos I have had in years). My kids loved seeing the animals (one thing we saw was a goat obstacle course contest) and enjoyed the rides. I find that I enjoy fairs—especially the agricultural aspects—a lot more as an adult than I ever did as a kid.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "My family and I very much enjoyed the North Haverhill fair today. We had perfect weather, and I lucked out with the fair food (my wife and I shared the best fried Oreos I have had in years). My kids loved seeing the animals (one thing we saw was a goat obstacle course contest) and enjoyed the rides. I find that I enjoy fairs—especially the agricultural aspects—a lot more as an adult than I ever did as a kid.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/245992243d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/51dfa7e0a0.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/993a737a3d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/43e90cfa54.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2021/7c265fc563.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "My family and I very much enjoyed the North Haverhill fair today. We had perfect weather, and I lucked out with the fair food (my wife and I shared the best fried Oreos I have had in years). My kids loved seeing the animals (one thing we saw was a goat obstacle course contest) and enjoyed the rides. I find that I enjoy fairs—especially the agricultural aspects—a lot more as an adult than I ever did as a kid.\n\n<img src=\"uploads/2021/245992243d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/51dfa7e0a0.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/993a737a3d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/43e90cfa54.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/7c265fc563.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-07-31T21:06:53-05:00",
 				"url": "https://micro.mjdescy.me/2021/07/31/the-north-haverhill.html",
 				"tags": ["Journal"]
@@ -4508,7 +4533,7 @@
 				"id": "http://mjdescy.micro.blog/2021/07/28/my-wife-took.html",
 				
 				"content_html": "<p>My wife took this picture while I was working today. I missed a beautiful day at the lake. Fortunately I had a good day, too.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My wife took this picture while I was working today. I missed a beautiful day at the lake. Fortunately I had a good day, too.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/83e7fe0953.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My wife took this picture while I was working today. I missed a beautiful day at the lake. Fortunately I had a good day, too.\n\n<img src=\"uploads/2021/83e7fe0953.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-28T18:24:51-05:00",
 				"url": "https://micro.mjdescy.me/2021/07/28/my-wife-took.html",
 				"tags": ["Journal"]
@@ -4580,7 +4605,7 @@
 				"id": "http://mjdescy.micro.blog/2021/07/23/my-family-is.html",
 				
 				"content_html": "<p>My family is at the county fair this evening. It is a little hot but we are having a fun time. The kids love the rides.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My family is at the county fair this evening. It is a little hot but we are having a fun time. The kids love the rides.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/fe4d3b2ff9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My family is at the county fair this evening. It is a little hot but we are having a fun time. The kids love the rides.\n\n<img src=\"uploads/2021/fe4d3b2ff9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-23T18:22:51-05:00",
 				"url": "https://micro.mjdescy.me/2021/07/23/my-family-is.html",
 				"tags": ["Journal"]
@@ -4751,7 +4776,7 @@
 				"id": "http://mjdescy.micro.blog/2021/07/10/the-cake-i.html",
 				
 				"content_html": "<p>The cake I made for my wife today came out tasty but a little messy. I am wildly inconsistent when it comes to frosting layer cakes. This one ended up with crumbs mixed in, and I didn’t have any frosting left over to put flowers on the top. The ganache and raspberry filling was great, though.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The cake I made for my wife today came out tasty but a little messy. I am wildly inconsistent when it comes to frosting layer cakes. This one ended up with crumbs mixed in, and I didn’t have any frosting left over to put flowers on the top. The ganache and raspberry filling was great, though.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/3c16bdbdb0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The cake I made for my wife today came out tasty but a little messy. I am wildly inconsistent when it comes to frosting layer cakes. This one ended up with crumbs mixed in, and I didn’t have any frosting left over to put flowers on the top. The ganache and raspberry filling was great, though.\n\n<img src=\"uploads/2021/3c16bdbdb0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-10T15:49:39-05:00",
 				"url": "https://micro.mjdescy.me/2021/07/10/the-cake-i.html",
 				"tags": ["Journal"]
@@ -4913,7 +4938,7 @@
 				"id": "http://mjdescy.micro.blog/2021/06/25/we-visited-the.html",
 				
 				"content_html": "<p>We visited the beach tonight and really enjoyed it. Sunset is my favorite time there.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We visited the beach tonight and really enjoyed it. Sunset is my favorite time there.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/99c9f127da.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "We visited the beach tonight and really enjoyed it. Sunset is my favorite time there.\n\n<img src=\"uploads/2021/99c9f127da.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-06-25T20:13:33-05:00",
 				"url": "https://micro.mjdescy.me/2021/06/25/we-visited-the.html",
 				"tags": ["Journal"]
@@ -5021,7 +5046,7 @@
 				"id": "http://mjdescy.micro.blog/2021/06/20/as-of-right.html",
 				
 				"content_html": "<p>As of right now, I am very glad that, twelve months ago, I bought the extra temples for my daughter’s eyeglasses. 😮‍💨</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "As of right now, I am very glad that, twelve months ago, I bought the extra temples for my daughter’s eyeglasses. 😮‍💨\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/f7e0f8a8b9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "As of right now, I am very glad that, twelve months ago, I bought the extra temples for my daughter’s eyeglasses. 😮‍💨\n\n<img src=\"uploads/2021/f7e0f8a8b9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-06-20T08:50:59-05:00",
 				"url": "https://micro.mjdescy.me/2021/06/20/as-of-right.html",
 				"tags": ["Journal"]
@@ -5597,7 +5622,7 @@
 				"id": "http://mjdescy.micro.blog/2021/05/02/my-daughter-and.html",
 				
 				"content_html": "<p>My daughter and I made some flower cookies to celebrate the lovely spring day.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My daughter and I made some flower cookies to celebrate the lovely spring day. \n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/1592ff48e3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My daughter and I made some flower cookies to celebrate the lovely spring day. \n\n<img src=\"uploads/2021/1592ff48e3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-02T15:15:06-05:00",
 				"url": "https://micro.mjdescy.me/2021/05/02/my-daughter-and.html",
 				"tags": ["Journal"]
@@ -6434,7 +6459,7 @@
 				"id": "http://mjdescy.micro.blog/2021/02/27/microsoft-onedrive-ios.html",
 				"title": "Microsoft OneDrive iOS Files Integration 🙄",
 				"content_html": "<p>I just looked at the latest release notes (see picture). So <em>that’s</em> why I couldn’t save my files to OneDrive this week. 🤦‍♂️ I figured out a workaround, but was bamboozled for days why something that once worked now did not. OneDrive’s iOS Files integration was always pretty unreliable. Maybe after this feature pull Microsoft will finally fix it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I just looked at the latest release notes (see picture). So _that’s_ why I couldn’t save my files to OneDrive this week. 🤦‍♂️ I figured out a workaround, but was bamboozled for days why something that once worked now did not. OneDrive’s iOS Files integration was always pretty unreliable. Maybe after this feature pull Microsoft will finally fix it. \n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/19e7a1123e.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I just looked at the latest release notes (see picture). So _that’s_ why I couldn’t save my files to OneDrive this week. 🤦‍♂️ I figured out a workaround, but was bamboozled for days why something that once worked now did not. OneDrive’s iOS Files integration was always pretty unreliable. Maybe after this feature pull Microsoft will finally fix it. \n\n<img src=\"uploads/2021/19e7a1123e.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-27T12:02:33-05:00",
 				"url": "https://micro.mjdescy.me/2021/02/27/microsoft-onedrive-ios.html",
 				"tags": ["Tech"]
@@ -7566,7 +7591,7 @@
 				"id": "http://mjdescy.micro.blog/2020/11/29/i-probably-shouldnt.html",
 				
 				"content_html": "<p>I probably shouldn’t have baked this tonight, but I’m glad I did.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I probably shouldn’t have baked this tonight, but I’m glad I did.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/3791427483.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I probably shouldn’t have baked this tonight, but I’m glad I did.\n\n<img src=\"uploads/2020/3791427483.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-11-29T22:55:20-05:00",
 				"url": "https://micro.mjdescy.me/2020/11/29/i-probably-shouldnt.html"
 			},
@@ -8113,7 +8138,7 @@
 				"id": "http://mjdescy.micro.blog/2020/10/11/holmdel-park.html",
 				
 				"content_html": "<p>Holmdel Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Holmdel Park\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/670bbc673b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Holmdel Park\n\n<img src=\"uploads/2020/670bbc673b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-10-11T15:08:00-05:00",
 				"url": "https://micro.mjdescy.me/2020/10/11/holmdel-park.html"
 			},
@@ -8178,7 +8203,7 @@
 				"id": "http://mjdescy.micro.blog/2020/10/04/holmdel-park.html",
 				
 				"content_html": "<p>Holmdel Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Holmdel Park\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/79d92a7796.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "Holmdel Park\n\n<img src=\"uploads/2020/79d92a7796.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2020-10-04T21:06:21-05:00",
 				"url": "https://micro.mjdescy.me/2020/10/04/holmdel-park.html"
 			},
@@ -8186,7 +8211,7 @@
 				"id": "http://mjdescy.micro.blog/2020/10/03/holmdel-park.html",
 				
 				"content_html": "<p>Holmdel Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Holmdel Park\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/264e0ff01c.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "Holmdel Park\n\n<img src=\"uploads/2020/264e0ff01c.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2020-10-03T20:01:08-05:00",
 				"url": "https://micro.mjdescy.me/2020/10/03/holmdel-park.html"
 			},
@@ -8243,7 +8268,7 @@
 				"id": "http://mjdescy.micro.blog/2020/09/20/the-lovely-blue.html",
 				
 				"content_html": "<p>The lovely blue sky above Thompson Park today</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The lovely blue sky above Thompson Park today\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/903cbf69f9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The lovely blue sky above Thompson Park today\n\n<img src=\"uploads/2020/903cbf69f9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-09-20T20:53:12-05:00",
 				"url": "https://micro.mjdescy.me/2020/09/20/the-lovely-blue.html"
 			},
@@ -8275,7 +8300,7 @@
 				"id": "http://mjdescy.micro.blog/2020/09/17/rubiks-cube.html",
 				"title": "Rubik's Cube",
 				"content_html": "<p>After reading <a href=\"https://www.nytimes.com/2020/09/16/books/erno-rubik-rubiks-cube-inventor-cubed.html\">this article about Erno Rubik</a>, inventor of the Rubik&rsquo;s Cube, I ordered myself a 3x3 speed cube (not a Rubick&rsquo;s brand cube).</p>\n<p>I had a Rubik&rsquo;s Cube as a child, and never solved it. At one point, I remember having solved it except for two squares, and I peeled the stickers off and swapped them. (That was sort of my &ldquo;<a href=\"https://en.wikipedia.org/wiki/Gordian_Knot\">en.wikipedia.org/wiki/Gord&hellip;</a>&rdquo; moment, I guess. 😂)</p>\n<p>At this point, I don&rsquo;t care if I ever do solve it on my own (there are guides to solving it that I might decide to follow), but it will likely be fun to play with while I&rsquo;m on conference calls or watching TV. Hopefully it will be an object of fascination for my kids, too, and I will get them their own to play with.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "After reading [this article about Erno Rubik](\nhttps://www.nytimes.com/2020/09/16/books/erno-rubik-rubiks-cube-inventor-cubed.html), inventor of the Rubik's Cube, I ordered myself a 3x3 speed cube (not a Rubick's brand cube). \n\nI had a Rubik's Cube as a child, and never solved it. At one point, I remember having solved it except for two squares, and I peeled the stickers off and swapped them. (That was sort of my \"[en.wikipedia.org/wiki/Gord...](https://en.wikipedia.org/wiki/Gordian_Knot)\" moment, I guess. 😂)\n\nAt this point, I don't care if I ever do solve it on my own (there are guides to solving it that I might decide to follow), but it will likely be fun to play with while I'm on conference calls or watching TV. Hopefully it will be an object of fascination for my kids, too, and I will get them their own to play with.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/0c87ecad72.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "After reading [this article about Erno Rubik](\nhttps://www.nytimes.com/2020/09/16/books/erno-rubik-rubiks-cube-inventor-cubed.html), inventor of the Rubik's Cube, I ordered myself a 3x3 speed cube (not a Rubick's brand cube). \n\nI had a Rubik's Cube as a child, and never solved it. At one point, I remember having solved it except for two squares, and I peeled the stickers off and swapped them. (That was sort of my \"[en.wikipedia.org/wiki/Gord...](https://en.wikipedia.org/wiki/Gordian_Knot)\" moment, I guess. 😂)\n\nAt this point, I don't care if I ever do solve it on my own (there are guides to solving it that I might decide to follow), but it will likely be fun to play with while I'm on conference calls or watching TV. Hopefully it will be an object of fascination for my kids, too, and I will get them their own to play with.\n\n<img src=\"uploads/2020/0c87ecad72.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-09-17T08:00:17-05:00",
 				"url": "https://micro.mjdescy.me/2020/09/17/rubiks-cube.html",
 				"tags": ["Journal"]
@@ -8375,15 +8400,15 @@
 				"id": "http://mjdescy.micro.blog/2020/09/12/200528.html",
 				
 				"content_html": "<p>Holmdel Park</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Holmdel Park\n\n<a href=\"https://cdn.uploads.micro.blog/2098/2020/cdf6060b1f.jpg\"><img src=\"https://cdn.uploads.micro.blog/2098/2020/cdf6060b1f.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/2098/2020/3b00a9c38f.jpg\"><img src=\"https://cdn.uploads.micro.blog/2098/2020/3b00a9c38f.jpg\" width=\"600\" height=\"900\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/2098/2020/73df756a66.jpg\"><img src=\"https://cdn.uploads.micro.blog/2098/2020/73df756a66.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"content_text": "Holmdel Park\n\n<a href=\"https://micro.mjdescy.me/uploads/2020/cdf6060b1f.jpg\"><img src=\"uploads/2020/cdf6060b1f.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.mjdescy.me/uploads/2020/3b00a9c38f.jpg\"><img src=\"uploads/2020/3b00a9c38f.jpg\" width=\"600\" height=\"900\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.mjdescy.me/uploads/2020/73df756a66.jpg\"><img src=\"uploads/2020/73df756a66.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
 				"date_published": "2020-09-12T19:05:28-05:00",
 				"url": "https://micro.mjdescy.me/2020/09/12/200528.html"
 			},
 			{
 				"id": "http://mjdescy.micro.blog/2020/09/12/holmdel-park.html",
 				
-				"content_html": "<p>Holmdel Park\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/b8eac069ec.jpg\" alt=\"26A7EA1B-088E-4611-BEC9-A3A02A1BA969.jpg\"></p>\n",
-				"content_text": "Holmdel Park\n![26A7EA1B-088E-4611-BEC9-A3A02A1BA969.jpg](https://cdn.uploads.micro.blog/2098/2020/b8eac069ec.jpg)\n",
+				"content_html": "<p>Holmdel Park\n<img src=\"https://micro.mjdescy.me/uploads/2020/b8eac069ec.jpg\" alt=\"26A7EA1B-088E-4611-BEC9-A3A02A1BA969.jpg\"></p>\n",
+				"content_text": "Holmdel Park\n![26A7EA1B-088E-4611-BEC9-A3A02A1BA969.jpg](https://micro.mjdescy.me/uploads/2020/b8eac069ec.jpg)\n",
 				"date_published": "2020-09-12T14:09:41-05:00",
 				"url": "https://micro.mjdescy.me/2020/09/12/holmdel-park.html"
 			},
@@ -8482,7 +8507,7 @@
 				"id": "http://mjdescy.micro.blog/2020/09/06/thompson-park.html",
 				
 				"content_html": "<p>Thompson Park</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Thompson Park\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/ad05c0aa27.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2020/ac002b8172.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2020/5228115000.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Thompson Park\n\n<img src=\"uploads/2020/ad05c0aa27.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/ac002b8172.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/5228115000.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-09-06T22:35:15-05:00",
 				"url": "https://micro.mjdescy.me/2020/09/06/thompson-park.html"
 			},
@@ -8532,8 +8557,8 @@
 			{
 				"id": "http://mjdescy.micro.blog/2020/09/04/im-thrilled-and.html",
 				
-				"content_html": "<p>I&rsquo;m thrilled and relieved to discover this morning that the reason my desktop stereo stopped working yesterday is because, somehow, I toggled the input switch on my DAC  (which I never touch) to some incorrect setting. Of course, I pulled all the components (with dials and switches I use all the time) apart and tested them individually first. 😅\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/4506700e5d.jpg\" alt=\"87BF4145-30D7-474B-8CFC-6205493D0063.jpg\"></p>\n",
-				"content_text": "I'm thrilled and relieved to discover this morning that the reason my desktop stereo stopped working yesterday is because, somehow, I toggled the input switch on my DAC  (which I never touch) to some incorrect setting. Of course, I pulled all the components (with dials and switches I use all the time) apart and tested them individually first. 😅\n![87BF4145-30D7-474B-8CFC-6205493D0063.jpg](https://cdn.uploads.micro.blog/2098/2020/4506700e5d.jpg)\n",
+				"content_html": "<p>I&rsquo;m thrilled and relieved to discover this morning that the reason my desktop stereo stopped working yesterday is because, somehow, I toggled the input switch on my DAC  (which I never touch) to some incorrect setting. Of course, I pulled all the components (with dials and switches I use all the time) apart and tested them individually first. 😅\n<img src=\"https://micro.mjdescy.me/uploads/2020/4506700e5d.jpg\" alt=\"87BF4145-30D7-474B-8CFC-6205493D0063.jpg\"></p>\n",
+				"content_text": "I'm thrilled and relieved to discover this morning that the reason my desktop stereo stopped working yesterday is because, somehow, I toggled the input switch on my DAC  (which I never touch) to some incorrect setting. Of course, I pulled all the components (with dials and switches I use all the time) apart and tested them individually first. 😅\n![87BF4145-30D7-474B-8CFC-6205493D0063.jpg](https://micro.mjdescy.me/uploads/2020/4506700e5d.jpg)\n",
 				"date_published": "2020-09-04T08:18:13-05:00",
 				"url": "https://micro.mjdescy.me/2020/09/04/im-thrilled-and.html"
 			},
@@ -8599,7 +8624,7 @@
 				"id": "http://mjdescy.micro.blog/2020/09/02/i-am-pretty.html",
 				
 				"content_html": "<p>I am pretty sure that I need scissors to open my new scissors. 🤦‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am pretty sure that I need scissors to open my new scissors. 🤦‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/f186e42549.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I am pretty sure that I need scissors to open my new scissors. 🤦‍♂️\n\n<img src=\"uploads/2020/f186e42549.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-09-02T13:19:07-05:00",
 				"url": "https://micro.mjdescy.me/2020/09/02/i-am-pretty.html",
 				"tags": ["Journal"]
@@ -8624,7 +8649,7 @@
 				"id": "http://mjdescy.micro.blog/2020/09/01/tonight-i-assembled.html",
 				
 				"content_html": "<p>Tonight I assembled a desk that my wife bought, so she could work from home more easily.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tonight I assembled a desk that my wife bought, so she could work from home more easily. \n\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/cf97e89977.jpg\" width=\"600\" height=\"507\" alt=\"\" />\n",
+				"content_text": "Tonight I assembled a desk that my wife bought, so she could work from home more easily. \n\n<img src=\"uploads/2020/cf97e89977.jpg\" width=\"600\" height=\"507\" alt=\"\" />\n",
 				"date_published": "2020-09-01T19:31:36-05:00",
 				"url": "https://micro.mjdescy.me/2020/09/01/tonight-i-assembled.html"
 			},
@@ -8649,7 +8674,7 @@
 				"id": "http://mjdescy.micro.blog/2020/08/31/prepping-pancakes-to.html",
 				
 				"content_html": "<p>Prepping pancakes to surprise the kids in the morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Prepping pancakes to surprise the kids in the morning. \n\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/cc95deb12f.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Prepping pancakes to surprise the kids in the morning. \n\n<img src=\"uploads/2020/cc95deb12f.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-31T18:38:35-05:00",
 				"url": "https://micro.mjdescy.me/2020/08/31/prepping-pancakes-to.html"
 			},
@@ -8717,7 +8742,7 @@
 				"id": "http://mjdescy.micro.blog/2020/08/19/stormy-weather-i.html",
 				
 				"content_html": "<p>Stormy weather. I am glad I’m inside.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stormy weather. I am glad I’m inside.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/783c1a769a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Stormy weather. I am glad I’m inside.\n\n<img src=\"uploads/2020/783c1a769a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-19T08:47:26-05:00",
 				"url": "https://micro.mjdescy.me/2020/08/19/stormy-weather-i.html",
 				"tags": ["Journal"]
@@ -8902,8 +8927,8 @@
 			{
 				"id": "http://mjdescy.micro.blog/2020/07/27/my-speakers-and.html",
 				
-				"content_html": "<p>🎧 My speakers and headphones sound so clear and exciting again now that I&rsquo;ve got my equipment stack up and running again!\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/329c98696e.jpg\" alt=\"977C4ADF-963E-4B97-B266-997339257268.jpg\"></p>\n",
-				"content_text": "🎧 My speakers and headphones sound so clear and exciting again now that I've got my equipment stack up and running again! \n![977C4ADF-963E-4B97-B266-997339257268.jpg](https://cdn.uploads.micro.blog/2098/2020/329c98696e.jpg)\n",
+				"content_html": "<p>🎧 My speakers and headphones sound so clear and exciting again now that I&rsquo;ve got my equipment stack up and running again!\n<img src=\"https://micro.mjdescy.me/uploads/2020/329c98696e.jpg\" alt=\"977C4ADF-963E-4B97-B266-997339257268.jpg\"></p>\n",
+				"content_text": "🎧 My speakers and headphones sound so clear and exciting again now that I've got my equipment stack up and running again! \n![977C4ADF-963E-4B97-B266-997339257268.jpg](https://micro.mjdescy.me/uploads/2020/329c98696e.jpg)\n",
 				"date_published": "2020-07-27T20:06:40-05:00",
 				"url": "https://micro.mjdescy.me/2020/07/27/my-speakers-and.html",
 				"tags": ["Audiophile"]
@@ -8911,8 +8936,8 @@
 			{
 				"id": "http://mjdescy.micro.blog/2020/07/27/my-favorite-piece.html",
 				
-				"content_html": "<p>My favorite piece of Schiit came back to me in the mail today. Now that my Magni 3 Heresy is repaired, it is as good as new.\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/6248d5e9b1.jpg\" alt=\"C9E53635-247A-4998-908F-CC56149E6F2F.jpg\"></p>\n",
-				"content_text": "My favorite piece of Schiit came back to me in the mail today. Now that my Magni 3 Heresy is repaired, it is as good as new.\n![C9E53635-247A-4998-908F-CC56149E6F2F.jpg](https://cdn.uploads.micro.blog/2098/2020/6248d5e9b1.jpg)\n",
+				"content_html": "<p>My favorite piece of Schiit came back to me in the mail today. Now that my Magni 3 Heresy is repaired, it is as good as new.\n<img src=\"https://micro.mjdescy.me/uploads/2020/6248d5e9b1.jpg\" alt=\"C9E53635-247A-4998-908F-CC56149E6F2F.jpg\"></p>\n",
+				"content_text": "My favorite piece of Schiit came back to me in the mail today. Now that my Magni 3 Heresy is repaired, it is as good as new.\n![C9E53635-247A-4998-908F-CC56149E6F2F.jpg](https://micro.mjdescy.me/uploads/2020/6248d5e9b1.jpg)\n",
 				"date_published": "2020-07-27T19:50:39-05:00",
 				"url": "https://micro.mjdescy.me/2020/07/27/my-favorite-piece.html",
 				"tags": ["Audiophile"]
@@ -9928,7 +9953,7 @@
 				"id": "http://mjdescy.micro.blog/2020/02/12/should-i-stop.html",
 				"title": "Should I stop trying to keep all my original photos on my MacBook Pro?",
 				"content_html": "<p>Uh-oh. Apple Photos started saying my full-resolution photos will no longer fit on my Mac. I have 80 GB free on a 500 GB SSD, but Photos is still complaining. I&rsquo;m debating what to do about it. A huge part of my backup strategy is using Arq backup to back up my full-resolution photos (the entire library, really) to Backblaze B2. Maybe I will export all my photos (the originals) and copy them to B2, then turn on “Optimize Storage”, and then stop trying to back up my originals on my Mac. I&rsquo;m not getting a new Mac with a 1 TB SSD in it anytime soon, unfortunately. What a pain.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Uh-oh. Apple Photos started saying my full-resolution photos will no longer fit on my Mac. I have 80 GB free on a 500 GB SSD, but Photos is still complaining. I'm debating what to do about it. A huge part of my backup strategy is using Arq backup to back up my full-resolution photos (the entire library, really) to Backblaze B2. Maybe I will export all my photos (the originals) and copy them to B2, then turn on “Optimize Storage”, and then stop trying to back up my originals on my Mac. I'm not getting a new Mac with a 1 TB SSD in it anytime soon, unfortunately. What a pain.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2020/5d3678fd22.jpg\" width=\"600\" height=\"492\" alt=\"\" />\n",
+				"content_text": "Uh-oh. Apple Photos started saying my full-resolution photos will no longer fit on my Mac. I have 80 GB free on a 500 GB SSD, but Photos is still complaining. I'm debating what to do about it. A huge part of my backup strategy is using Arq backup to back up my full-resolution photos (the entire library, really) to Backblaze B2. Maybe I will export all my photos (the originals) and copy them to B2, then turn on “Optimize Storage”, and then stop trying to back up my originals on my Mac. I'm not getting a new Mac with a 1 TB SSD in it anytime soon, unfortunately. What a pain.\n\n<img src=\"uploads/2020/5d3678fd22.jpg\" width=\"600\" height=\"492\" alt=\"\" />\n",
 				"date_published": "2020-02-12T10:33:43-05:00",
 				"url": "https://micro.mjdescy.me/2020/02/12/should-i-stop.html"
 			},
@@ -10834,7 +10859,7 @@
 				"id": "http://mjdescy.micro.blog/2019/11/27/the-gingerbread-looks.html",
 				
 				"content_html": "<p>The gingerbread looks good to me. I’m excited to try some tomorrow.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The gingerbread looks good to me. I’m excited to try some tomorrow.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/13b545134e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The gingerbread looks good to me. I’m excited to try some tomorrow.\n\n<img src=\"uploads/2019/13b545134e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-27T16:03:45-05:00",
 				"url": "https://micro.mjdescy.me/2019/11/27/the-gingerbread-looks.html"
 			},
@@ -10842,7 +10867,7 @@
 				"id": "http://mjdescy.micro.blog/2019/11/27/prepping-to-make.html",
 				
 				"content_html": "<p>Prepping to make gingerbread later</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Prepping to make gingerbread later\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/f365948410.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Prepping to make gingerbread later\n\n<img src=\"uploads/2019/f365948410.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-11-27T09:15:56-05:00",
 				"url": "https://micro.mjdescy.me/2019/11/27/prepping-to-make.html"
 			},
@@ -10850,7 +10875,7 @@
 				"id": "http://mjdescy.micro.blog/2019/11/26/baking-snickerdoodles.html",
 				
 				"content_html": "<p>Baking snickerdoodles</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Baking snickerdoodles\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/0c69613b1e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Baking snickerdoodles\n\n<img src=\"uploads/2019/0c69613b1e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-26T21:06:10-05:00",
 				"url": "https://micro.mjdescy.me/2019/11/26/baking-snickerdoodles.html"
 			},
@@ -11573,7 +11598,7 @@
 				"id": "http://mjdescy.micro.blog/2019/09/22/i-hope-that.html",
 				
 				"content_html": "<p>I hope that today wasn&rsquo;t the last day this year that my family will visit the beach.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I hope that today wasn't the last day this year that my family will visit the beach.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/0d1e884ad3.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "I hope that today wasn't the last day this year that my family will visit the beach.\n\n<img src=\"uploads/2019/0d1e884ad3.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2019-09-22T19:26:18-05:00",
 				"url": "https://micro.mjdescy.me/2019/09/22/i-hope-that.html"
 			},
@@ -11713,7 +11738,7 @@
 				"id": "http://mjdescy.micro.blog/2019/09/14/looks-ok-so.html",
 				
 				"content_html": "<p>Looks OK so far. It will be difficult to wait till after dinner to try my Apple crumb pie. I think I need to find an actual recipe the next time I make it, though. I’d like a different kind of streusel topping.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Looks OK so far. It will be difficult to wait till after dinner to try my Apple crumb pie. I think I need to find an actual recipe the next time I make it, though. I’d like a different kind of streusel topping.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/4383ed85f8.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Looks OK so far. It will be difficult to wait till after dinner to try my Apple crumb pie. I think I need to find an actual recipe the next time I make it, though. I’d like a different kind of streusel topping.\n\n<img src=\"uploads/2019/4383ed85f8.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-14T14:41:52-05:00",
 				"url": "https://micro.mjdescy.me/2019/09/14/looks-ok-so.html"
 			},
@@ -11770,7 +11795,7 @@
 				"id": "http://mjdescy.micro.blog/2019/09/10/it-looks-like.html",
 				
 				"content_html": "<p>It looks like somebody at TidBits forgot to replace the boilerplate text in one of their RSS feed entries today. 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It looks like somebody at TidBits forgot to replace the boilerplate text in one of their RSS feed entries today. 😆\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/b95ee7ad3c.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"content_text": "It looks like somebody at TidBits forgot to replace the boilerplate text in one of their RSS feed entries today. 😆\n\n<img src=\"uploads/2019/b95ee7ad3c.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-10T18:38:47-05:00",
 				"url": "https://micro.mjdescy.me/2019/09/10/it-looks-like.html"
 			},
@@ -11834,7 +11859,7 @@
 				"id": "http://mjdescy.micro.blog/2019/09/07/we-took-the.html",
 				
 				"content_html": "<p>We took the kids to the park, and later ate lunch outside, to take advantage of today’s lovely September weather.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We took the kids to the park, and later ate lunch outside, to take advantage of today’s lovely September weather.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/fb3ec6714f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "We took the kids to the park, and later ate lunch outside, to take advantage of today’s lovely September weather.\n\n<img src=\"uploads/2019/fb3ec6714f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-09-07T12:51:47-05:00",
 				"url": "https://micro.mjdescy.me/2019/09/07/we-took-the.html"
 			},
@@ -11971,7 +11996,7 @@
 				"id": "http://mjdescy.micro.blog/2019/08/31/my-grocery-store.html",
 				
 				"content_html": "<p>My grocery store has rolled out its enormous Halloween candy display. It is still August.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My grocery store has rolled out its enormous Halloween candy display. It is still August.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/9cb72ec169.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My grocery store has rolled out its enormous Halloween candy display. It is still August.\n\n<img src=\"uploads/2019/9cb72ec169.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-31T13:59:39-05:00",
 				"url": "https://micro.mjdescy.me/2019/08/31/my-grocery-store.html"
 			},
@@ -12046,7 +12071,7 @@
 				"id": "http://mjdescy.micro.blog/2019/08/28/i-am-trying.html",
 				
 				"content_html": "<p>I am trying to get back into drinking tea. For today: oolong.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am trying to get back into drinking tea. For today: oolong.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/694705cb93.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "I am trying to get back into drinking tea. For today: oolong.\n\n<img src=\"uploads/2019/694705cb93.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2019-08-28T09:28:40-05:00",
 				"url": "https://micro.mjdescy.me/2019/08/28/i-am-trying.html"
 			},
@@ -12185,7 +12210,7 @@
 				"id": "http://mjdescy.micro.blog/2019/08/18/sabbaday-falls.html",
 				
 				"content_html": "<p>Sabbaday Falls</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sabbaday Falls\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/fac4bae463.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Sabbaday Falls\n\n<img src=\"uploads/2019/fac4bae463.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-08-18T20:26:53-05:00",
 				"url": "https://micro.mjdescy.me/2019/08/18/sabbaday-falls.html"
 			},
@@ -12265,7 +12290,7 @@
 				"id": "http://mjdescy.micro.blog/2019/08/02/monmouth-county-fair.html",
 				
 				"content_html": "<p>Monmouth County Fair</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Monmouth County Fair\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/f9388db204.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Monmouth County Fair\n\n<img src=\"uploads/2019/f9388db204.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-08-02T17:44:28-05:00",
 				"url": "https://micro.mjdescy.me/2019/08/02/monmouth-county-fair.html"
 			},
@@ -12290,7 +12315,7 @@
 				"id": "http://mjdescy.micro.blog/2019/08/02/iphone-home-screen.html",
 				"title": "iPhone Home Screen",
 				"content_html": "<p>I am trying something new with Apple organization: Three apps in the home row instead of four, and only productivity related apps (and audio apps, which I use all the time) on the first screen. It is no longer organized based solely on what I use most, but what I need to get to the most quickly, when I need it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am trying something new with Apple organization: Three apps in the home row instead of four, and only productivity related apps (and audio apps, which I use all the time) on the first screen. It is no longer organized based solely on what I use most, but what I need to get to the most quickly, when I need it.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/0828ce8908.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I am trying something new with Apple organization: Three apps in the home row instead of four, and only productivity related apps (and audio apps, which I use all the time) on the first screen. It is no longer organized based solely on what I use most, but what I need to get to the most quickly, when I need it.\n\n<img src=\"uploads/2019/0828ce8908.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-02T07:36:48-05:00",
 				"url": "https://micro.mjdescy.me/2019/08/02/iphone-home-screen.html"
 			},
@@ -12315,7 +12340,7 @@
 				"id": "http://mjdescy.micro.blog/2019/07/31/214508.html",
 				
 				"content_html": "<p>Monmouth County Fair</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Monmouth County Fair\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/c31b44d0cf.jpg\" width=\"600\" height=\"450\" alt=\"Open baskets of vegetables on a table at a fair\" /><img src=\"https://cdn.uploads.micro.blog/2098/2019/6656f07a67.jpg\" width=\"600\" height=\"450\" alt=\"Open baskets of vegetables on a table at a fair, more close up\" /><img src=\"https://cdn.uploads.micro.blog/2098/2019/68bbae782d.jpg\" width=\"600\" height=\"417\" alt=\"A flower cart with little flowerpots on it.\" />\n",
+				"content_text": "Monmouth County Fair\n\n<img src=\"uploads/2019/c31b44d0cf.jpg\" width=\"600\" height=\"450\" alt=\"Open baskets of vegetables on a table at a fair\" /><img src=\"uploads/2019/6656f07a67.jpg\" width=\"600\" height=\"450\" alt=\"Open baskets of vegetables on a table at a fair, more close up\" /><img src=\"uploads/2019/68bbae782d.jpg\" width=\"600\" height=\"417\" alt=\"A flower cart with little flowerpots on it.\" />\n",
 				"date_published": "2019-07-31T20:45:08-05:00",
 				"url": "https://micro.mjdescy.me/2019/07/31/214508.html"
 			},
@@ -12332,7 +12357,7 @@
 				"id": "http://mjdescy.micro.blog/2019/07/31/112800.html",
 				
 				"content_html": "<p>Monmouth County Fair</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Monmouth County Fair\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/1a3ec93a86.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Monmouth County Fair\n\n<img src=\"uploads/2019/1a3ec93a86.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-07-31T10:28:00-05:00",
 				"url": "https://micro.mjdescy.me/2019/07/31/112800.html"
 			},
@@ -12340,7 +12365,7 @@
 				"id": "http://mjdescy.micro.blog/2019/07/31/monmouth-county-fair.html",
 				
 				"content_html": "<p>Monmouth County Fair</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Monmouth County Fair\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/d66a0ae801.jpg\" width=\"600\" height=\"431\" alt=\"\" />\n",
+				"content_text": "Monmouth County Fair\n\n<img src=\"uploads/2019/d66a0ae801.jpg\" width=\"600\" height=\"431\" alt=\"\" />\n",
 				"date_published": "2019-07-31T10:15:13-05:00",
 				"url": "https://micro.mjdescy.me/2019/07/31/monmouth-county-fair.html"
 			},
@@ -12364,7 +12389,7 @@
 				"id": "http://mjdescy.micro.blog/2019/07/30/gt.html",
 				
 				"content_html": "<p>G&amp;T</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "G&T\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/f6c1c95e16.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "G&T\n\n<img src=\"uploads/2019/f6c1c95e16.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-30T20:09:01-05:00",
 				"url": "https://micro.mjdescy.me/2019/07/30/gt.html"
 			},
@@ -12404,7 +12429,7 @@
 				"id": "http://mjdescy.micro.blog/2019/07/29/monmouth-county-fair.html",
 				
 				"content_html": "<p>Monmouth County Fair</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Monmouth County Fair\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/f5ba521863.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Monmouth County Fair\n\n<img src=\"uploads/2019/f5ba521863.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-07-29T19:36:50-05:00",
 				"url": "https://micro.mjdescy.me/2019/07/29/monmouth-county-fair.html"
 			},
@@ -12412,7 +12437,7 @@
 				"id": "http://mjdescy.micro.blog/2019/07/29/the-monmouth-county.html",
 				
 				"content_html": "<p>The Monmouth County (New Jersey) Fair</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Monmouth County (New Jersey) Fair\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/9879fda759.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The Monmouth County (New Jersey) Fair\n\n<img src=\"uploads/2019/9879fda759.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-07-29T19:36:15-05:00",
 				"url": "https://micro.mjdescy.me/2019/07/29/the-monmouth-county.html"
 			},
@@ -12452,7 +12477,7 @@
 				"id": "http://mjdescy.micro.blog/2019/07/28/my-family-and.html",
 				
 				"content_html": "<p>My family and I enjoyed the local county fair this weekend. We went right after it opened for the day, before it got very crowded and before the temperature got too high.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My family and I enjoyed the local county fair this weekend. We went right after it opened for the day, before it got very crowded and before the temperature got too high.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/1e1401e472.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "My family and I enjoyed the local county fair this weekend. We went right after it opened for the day, before it got very crowded and before the temperature got too high.\n\n<img src=\"uploads/2019/1e1401e472.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2019-07-28T18:30:34-05:00",
 				"url": "https://micro.mjdescy.me/2019/07/28/my-family-and.html"
 			},
@@ -12565,7 +12590,7 @@
 				"id": "http://mjdescy.micro.blog/2019/07/16/in-democratic-fundraising.html",
 				"title": "In 2020 Democratic Fund-Raising, Five Candidates Stand Out ",
 				"content_html": "<p>I think that every bit <a href=\"https://www.nytimes.com/interactive/2019/07/16/us/politics/democratic-fundraising-2020.html\">of this article from the New York Times</a> illustrates what is wrong with the way we pick presidents in the US.</p>\n<blockquote>\n<p>Five Democratic presidential candidates raised a combined $96 million from individual donors in the last three months — about three-quarters of the total fund-raising by the entire Democratic field, according to reports filed with the Federal Election Commission on Monday.</p>\n</blockquote>\n<p>I have to admit that I am annoyed because my favorite candidate is not at the top of the fundraising list. That is a small worry, though. Overall, I am annoyed that all this money is spread out so widely amongst candidates,\nmany of whom should gracefully drop out and run for lower, but still very important, offices.</p>\n<p>Meanwhile, Trump looms over everything like Calamity Ganon over Hyrule Castle in &ldquo;Breath of the Wild&rdquo;:</p>\n<blockquote>\n<p>Trump has more than twice as much cash as the best-funded Democrats.</p>\n<p>President Trump has a big head start on the Democratic field in raising money for the 2020 election. He ended the second quarter with far more cash on hand than even the best-funded Democratic candidate.</p>\n</blockquote>\n<p>I don’t think the Democratic candidates and campaign strategists have a real plan to win. I know there is still a good amount of time to make such a plan, but I’m not sure if there is enough time. I am already tired of the primary process, and it has barely even begun.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I think that every bit [of this article from the New York Times](https://www.nytimes.com/interactive/2019/07/16/us/politics/democratic-fundraising-2020.html) illustrates what is wrong with the way we pick presidents in the US.\n\n> Five Democratic presidential candidates raised a combined $96 million from individual donors in the last three months — about three-quarters of the total fund-raising by the entire Democratic field, according to reports filed with the Federal Election Commission on Monday.\n\nI have to admit that I am annoyed because my favorite candidate is not at the top of the fundraising list. That is a small worry, though. Overall, I am annoyed that all this money is spread out so widely amongst candidates, \nmany of whom should gracefully drop out and run for lower, but still very important, offices.\n\nMeanwhile, Trump looms over everything like Calamity Ganon over Hyrule Castle in \"Breath of the Wild\":\n\n> Trump has more than twice as much cash as the best-funded Democrats.\n> \n> President Trump has a big head start on the Democratic field in raising money for the 2020 election. He ended the second quarter with far more cash on hand than even the best-funded Democratic candidate.\n\nI don’t think the Democratic candidates and campaign strategists have a real plan to win. I know there is still a good amount of time to make such a plan, but I’m not sure if there is enough time. I am already tired of the primary process, and it has barely even begun.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/5807bb1b3e.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "I think that every bit [of this article from the New York Times](https://www.nytimes.com/interactive/2019/07/16/us/politics/democratic-fundraising-2020.html) illustrates what is wrong with the way we pick presidents in the US.\n\n> Five Democratic presidential candidates raised a combined $96 million from individual donors in the last three months — about three-quarters of the total fund-raising by the entire Democratic field, according to reports filed with the Federal Election Commission on Monday.\n\nI have to admit that I am annoyed because my favorite candidate is not at the top of the fundraising list. That is a small worry, though. Overall, I am annoyed that all this money is spread out so widely amongst candidates, \nmany of whom should gracefully drop out and run for lower, but still very important, offices.\n\nMeanwhile, Trump looms over everything like Calamity Ganon over Hyrule Castle in \"Breath of the Wild\":\n\n> Trump has more than twice as much cash as the best-funded Democrats.\n> \n> President Trump has a big head start on the Democratic field in raising money for the 2020 election. He ended the second quarter with far more cash on hand than even the best-funded Democratic candidate.\n\nI don’t think the Democratic candidates and campaign strategists have a real plan to win. I know there is still a good amount of time to make such a plan, but I’m not sure if there is enough time. I am already tired of the primary process, and it has barely even begun.\n\n<img src=\"uploads/2019/5807bb1b3e.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2019-07-16T08:59:14-05:00",
 				"url": "https://micro.mjdescy.me/2019/07/16/in-democratic-fundraising.html",
 				"tags": ["News"]
@@ -12703,7 +12728,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/10/my-wife-and.html",
 				
 				"content_html": "<p>My wife and I baked a cake for her mother’s birthday. It was really good!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My wife and I baked a cake for her mother’s birthday. It was really good!\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/a16eff0201.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My wife and I baked a cake for her mother’s birthday. It was really good!\n\n<img src=\"uploads/2019/a16eff0201.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-06-10T18:30:33-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/10/my-wife-and.html"
 			},
@@ -12729,7 +12754,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/09/151231.html",
 				
 				"content_html": "<p>Thompson Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thompson Park\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/baa6bfc41d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Thompson Park\n\n<img src=\"uploads/2019/baa6bfc41d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-09T14:12:31-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/09/151231.html"
 			},
@@ -12737,7 +12762,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/09/thompson-park.html",
 				
 				"content_html": "<p>Thompson Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thompson Park\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/09dea78b7b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Thompson Park\n\n<img src=\"uploads/2019/09dea78b7b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-09T13:21:45-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/09/thompson-park.html"
 			},
@@ -12745,7 +12770,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/09/marlu-lake.html",
 				
 				"content_html": "<p>Marlu Lake</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Marlu Lake\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/e166585ec6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Marlu Lake\n\n<img src=\"uploads/2019/e166585ec6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-09T13:20:41-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/09/marlu-lake.html"
 			},
@@ -12753,7 +12778,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/08/six-turtles-at.html",
 				
 				"content_html": "<p>Turtles at Marlu Lake</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Turtles at Marlu Lake\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/e3f6bb150b.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
+				"content_text": "Turtles at Marlu Lake\n\n<img src=\"uploads/2019/e3f6bb150b.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
 				"date_published": "2019-06-08T22:01:08-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/08/six-turtles-at.html"
 			},
@@ -12761,7 +12786,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/08/marlu-lake.html",
 				
 				"content_html": "<p>Marlu Lake</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Marlu Lake\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/a5d02228b1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Marlu Lake\n\n<img src=\"uploads/2019/a5d02228b1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-08T20:45:59-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/08/marlu-lake.html"
 			},
@@ -12769,7 +12794,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/08/one-of-the.html",
 				
 				"content_html": "<p>One of the bat houses I saw today. For some reason, I thought they were really cool.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of the bat houses I saw today. For some reason, I thought they were really cool.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/f266e5fda2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "One of the bat houses I saw today. For some reason, I thought they were really cool.\n\n<img src=\"uploads/2019/f266e5fda2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-08T20:43:04-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/08/one-of-the.html"
 			},
@@ -12786,7 +12811,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/07/103446.html",
 				
 				"content_html": "<p>Ocean Grove, New Jersey</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ocean Grove, New Jersey\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/8e602eb2a1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Ocean Grove, New Jersey\n\n<img src=\"uploads/2019/8e602eb2a1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-07T09:34:46-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/07/103446.html"
 			},
@@ -12794,7 +12819,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/07/my-macbook-pro.html",
 				
 				"content_html": "<p>My MacBook Pro came back to me with a brand new top case and all its data intact. It looks great. I hope it gives me a couple more years of service.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My MacBook Pro came back to me with a brand new top case and all its data intact. It looks great. I hope it gives me a couple more years of service.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/e8c1da986e.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My MacBook Pro came back to me with a brand new top case and all its data intact. It looks great. I hope it gives me a couple more years of service.\n\n<img src=\"uploads/2019/e8c1da986e.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-06-07T09:19:29-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/07/my-macbook-pro.html"
 			},
@@ -12802,7 +12827,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/07/ocean-grove-new.html",
 				
 				"content_html": "<p>Ocean Grove, New Jersey</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ocean Grove, New Jersey\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/decbe7fc6d.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "Ocean Grove, New Jersey\n\n<img src=\"uploads/2019/decbe7fc6d.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2019-06-07T07:53:52-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/07/ocean-grove-new.html"
 			},
@@ -12818,7 +12843,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/06/092749.html",
 				
 				"content_html": "<p>Ocean Grove, New Jersey</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ocean Grove, New Jersey\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/b4093a8b4b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Ocean Grove, New Jersey\n\n<img src=\"uploads/2019/b4093a8b4b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-06T08:27:49-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/06/092749.html"
 			},
@@ -12826,7 +12851,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/06/ocean-grove-new.html",
 				
 				"content_html": "<p>Ocean Grove, New Jersey</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ocean Grove, New Jersey\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/ec0345cd79.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Ocean Grove, New Jersey\n\n<img src=\"uploads/2019/ec0345cd79.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-06T08:13:05-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/06/ocean-grove-new.html"
 			},
@@ -12892,7 +12917,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/03/092809.html",
 				
 				"content_html": "<p>Thompson Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thompson Park\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/313b1b8344.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Thompson Park\n\n<img src=\"uploads/2019/313b1b8344.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-03T08:28:09-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/03/092809.html"
 			},
@@ -12900,7 +12925,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/03/thompson-park.html",
 				
 				"content_html": "<p>Thompson Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thompson Park\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/8762631dd9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Thompson Park\n\n<img src=\"uploads/2019/8762631dd9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-03T08:27:23-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/03/thompson-park.html"
 			},
@@ -12908,7 +12933,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/03/marlu-lake.html",
 				
 				"content_html": "<p>Marlu Lake</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Marlu Lake\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/caf1f407c5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Marlu Lake\n\n<img src=\"uploads/2019/caf1f407c5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-03T08:26:19-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/03/marlu-lake.html"
 			},
@@ -12924,7 +12949,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/02/marlu-lake.html",
 				
 				"content_html": "<p>Marlu Lake</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Marlu Lake\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/e2f891dbb3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2019/6d0bdc754d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Marlu Lake\n\n<img src=\"uploads/2019/e2f891dbb3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2019/6d0bdc754d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-02T14:08:52-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/02/marlu-lake.html"
 			},
@@ -12932,7 +12957,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/01/161153.html",
 				
 				"content_html": "<p>Thompson Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thompson Park\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/4a017593ef.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Thompson Park\n\n<img src=\"uploads/2019/4a017593ef.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-01T15:11:53-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/01/161153.html"
 			},
@@ -12940,7 +12965,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/01/soaring.html",
 				
 				"content_html": "<p>Soaring</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Soaring\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/2aa9a10035.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Soaring\n\n<img src=\"uploads/2019/2aa9a10035.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-01T14:37:33-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/01/soaring.html"
 			},
@@ -12948,7 +12973,7 @@
 				"id": "http://mjdescy.micro.blog/2019/06/01/thompson-park.html",
 				
 				"content_html": "<p>Thompson Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thompson Park\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/f40385dc61.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Thompson Park\n\n<img src=\"uploads/2019/f40385dc61.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-06-01T14:32:52-05:00",
 				"url": "https://micro.mjdescy.me/2019/06/01/thompson-park.html"
 			},
@@ -12980,7 +13005,7 @@
 				"id": "http://mjdescy.micro.blog/2019/05/27/we-took-the.html",
 				
 				"content_html": "<p>We took the kids to the splash park today. They had a blast.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We took the kids to the splash park today. They had a blast.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/88626bb951.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "We took the kids to the splash park today. They had a blast.\n\n<img src=\"uploads/2019/88626bb951.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-05-27T19:28:15-05:00",
 				"url": "https://micro.mjdescy.me/2019/05/27/we-took-the.html"
 			},
@@ -12988,7 +13013,7 @@
 				"id": "http://mjdescy.micro.blog/2019/05/25/we-watched-turtle.html",
 				
 				"content_html": "<p>We watched turtle races today at the Staten Island Zoo. It was silly and fun. The kids there got really into it. The lighting wasn&rsquo;t great for photos, but we got to see a bunch of different turtles vie for the gold medal.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We watched turtle races today at the Staten Island Zoo. It was silly and fun. The kids there got really into it. The lighting wasn't great for photos, but we got to see a bunch of different turtles vie for the gold medal.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/32d24ab86f.jpg\" width=\"600\" height=\"450\" alt=\"Two turtles racing inside a ring.\" />\n",
+				"content_text": "We watched turtle races today at the Staten Island Zoo. It was silly and fun. The kids there got really into it. The lighting wasn't great for photos, but we got to see a bunch of different turtles vie for the gold medal.\n\n<img src=\"uploads/2019/32d24ab86f.jpg\" width=\"600\" height=\"450\" alt=\"Two turtles racing inside a ring.\" />\n",
 				"date_published": "2019-05-25T20:54:31-05:00",
 				"url": "https://micro.mjdescy.me/2019/05/25/we-watched-turtle.html"
 			},
@@ -13151,7 +13176,7 @@
 				"id": "http://mjdescy.micro.blog/2019/05/06/much-to-my.html",
 				
 				"content_html": "<p>Much to my surprise, I think I prefer the Razer Orange switches on this keyboard (pictured) to the Cherry MX Blue switches on my old one. It doesn’t hurt that the new one lights up, too. (Razer Orange switches are “silent, tactile” switches similar to Cherry MX Browns.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Much to my surprise, I think I prefer the Razer Orange switches on this keyboard (pictured) to the Cherry MX Blue switches on my old one. It doesn’t hurt that the new one lights up, too. (Razer Orange switches are “silent, tactile” switches similar to Cherry MX Browns.)\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/fb1f5f6ce1.jpg\" width=\"600\" height=\"276\" alt=\"\" />\n",
+				"content_text": "Much to my surprise, I think I prefer the Razer Orange switches on this keyboard (pictured) to the Cherry MX Blue switches on my old one. It doesn’t hurt that the new one lights up, too. (Razer Orange switches are “silent, tactile” switches similar to Cherry MX Browns.)\n\n<img src=\"uploads/2019/fb1f5f6ce1.jpg\" width=\"600\" height=\"276\" alt=\"\" />\n",
 				"date_published": "2019-05-06T14:31:02-05:00",
 				"url": "https://micro.mjdescy.me/2019/05/06/much-to-my.html"
 			},
@@ -13268,7 +13293,7 @@
 				"id": "http://mjdescy.micro.blog/2019/04/23/195220.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/23ec0367b5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2019/23ec0367b5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-04-23T18:52:20-05:00",
 				"url": "https://micro.mjdescy.me/2019/04/23/195220.html"
 			},
@@ -13276,7 +13301,7 @@
 				"id": "http://mjdescy.micro.blog/2019/04/22/i-normally-wouldnt.html",
 				
 				"content_html": "<p>I normally wouldn’t post pictures with family members in them on my blog, but I’ll make an exception for this one. Me wife and son are kind of hard to spot in it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I normally wouldn’t post pictures with family members in them on my blog, but I’ll make an exception for this one. Me wife and son are kind of hard to spot in it.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/4c9a5293ac.jpg\" width=\"600\" height=\"395\" alt=\"\" />\n",
+				"content_text": "I normally wouldn’t post pictures with family members in them on my blog, but I’ll make an exception for this one. Me wife and son are kind of hard to spot in it.\n\n<img src=\"uploads/2019/4c9a5293ac.jpg\" width=\"600\" height=\"395\" alt=\"\" />\n",
 				"date_published": "2019-04-22T19:40:46-05:00",
 				"url": "https://micro.mjdescy.me/2019/04/22/i-normally-wouldnt.html"
 			},
@@ -13284,7 +13309,7 @@
 				"id": "http://mjdescy.micro.blog/2019/04/22/monmouth-battlefield-state.html",
 				
 				"content_html": "<p>Monmouth Battlefield State Park</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Monmouth Battlefield State Park\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/74afb98e97.jpg\" width=\"600\" height=\"450\" alt=\"mp-photo-alt[]=\" /><img src=\"https://cdn.uploads.micro.blog/2098/2019/8d5d66c7f8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Monmouth Battlefield State Park\n\n<img src=\"uploads/2019/74afb98e97.jpg\" width=\"600\" height=\"450\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/8d5d66c7f8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-04-22T15:50:50-05:00",
 				"url": "https://micro.mjdescy.me/2019/04/22/monmouth-battlefield-state.html"
 			},
@@ -13300,7 +13325,7 @@
 				"id": "http://mjdescy.micro.blog/2019/04/21/monmouth-battlefield-state.html",
 				
 				"content_html": "<p>Monmouth Battlefield State Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Monmouth Battlefield State Park\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/65794dc07c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Monmouth Battlefield State Park\n\n<img src=\"uploads/2019/65794dc07c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-04-21T20:22:16-05:00",
 				"url": "https://micro.mjdescy.me/2019/04/21/monmouth-battlefield-state.html"
 			},
@@ -13317,7 +13342,7 @@
 				"id": "http://mjdescy.micro.blog/2019/04/18/holmdel-park-on.html",
 				
 				"content_html": "<p>Holmdel Park on a cloudy day</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Holmdel Park on a cloudy day\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/2e1bd6402f.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "Holmdel Park on a cloudy day\n\n<img src=\"uploads/2019/2e1bd6402f.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2019-04-18T10:21:28-05:00",
 				"url": "https://micro.mjdescy.me/2019/04/18/holmdel-park-on.html"
 			},
@@ -13325,7 +13350,7 @@
 				"id": "http://mjdescy.micro.blog/2019/04/18/111954.html",
 				
 				"content_html": "<p>Longstreet Farm</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Longstreet Farm\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/67626724b0.jpg\" width=\"600\" height=\"337\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"https://cdn.uploads.micro.blog/2098/2019/06152c5de3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2019/939700fc2b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Longstreet Farm\n\n<img src=\"uploads/2019/67626724b0.jpg\" width=\"600\" height=\"337\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"uploads/2019/06152c5de3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2019/939700fc2b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-04-18T10:19:54-05:00",
 				"url": "https://micro.mjdescy.me/2019/04/18/111954.html"
 			},
@@ -13333,7 +13358,7 @@
 				"id": "http://mjdescy.micro.blog/2019/04/18/longstreet-farm.html",
 				
 				"content_html": "<p>Longstreet Farm</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Longstreet Farm\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/2acf19f6e6.jpg\" width=\"600\" height=\"450\" alt=\"mp-photo-alt[]=\" /><img src=\"https://cdn.uploads.micro.blog/2098/2019/98220a9244.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Longstreet Farm\n\n<img src=\"uploads/2019/2acf19f6e6.jpg\" width=\"600\" height=\"450\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/98220a9244.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-04-18T07:58:53-05:00",
 				"url": "https://micro.mjdescy.me/2019/04/18/longstreet-farm.html"
 			},
@@ -13349,7 +13374,7 @@
 				"id": "http://mjdescy.micro.blog/2019/04/16/i-took-my.html",
 				
 				"content_html": "<p>I took my son, in the stroller, on a long, long walk through a local park on Sunday, while my wife and daughter did an indoor activity there. It was so nice to walk for an hour or so outdoors, in warm weather, while the trees were blooming.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I took my son, in the stroller, on a long, long walk through a local park on Sunday, while my wife and daughter did an indoor activity there. It was so nice to walk for an hour or so outdoors, in warm weather, while the trees were blooming.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/0dc19ab85a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "I took my son, in the stroller, on a long, long walk through a local park on Sunday, while my wife and daughter did an indoor activity there. It was so nice to walk for an hour or so outdoors, in warm weather, while the trees were blooming.\n\n<img src=\"uploads/2019/0dc19ab85a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-04-16T21:18:33-05:00",
 				"url": "https://micro.mjdescy.me/2019/04/16/i-took-my.html"
 			},
@@ -13357,7 +13382,7 @@
 				"id": "http://mjdescy.micro.blog/2019/04/16/i-did-not.html",
 				
 				"content_html": "<p>I did not ever expect to see giant ray-, octopus, and squid-shaped kites, but now they haunt my dreams. Thanks, Point Pleasant Kite festival!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I did not ever expect to see giant ray-, octopus, and squid-shaped kites, but now they haunt my dreams. Thanks, Point Pleasant Kite festival!\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/9431728e3d.jpg\" width=\"600\" height=\"450\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"https://cdn.uploads.micro.blog/2098/2019/bf3863fcad.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/2098/2019/7301f08814.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "I did not ever expect to see giant ray-, octopus, and squid-shaped kites, but now they haunt my dreams. Thanks, Point Pleasant Kite festival!\n\n<img src=\"uploads/2019/9431728e3d.jpg\" width=\"600\" height=\"450\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"uploads/2019/bf3863fcad.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2019/7301f08814.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-04-16T10:50:26-05:00",
 				"url": "https://micro.mjdescy.me/2019/04/16/i-did-not.html"
 			},
@@ -14078,7 +14103,7 @@
 				"id": "http://mjdescy.micro.blog/2019/01/29/im-looking-forward.html",
 				
 				"content_html": "<p>I’m looking forward to <em>this</em> (-24°F) soon. 🙄</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m looking forward to _this_ (-24°F) soon. 🙄\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/f5c11ab098.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I’m looking forward to _this_ (-24°F) soon. 🙄\n\n<img src=\"uploads/2019/f5c11ab098.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-28T22:59:41-05:00",
 				"url": "https://micro.mjdescy.me/2019/01/28/im-looking-forward.html"
 			},
@@ -14135,7 +14160,7 @@
 				"id": "http://mjdescy.micro.blog/2019/01/19/who-picks-the.html",
 				
 				"content_html": "<p>Who picks the colors for municipal gymnasiums? (It looks more drab and greener in real life.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Who picks the colors for municipal gymnasiums? (It looks more drab and greener in real life.)\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/dfbf8866bd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Who picks the colors for municipal gymnasiums? (It looks more drab and greener in real life.)\n\n<img src=\"uploads/2019/dfbf8866bd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-19T10:59:10-05:00",
 				"url": "https://micro.mjdescy.me/2019/01/19/who-picks-the.html"
 			},
@@ -14185,7 +14210,7 @@
 				"id": "http://mjdescy.micro.blog/2019/01/15/i-helped-my.html",
 				
 				"content_html": "<p>I helped my daughter with her homework, in which she had to draw a bunch of random things. I <em>tried</em> to demonstrate for her how to draw some things. 😂 (I’m glad I’m not in grade school anymore.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I helped my daughter with her homework, in which she had to draw a bunch of random things. I _tried_ to demonstrate for her how to draw some things. 😂 (I’m glad I’m not in grade school anymore.)\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/dc059e2b9b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I helped my daughter with her homework, in which she had to draw a bunch of random things. I _tried_ to demonstrate for her how to draw some things. 😂 (I’m glad I’m not in grade school anymore.)\n\n<img src=\"uploads/2019/dc059e2b9b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-14T19:09:06-05:00",
 				"url": "https://micro.mjdescy.me/2019/01/14/i-helped-my.html"
 			},
@@ -14218,7 +14243,7 @@
 				"id": "http://mjdescy.micro.blog/2019/01/11/my-new-version.html",
 				
 				"content_html": "<p>My new version of <a href=\"http://swiftodoapp.com/desktop/\">SwiftoDo Desktop</a> is shaping up nicely so far.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My new version of [SwiftoDo Desktop](http://swiftodoapp.com/desktop/) is shaping up nicely so far.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/5cea8a3797.jpg\" width=\"564\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My new version of [SwiftoDo Desktop](http://swiftodoapp.com/desktop/) is shaping up nicely so far.\n\n<img src=\"uploads/2019/5cea8a3797.jpg\" width=\"564\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-10T23:55:19-05:00",
 				"url": "https://micro.mjdescy.me/2019/01/10/my-new-version.html"
 			},
@@ -14243,7 +14268,7 @@
 				"id": "http://mjdescy.micro.blog/2019/01/10/i-am-unreasonably.html",
 				
 				"content_html": "<p>I am unreasonably excited to be receiving <a href=\"https://www.mariowiki.com/New_Super_Mario_Bros._U_Deluxe\">New Super Mario Bros. U Deluxe</a> tomorrow.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am unreasonably excited to be receiving [New Super Mario Bros. U Deluxe](https://www.mariowiki.com/New_Super_Mario_Bros._U_Deluxe) tomorrow.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2019/f6fdd2a8c6.jpg\" width=\"370\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I am unreasonably excited to be receiving [New Super Mario Bros. U Deluxe](https://www.mariowiki.com/New_Super_Mario_Bros._U_Deluxe) tomorrow.\n\n<img src=\"uploads/2019/f6fdd2a8c6.jpg\" width=\"370\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-10T09:07:21-05:00",
 				"url": "https://micro.mjdescy.me/2019/01/10/i-am-unreasonably.html"
 			},
@@ -14283,7 +14308,7 @@
 				"id": "http://mjdescy.micro.blog/2018/12/22/tonights-cookie-bake.html",
 				
 				"content_html": "<p>Tonight’s cookie bake was sugar cookies. My daughter helped roll out and cut them. She chose the heart shape, which makes for oversized cookies. (I forgot to photograph Wednesday night’s <em>brown</em> sugar cookie bake.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tonight’s cookie bake was sugar cookies. My daughter helped roll out and cut them. She chose the heart shape, which makes for oversized cookies. (I forgot to photograph Wednesday night’s _brown_ sugar cookie bake.)\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2018/30d8ba8ae2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Tonight’s cookie bake was sugar cookies. My daughter helped roll out and cut them. She chose the heart shape, which makes for oversized cookies. (I forgot to photograph Wednesday night’s _brown_ sugar cookie bake.)\n\n<img src=\"uploads/2018/30d8ba8ae2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-21T19:55:33-05:00",
 				"url": "https://micro.mjdescy.me/2018/12/21/tonights-cookie-bake.html"
 			},
@@ -14316,7 +14341,7 @@
 				"id": "http://mjdescy.micro.blog/2018/12/19/i-got-a.html",
 				
 				"content_html": "<p>I got a new toy this week: a large, Marshall Bluetooth speaker. I’m evaluating as best I can, between my kids’ naps and bedtimes. It can play much, much louder than I could ever turn it up to.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I got a new toy this week: a large, Marshall Bluetooth speaker. I’m evaluating as best I can, between my kids’ naps and bedtimes. It can play much, much louder than I could ever turn it up to.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2018/9ea59d077f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "I got a new toy this week: a large, Marshall Bluetooth speaker. I’m evaluating as best I can, between my kids’ naps and bedtimes. It can play much, much louder than I could ever turn it up to.\n\n<img src=\"uploads/2018/9ea59d077f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2018-12-19T16:22:14-05:00",
 				"url": "https://micro.mjdescy.me/2018/12/19/i-got-a.html"
 			},
@@ -14348,7 +14373,7 @@
 				"id": "http://mjdescy.micro.blog/2018/12/18/i-am-already.html",
 				
 				"content_html": "<p>I am already baking cookies for Christmas. Tonight: chocolate chip.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am already baking cookies for Christmas. Tonight: chocolate chip.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2018/d4070f1789.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I am already baking cookies for Christmas. Tonight: chocolate chip.\n\n<img src=\"uploads/2018/d4070f1789.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-17T19:51:01-05:00",
 				"url": "https://micro.mjdescy.me/2018/12/17/i-am-already.html"
 			},
@@ -14511,7 +14536,7 @@
 				"id": "http://mjdescy.micro.blog/2018/12/02/my-home-cooking.html",
 				"title": "My home cooking tip to add a vegetable and a sauce to stovetop chicken breasts",
 				"content_html": "<p>One of my simple kitchen techniques to spruce up skinless, boneless chicken breasts is to throw a can of beans (cannellini or garbanzo) and some chicken broth on them, after searing the first side. I then cover them and simmer the chicken (typically in the oven) until it is done. I usually throw in some flour at the end, after taking the chicken out, to make a thick and creamy sauce.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of my simple kitchen techniques to spruce up skinless, boneless chicken breasts is to throw a can of beans (cannellini or garbanzo) and some chicken broth on them, after searing the first side. I then cover them and simmer the chicken (typically in the oven) until it is done. I usually throw in some flour at the end, after taking the chicken out, to make a thick and creamy sauce.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2018/d60e69ad5b.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "One of my simple kitchen techniques to spruce up skinless, boneless chicken breasts is to throw a can of beans (cannellini or garbanzo) and some chicken broth on them, after searing the first side. I then cover them and simmer the chicken (typically in the oven) until it is done. I usually throw in some flour at the end, after taking the chicken out, to make a thick and creamy sauce.\n\n<img src=\"uploads/2018/d60e69ad5b.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-12-02T14:09:22-05:00",
 				"url": "https://micro.mjdescy.me/2018/12/02/my-home-cooking.html"
 			},
@@ -14527,7 +14552,7 @@
 				"id": "http://mjdescy.micro.blog/2018/12/01/my-micro-camera.html",
 				"title": "My Micro 4/3 Camera is all kitted out",
 				"content_html": "<p>I have just about every accessory I would imagine I would need for my (still) new Olympus OM-D EM10 Mark III camera, and all of them, except for the little carrying case it came with and my AmazonBasics tripod, fit into this little box. I never expected to buy so many lenses in such a short time (over a 4-month period). I was having so much fun shooting photos and expanding my camera&rsquo;s versatility. I tracked lens prices closely for months and bought each lens on a price dip; all in all I saved hundreds of dollars, compared to what it would have cost if I bought everything up front. Still, I spent way too much money this year on the camera; but at least I&rsquo;m almost done.</p>\n<p>To keep everything neat and tidy, rather than lumped together in a little box, I think want some kind of padded, hardshell case for everything (such as a Pelican case). I&rsquo;m not sure it&rsquo;s worth the expense, though, because I don&rsquo;t think I would ever take it out of the house. I would continue to use the little case that came with the camera, which I love for its small size. It easily fits the camera and an extra lens or an external flash unit.</p>\n<p>Once I sort the case situation out, I will be done with camera spending&hellip;at least for a few years.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I have just about every accessory I would imagine I would need for my (still) new Olympus OM-D EM10 Mark III camera, and all of them, except for the little carrying case it came with and my AmazonBasics tripod, fit into this little box. I never expected to buy so many lenses in such a short time (over a 4-month period). I was having so much fun shooting photos and expanding my camera's versatility. I tracked lens prices closely for months and bought each lens on a price dip; all in all I saved hundreds of dollars, compared to what it would have cost if I bought everything up front. Still, I spent way too much money this year on the camera; but at least I'm almost done.\n\nTo keep everything neat and tidy, rather than lumped together in a little box, I think want some kind of padded, hardshell case for everything (such as a Pelican case). I'm not sure it's worth the expense, though, because I don't think I would ever take it out of the house. I would continue to use the little case that came with the camera, which I love for its small size. It easily fits the camera and an extra lens or an external flash unit.\n\nOnce I sort the case situation out, I will be done with camera spending...at least for a few years.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2018/742f860a2d.jpg\" width=\"600\" height=\"450\" />\n",
+				"content_text": "I have just about every accessory I would imagine I would need for my (still) new Olympus OM-D EM10 Mark III camera, and all of them, except for the little carrying case it came with and my AmazonBasics tripod, fit into this little box. I never expected to buy so many lenses in such a short time (over a 4-month period). I was having so much fun shooting photos and expanding my camera's versatility. I tracked lens prices closely for months and bought each lens on a price dip; all in all I saved hundreds of dollars, compared to what it would have cost if I bought everything up front. Still, I spent way too much money this year on the camera; but at least I'm almost done.\n\nTo keep everything neat and tidy, rather than lumped together in a little box, I think want some kind of padded, hardshell case for everything (such as a Pelican case). I'm not sure it's worth the expense, though, because I don't think I would ever take it out of the house. I would continue to use the little case that came with the camera, which I love for its small size. It easily fits the camera and an extra lens or an external flash unit.\n\nOnce I sort the case situation out, I will be done with camera spending...at least for a few years.\n\n<img src=\"uploads/2018/742f860a2d.jpg\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2018-11-30T20:07:13-05:00",
 				"url": "https://micro.mjdescy.me/2018/11/30/my-micro-camera.html"
 			},
@@ -14575,7 +14600,7 @@
 				"id": "http://mjdescy.micro.blog/2018/11/23/here-is-my.html",
 				
 				"content_html": "<p>Here is my obligatory Thanksgiving turkey photo.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Here is my obligatory Thanksgiving turkey photo.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2018/34d644cc2d.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "Here is my obligatory Thanksgiving turkey photo.\n\n<img src=\"uploads/2018/34d644cc2d.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-11-22T19:23:05-05:00",
 				"url": "https://micro.mjdescy.me/2018/11/22/here-is-my.html"
 			},
@@ -14607,7 +14632,7 @@
 				"id": "http://mjdescy.micro.blog/2018/11/20/most-of-my.html",
 				
 				"content_html": "<p>Most of my cooking and cleaning plans today were derailed when my kitchen sink detached from the granite countertop. I was soaking oven racks in scalding hot water, which I do every year around this time, but this time the weight and the heat were too much. The sink’s seaI failed, and the sink dropped about an inch on one side. I had to bail gallons of hot water out with a bowl. Luckily, I was able to get it repaired about an hour later, but I can’t use the sink again until sometime tomorrow. At least this didn’t happen to me on Thanksgiving!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Most of my cooking and cleaning plans today were derailed when my kitchen sink detached from the granite countertop. I was soaking oven racks in scalding hot water, which I do every year around this time, but this time the weight and the heat were too much. The sink’s seaI failed, and the sink dropped about an inch on one side. I had to bail gallons of hot water out with a bowl. Luckily, I was able to get it repaired about an hour later, but I can’t use the sink again until sometime tomorrow. At least this didn’t happen to me on Thanksgiving!\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2018/c80dc7fc6b.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Most of my cooking and cleaning plans today were derailed when my kitchen sink detached from the granite countertop. I was soaking oven racks in scalding hot water, which I do every year around this time, but this time the weight and the heat were too much. The sink’s seaI failed, and the sink dropped about an inch on one side. I had to bail gallons of hot water out with a bowl. Luckily, I was able to get it repaired about an hour later, but I can’t use the sink again until sometime tomorrow. At least this didn’t happen to me on Thanksgiving!\n\n<img src=\"uploads/2018/c80dc7fc6b.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-11-20T15:26:39-05:00",
 				"url": "https://micro.mjdescy.me/2018/11/20/most-of-my.html"
 			},
@@ -14837,7 +14862,7 @@
 				"id": "http://mjdescy.micro.blog/2018/10/29/fall.html",
 				
 				"content_html": "<p>Fall</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fall\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2018/18f0b362d6.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Fall\n\n<img src=\"uploads/2018/18f0b362d6.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-10-29T18:18:29-05:00",
 				"url": "https://micro.mjdescy.me/2018/10/29/fall.html"
 			},
@@ -14970,7 +14995,7 @@
 				"id": "http://mjdescy.micro.blog/2018/09/05/i-dont-always.html",
 				
 				"content_html": "<p>🎵 I don’t always listen to “Josie and the Pussycats” but when I do, it’s <a href=\"https://en.m.wikipedia.org/wiki/Kay_Hanley\">Kay Hanley</a> singing.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎵 I don’t always listen to “Josie and the Pussycats” but when I do, it’s [Kay Hanley](https://en.m.wikipedia.org/wiki/Kay_Hanley) singing.\n\n<img src=\"http://micro.mjdescy.me/2098/2018/dcf2ccab08.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "🎵 I don’t always listen to “Josie and the Pussycats” but when I do, it’s [Kay Hanley](https://en.m.wikipedia.org/wiki/Kay_Hanley) singing.\n\n<img src=\"uploads/2018/dcf2ccab08.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-05T10:18:39-05:00",
 				"url": "https://micro.mjdescy.me/2018/09/05/i-dont-always.html",
 				"tags": ["Audiophile"]
@@ -14979,7 +15004,7 @@
 				"id": "http://mjdescy.micro.blog/2018/09/05/a-sunflower-in.html",
 				
 				"content_html": "<p>A sunflower in the backyard. My daughter loves these, but we don’t admire them often enough.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A sunflower in the backyard. My daughter loves these, but we don’t admire them often enough.\n\n<img src=\"http://micro.mjdescy.me/2098/2018/fbbe739a5f.jpg\" width=\"600\" height=\"449\" />\n",
+				"content_text": "A sunflower in the backyard. My daughter loves these, but we don’t admire them often enough.\n\n<img src=\"uploads/2018/fbbe739a5f.jpg\" width=\"600\" height=\"449\" />\n",
 				"date_published": "2018-09-05T06:23:52-05:00",
 				"url": "https://micro.mjdescy.me/2018/09/05/a-sunflower-in.html",
 				"tags": ["Journal"]
@@ -14997,7 +15022,7 @@
 				"id": "http://mjdescy.micro.blog/2018/08/27/vocal-jazz-with.html",
 				"title": "🎵 Vocal Jazz with the V-Moda Crossfade Wireless 2",
 				"content_html": "<p>Today felt like a good day to listen to a long vocal jazz playlist through my V Moda Crossfade Wireless 2. Their warm, somewhat bass-y sound signature works surprisingly well for that genre. I mostly think of them as great for rock and pop music, but they handled sparse arrangements of vocals (male and female), piano, bass, and drums (mostly brushwork) surprisingly well.</p>\n<p>I had to use wired mode because the Bluetooth connection is too loud for me, even at the lowest volume setting, on my iOS devices. The Bluetooth volume level appears to be more sane when I use them with my Apple TV or Mac.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today felt like a good day to listen to a long vocal jazz playlist through my V Moda Crossfade Wireless 2. Their warm, somewhat bass-y sound signature works surprisingly well for that genre. I mostly think of them as great for rock and pop music, but they handled sparse arrangements of vocals (male and female), piano, bass, and drums (mostly brushwork) surprisingly well.\n\nI had to use wired mode because the Bluetooth connection is too loud for me, even at the lowest volume setting, on my iOS devices. The Bluetooth volume level appears to be more sane when I use them with my Apple TV or Mac.\n\n<img src=\"http://micro.mjdescy.me/2098/2018/71ecbf0d75.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "Today felt like a good day to listen to a long vocal jazz playlist through my V Moda Crossfade Wireless 2. Their warm, somewhat bass-y sound signature works surprisingly well for that genre. I mostly think of them as great for rock and pop music, but they handled sparse arrangements of vocals (male and female), piano, bass, and drums (mostly brushwork) surprisingly well.\n\nI had to use wired mode because the Bluetooth connection is too loud for me, even at the lowest volume setting, on my iOS devices. The Bluetooth volume level appears to be more sane when I use them with my Apple TV or Mac.\n\n<img src=\"uploads/2018/71ecbf0d75.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-08-27T13:17:01-05:00",
 				"url": "https://micro.mjdescy.me/2018/08/27/vocal-jazz-with.html",
 				"tags": ["Audiophile"]
@@ -15123,7 +15148,7 @@
 				"id": "http://mjdescy.micro.blog/2018/07/17/175357.html",
 				
 				"content_html": "<p>🎵 I’m back to my wired OPPO PM-3 &amp; HA-2 SE headphones stack today, listening to <a href=\"https://itunes.apple.com/us/album/foreverland-deluxe-version/1114549349\">Foreverland</a>, by The Divine Comedy. It’s an album that slipped by me in 2016. I used to love The Divine Comedy in the late 1990s, and still take <a href=\"https://itunes.apple.com/us/album/casanova/162993522\">Casanova</a> for a spin every six months or so.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎵 I’m back to my wired OPPO PM-3 & HA-2 SE headphones stack today, listening to [Foreverland](https://itunes.apple.com/us/album/foreverland-deluxe-version/1114549349), by The Divine Comedy. It’s an album that slipped by me in 2016. I used to love The Divine Comedy in the late 1990s, and still take [Casanova](https://itunes.apple.com/us/album/casanova/162993522) for a spin every six months or so.\n\n<img src=\"http://micro.mjdescy.me/2098/2018/f957d41dd1.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "🎵 I’m back to my wired OPPO PM-3 & HA-2 SE headphones stack today, listening to [Foreverland](https://itunes.apple.com/us/album/foreverland-deluxe-version/1114549349), by The Divine Comedy. It’s an album that slipped by me in 2016. I used to love The Divine Comedy in the late 1990s, and still take [Casanova](https://itunes.apple.com/us/album/casanova/162993522) for a spin every six months or so.\n\n<img src=\"uploads/2018/f957d41dd1.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-07-17T12:53:57-05:00",
 				"url": "https://micro.mjdescy.me/2018/07/17/175357.html",
 				"tags": ["Audiophile"]
@@ -15294,7 +15319,7 @@
 				"id": "http://mjdescy.micro.blog/2018/05/18/while-i-think.html",
 				
 				"content_html": "<p>While I think I <em>want</em> a Nintendo Switch, I’m trying to make due for now with what I already have—an iPad Pro and a SteelSeries Nimbus controller. I’m not sure I even want to commit the <em>time</em> to gaming, but I am curious about the latest Mario and Zelda games.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "While I think I _want_ a Nintendo Switch, I’m trying to make due for now with what I already have—an iPad Pro and a SteelSeries Nimbus controller. I’m not sure I even want to commit the _time_ to gaming, but I am curious about the latest Mario and Zelda games.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "While I think I _want_ a Nintendo Switch, I’m trying to make due for now with what I already have—an iPad Pro and a SteelSeries Nimbus controller. I’m not sure I even want to commit the _time_ to gaming, but I am curious about the latest Mario and Zelda games.\n\n<img src=\"uploads/2018/9800db785e.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-18T09:16:15-05:00",
 				"url": "https://micro.mjdescy.me/2018/05/18/while-i-think.html",
 				"tags": ["Gaming"]
@@ -15438,7 +15463,7 @@
 				"id": "http://mjdescy.micro.blog/2018/04/22/i-had-a.html",
 				
 				"content_html": "<p>🎧 I had a lot of fun testing out the V-Moda Crossfade 2 headphones last night. <a href=\"https://www.amazon.com/gp/aw/review/B06XX2TJSD/R1ZK34Q1MXP0I8?ref_=glimp_1rv_cl\">My review is on Amazon</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎧 I had a lot of fun testing out the V-Moda Crossfade 2 headphones last night. [My review is on Amazon](https://www.amazon.com/gp/aw/review/B06XX2TJSD/R1ZK34Q1MXP0I8?ref_=glimp_1rv_cl).\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/b50778f79d.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "🎧 I had a lot of fun testing out the V-Moda Crossfade 2 headphones last night. [My review is on Amazon](https://www.amazon.com/gp/aw/review/B06XX2TJSD/R1ZK34Q1MXP0I8?ref_=glimp_1rv_cl).\n\n<img src=\"uploads/2018/b50778f79d.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-22T07:58:21-05:00",
 				"url": "https://micro.mjdescy.me/2018/04/22/i-had-a.html",
 				"tags": ["Audiophile"]
@@ -15627,7 +15652,7 @@
 				"id": "http://mjdescy.micro.blog/2018/02/19/this-weeks-episodehttpsovercastfmbncvjbhe.html",
 				
 				"content_html": "<p>🎙 <a href=\"https://overcast.fm/+B7NCVjBHE\">This week’s episode</a> had me Googling for ‘longest episode of “The Talk Show” with John Gruber ever’.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎙 [This week’s episode](https://overcast.fm/+B7NCVjBHE) had me Googling for ‘longest episode of “The Talk Show” with John Gruber ever’.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/b2c90c7922.jpg\" width=\"458\" height=\"458\" />\n",
+				"content_text": "🎙 [This week’s episode](https://overcast.fm/+B7NCVjBHE) had me Googling for ‘longest episode of “The Talk Show” with John Gruber ever’.\n\n<img src=\"uploads/2018/b2c90c7922.jpg\" width=\"458\" height=\"458\" />\n",
 				"date_published": "2018-02-19T13:53:56-05:00",
 				"url": "https://micro.mjdescy.me/2018/02/19/this-weeks-episodehttpsovercastfmbncvjbhe.html",
 				"tags": ["Podcasts"]
@@ -15681,7 +15706,7 @@
 				"id": "http://mjdescy.micro.blog/2018/02/15/adding-my-nest.html",
 				
 				"content_html": "<p>Adding my <a href=\"https://nest.com/thermostats/\">Nest thermostat</a> to <a href=\"https://www.apple.com/ios/home/\">HomeKit</a> via <a href=\"https://github.com/nfarina/homebridge\">HomeBridge</a> has made my life a little better. I do have a suggestion for Apple, though: &ldquo;Hey Siri, set thermostat to 70º F and let no one in my family change it, <em>ever</em>, for any reason.&rdquo; Maybe I don&rsquo;t need a smart thermostat after all.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Adding my [Nest thermostat](https://nest.com/thermostats/) to [HomeKit](https://www.apple.com/ios/home/) via [HomeBridge](https://github.com/nfarina/homebridge) has made my life a little better. I do have a suggestion for Apple, though: \"Hey Siri, set thermostat to 70º F and let no one in my family change it, _ever_, for any reason.\" Maybe I don't need a smart thermostat after all.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/1642f56be2.jpg\" width=\"599\" height=\"600\" />\n",
+				"content_text": "Adding my [Nest thermostat](https://nest.com/thermostats/) to [HomeKit](https://www.apple.com/ios/home/) via [HomeBridge](https://github.com/nfarina/homebridge) has made my life a little better. I do have a suggestion for Apple, though: \"Hey Siri, set thermostat to 70º F and let no one in my family change it, _ever_, for any reason.\" Maybe I don't need a smart thermostat after all.\n\n<img src=\"uploads/2018/1642f56be2.jpg\" width=\"599\" height=\"600\" />\n",
 				"date_published": "2018-02-15T10:09:06-05:00",
 				"url": "https://micro.mjdescy.me/2018/02/15/adding-my-nest.html",
 				"tags": ["Tech"]
@@ -15699,7 +15724,7 @@
 				"id": "http://mjdescy.micro.blog/2018/02/12/its-monday-morning.html",
 				
 				"content_html": "<p>🎙 It’s Monday morning, so I am listening to “This Week in Tech”.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎙 It’s Monday morning, so I am listening to “This Week in Tech”.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/1b771af0d7.jpg\" width=\"600\" height=\"598\" />\n",
+				"content_text": "🎙 It’s Monday morning, so I am listening to “This Week in Tech”.\n\n<img src=\"uploads/2018/1b771af0d7.jpg\" width=\"600\" height=\"598\" />\n",
 				"date_published": "2018-02-12T09:49:21-05:00",
 				"url": "https://micro.mjdescy.me/2018/02/12/its-monday-morning.html",
 				"tags": ["Podcasts"]
@@ -15726,7 +15751,7 @@
 				"id": "http://mjdescy.micro.blog/2018/02/09/replacing-keyboard-with.html",
 				
 				"content_html": "<p>Replacing &ldquo;Keyboard-&rdquo; with the keyboard emoji (⌨️) solves a minor problem I have in the Drafts 5 beta: You can&rsquo;t sort or hide action groups, and the keyboard-related groups, while useful, are not ones I open from the action groups menu. The ⌨️ emoji sorts them below normal letters.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Replacing \"Keyboard-\" with the keyboard emoji (⌨️) solves a minor problem I have in the Drafts 5 beta: You can't sort or hide action groups, and the keyboard-related groups, while useful, are not ones I open from the action groups menu. The ⌨️ emoji sorts them below normal letters.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/e40c5ec598.jpg\" width=\"504\" height=\"503\" />\n",
+				"content_text": "Replacing \"Keyboard-\" with the keyboard emoji (⌨️) solves a minor problem I have in the Drafts 5 beta: You can't sort or hide action groups, and the keyboard-related groups, while useful, are not ones I open from the action groups menu. The ⌨️ emoji sorts them below normal letters.\n\n<img src=\"uploads/2018/e40c5ec598.jpg\" width=\"504\" height=\"503\" />\n",
 				"date_published": "2018-02-09T09:38:19-05:00",
 				"url": "https://micro.mjdescy.me/2018/02/09/replacing-keyboard-with.html",
 				"tags": ["Keyboards"]
@@ -15753,7 +15778,7 @@
 				"id": "http://mjdescy.micro.blog/2018/02/08/my-wife-inspired.html",
 				
 				"content_html": "<p>My wife inspired me to cook apple &amp; sweet potato mash for my son this evening.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My wife inspired me to cook apple & sweet potato mash for my son this evening.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/f9d4f88773.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "My wife inspired me to cook apple & sweet potato mash for my son this evening.\n\n<img src=\"uploads/2018/f9d4f88773.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-02-08T18:00:54-05:00",
 				"url": "https://micro.mjdescy.me/2018/02/08/my-wife-inspired.html",
 				"tags": ["Journal"]
@@ -15834,7 +15859,7 @@
 				"id": "http://mjdescy.micro.blog/2018/02/06/i-have-been.html",
 				
 				"content_html": "<p>I have been enjoying the <a href=\"https://itunes.apple.com/us/app/roughly-the-approximate-time-in-words/id1086283722?mt=8\">Roughly app</a>&rsquo;s complication (on the bottom, in the picture) for the Apple Watch. It&rsquo;s a little frivolous to display the approximate time in words, but it&rsquo;s also a little frivolous to use analog watch faces on a digital device.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I have been enjoying the [Roughly app](https://itunes.apple.com/us/app/roughly-the-approximate-time-in-words/id1086283722?mt=8)'s complication (on the bottom, in the picture) for the Apple Watch. It's a little frivolous to display the approximate time in words, but it's also a little frivolous to use analog watch faces on a digital device.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/3411540050.jpg\" width=\"599\" height=\"600\" />\n",
+				"content_text": "I have been enjoying the [Roughly app](https://itunes.apple.com/us/app/roughly-the-approximate-time-in-words/id1086283722?mt=8)'s complication (on the bottom, in the picture) for the Apple Watch. It's a little frivolous to display the approximate time in words, but it's also a little frivolous to use analog watch faces on a digital device.\n\n<img src=\"uploads/2018/3411540050.jpg\" width=\"599\" height=\"600\" />\n",
 				"date_published": "2018-02-05T21:48:57-05:00",
 				"url": "https://micro.mjdescy.me/2018/02/05/i-have-been.html",
 				"tags": ["Journal"]
@@ -15933,7 +15958,7 @@
 				"id": "http://mjdescy.micro.blog/2018/02/01/im-thoroughly-enjoying.html",
 				
 				"content_html": "<p>I&rsquo;m thoroughly enjoying Matt Birchler&rsquo;s <a href=\"https://itunes.apple.com/us/playlist/homepod-testing/pl.u-qpZDJs2RG247\">&ldquo;HomePod Testing&rdquo; playlist</a> on Apple Music 🎵. Each track is well produced and interesting. It&rsquo;s great music to work to.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm thoroughly enjoying Matt Birchler's [\"HomePod Testing\" playlist](https://itunes.apple.com/us/playlist/homepod-testing/pl.u-qpZDJs2RG247) on Apple Music 🎵. Each track is well produced and interesting. It's great music to work to.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/390bb06eb4.jpg\" width=\"600\" height=\"462\" />\n",
+				"content_text": "I'm thoroughly enjoying Matt Birchler's [\"HomePod Testing\" playlist](https://itunes.apple.com/us/playlist/homepod-testing/pl.u-qpZDJs2RG247) on Apple Music 🎵. Each track is well produced and interesting. It's great music to work to.\n\n<img src=\"uploads/2018/390bb06eb4.jpg\" width=\"600\" height=\"462\" />\n",
 				"date_published": "2018-02-01T11:04:52-05:00",
 				"url": "https://micro.mjdescy.me/2018/02/01/im-thoroughly-enjoying.html",
 				"tags": ["Audiophile"]
@@ -16095,7 +16120,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/24/we-had-a.html",
 				
 				"content_html": "<p>We had a nice team dinner at Aldo&rsquo;s in Baltimore last night. They have the best limoncello I&rsquo;ve ever had. And cannoli. And great entrées. 🍴</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We had a nice team dinner at Aldo's in Baltimore last night. They have the best limoncello I've ever had. And cannoli. And great entrées. 🍴 \n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/4d3e01d00c.jpg\" width=\"599\" height=\"600\" />\n",
+				"content_text": "We had a nice team dinner at Aldo's in Baltimore last night. They have the best limoncello I've ever had. And cannoli. And great entrées. 🍴 \n\n<img src=\"uploads/2018/4d3e01d00c.jpg\" width=\"599\" height=\"600\" />\n",
 				"date_published": "2018-01-24T08:17:50-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/24/we-had-a.html",
 				"tags": ["Journal"]
@@ -16104,7 +16129,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/24/i-was-not.html",
 				
 				"content_html": "<p>I was <em>not</em> thrilled that today’s <a href=\"https://www.nytimes.com/crosswords/game/mini\">New York Times mini crossword’s</a> first word contained numbers. I didn’t know crosswords puzzles <em>could</em> contain numbers. It bamboozled me completely! 😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I was _not_ thrilled that today’s [New York Times mini crossword’s](https://www.nytimes.com/crosswords/game/mini) first word contained numbers. I didn’t know crosswords puzzles _could_ contain numbers. It bamboozled me completely! 😅\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/07c4709f14.jpg\" width=\"599\" height=\"600\" />\n",
+				"content_text": "I was _not_ thrilled that today’s [New York Times mini crossword’s](https://www.nytimes.com/crosswords/game/mini) first word contained numbers. I didn’t know crosswords puzzles _could_ contain numbers. It bamboozled me completely! 😅\n\n<img src=\"uploads/2018/07c4709f14.jpg\" width=\"599\" height=\"600\" />\n",
 				"date_published": "2018-01-23T21:51:52-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/23/i-was-not.html",
 				"tags": ["Journal"]
@@ -16113,7 +16138,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/24/people-on-reddit.html",
 				
 				"content_html": "<p>People on Reddit are bitching tonight about Apple&rsquo;s &ldquo;bug fixes and improvements&rdquo; iOS and watchOS updates. I must be uncool or something because those kinds of updates are my favorite kind.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "People on Reddit are bitching tonight about Apple's \"bug fixes and improvements\" iOS and watchOS updates. I must be uncool or something because those kinds of updates are my favorite kind.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/1f9c065d4e.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "People on Reddit are bitching tonight about Apple's \"bug fixes and improvements\" iOS and watchOS updates. I must be uncool or something because those kinds of updates are my favorite kind.\n\n<img src=\"uploads/2018/1f9c065d4e.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-23T21:45:07-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/23/people-on-reddit.html",
 				"tags": ["Tech","Apple"]
@@ -16131,7 +16156,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/23/oh-thank-goodness.html",
 				
 				"content_html": "<p>Oh, thank goodness for ☕️. I’ve got 15 minutes to down another cup before I head over to the office. It is nice to have a later start than usual today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oh, thank goodness for ☕️. I’ve got 15 minutes to down another cup before I head over to the office. It is nice to have a later start than usual today.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/35cd4ac162.jpg\" width=\"599\" height=\"600\" />\n",
+				"content_text": "Oh, thank goodness for ☕️. I’ve got 15 minutes to down another cup before I head over to the office. It is nice to have a later start than usual today.\n\n<img src=\"uploads/2018/35cd4ac162.jpg\" width=\"599\" height=\"600\" />\n",
 				"date_published": "2018-01-23T08:18:13-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/23/oh-thank-goodness.html",
 				"tags": ["Journal"]
@@ -16140,7 +16165,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/23/baltimores-inner-harbor.html",
 				
 				"content_html": "<p>Baltimore&rsquo;s Inner Harbor is nice. I&rsquo;m glad I recognize the area in which I&rsquo;m staying. My morning destination is a short walk away.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Baltimore's Inner Harbor is nice. I'm glad I recognize the area in which I'm staying. My morning destination is a short walk away.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/91610af115.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Baltimore's Inner Harbor is nice. I'm glad I recognize the area in which I'm staying. My morning destination is a short walk away.\n\n<img src=\"uploads/2018/91610af115.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-22T23:12:45-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/22/baltimores-inner-harbor.html",
 				"tags": ["Journal"]
@@ -16194,7 +16219,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/20/i-drew-and.html",
 				
 				"content_html": "<p>I drew and colored this under the expert tutelage of my 5-year-old daughter, just before we played together with Wellie-Wishers. 🎨</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I drew and colored this under the expert tutelage of my 5-year-old daughter, just before we played together with Wellie-Wishers. 🎨\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/ce86c63be4.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "I drew and colored this under the expert tutelage of my 5-year-old daughter, just before we played together with Wellie-Wishers. 🎨\n\n<img src=\"uploads/2018/ce86c63be4.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-01-20T14:52:17-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/20/i-drew-and.html",
 				"tags": ["Journal"]
@@ -16212,7 +16237,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/20/is-it-awful.html",
 				
 				"content_html": "<p>Is it awful that I kind of want a <a href=\"https://www.macrumors.com/2018/01/19/apple-homepod-fcc-approval/\">HomePod</a>? When I first watched the product announcement, my impression was “too expensive: hard pass” but now I kind of want something that sounds really good and <em>just works</em> with my iPhone.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Is it awful that I kind of want a [HomePod](https://www.macrumors.com/2018/01/19/apple-homepod-fcc-approval/)? When I first watched the product announcement, my impression was “too expensive: hard pass” but now I kind of want something that sounds really good and _just works_ with my iPhone.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/7eafcf55d3.jpg\" width=\"600\" height=\"338\" />\n",
+				"content_text": "Is it awful that I kind of want a [HomePod](https://www.macrumors.com/2018/01/19/apple-homepod-fcc-approval/)? When I first watched the product announcement, my impression was “too expensive: hard pass” but now I kind of want something that sounds really good and _just works_ with my iPhone.\n\n<img src=\"uploads/2018/7eafcf55d3.jpg\" width=\"600\" height=\"338\" />\n",
 				"date_published": "2018-01-20T00:11:11-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/20/is-it-awful.html",
 				"tags": ["Tech","Apple"]
@@ -16275,7 +16300,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/18/im-adding-some.html",
 				
 				"content_html": "<p>I&rsquo;m adding some very basic URL handling support to <a href=\"http://swiftodoapp.com\">SwiftoDo</a> tonight, based on a user request. I almost never put URLs into my task list, so I never thought to add it, but of course it makes sense.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm adding some very basic URL handling support to [SwiftoDo](http://swiftodoapp.com) tonight, based on a user request. I almost never put URLs into my task list, so I never thought to add it, but of course it makes sense.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/50a95dbe70.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "I'm adding some very basic URL handling support to [SwiftoDo](http://swiftodoapp.com) tonight, based on a user request. I almost never put URLs into my task list, so I never thought to add it, but of course it makes sense.\n\n<img src=\"uploads/2018/50a95dbe70.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-17T22:45:46-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/17/im-adding-some.html",
 				"tags": ["Coding"]
@@ -16329,7 +16354,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/16/my-wifes-and.html",
 				
 				"content_html": "<p>My wife’s and daughter’s strawberry swirl mini muffins turned out nicely, but bedtime had to be pushed back quite a bit. It’s a fair trade-off, I suppose.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My wife’s and daughter’s strawberry swirl mini muffins turned out nicely, but bedtime had to be pushed back quite a bit. It’s a fair trade-off, I suppose.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/fea82b1239.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "My wife’s and daughter’s strawberry swirl mini muffins turned out nicely, but bedtime had to be pushed back quite a bit. It’s a fair trade-off, I suppose.\n\n<img src=\"uploads/2018/fea82b1239.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-01-15T21:32:43-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/15/my-wifes-and.html",
 				"tags": ["Journal"]
@@ -16374,7 +16399,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/15/this-eye-round.html",
 				
 				"content_html": "<p>This eye round roast came out magnificently, too. Am I starting a food blog now? (Is that annoying?)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This eye round roast came out magnificently, too. Am I starting a food blog now? (Is that annoying?)\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/d406d39a03.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "This eye round roast came out magnificently, too. Am I starting a food blog now? (Is that annoying?)\n\n<img src=\"uploads/2018/d406d39a03.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-14T19:58:17-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/14/this-eye-round.html",
 				"tags": ["Journal"]
@@ -16383,7 +16408,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/14/my-chicken-sausage.html",
 				
 				"content_html": "<p>My chicken sausage escarole soup came out so delicious that I’m thinking of posting my recipe. Do people still post recipes to their personal blogs? I originally did not want to start doing that again, but now I feel like I might as well.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My chicken sausage escarole soup came out so delicious that I’m thinking of posting my recipe. Do people still post recipes to their personal blogs? I originally did not want to start doing that again, but now I feel like I might as well.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/08c509965c.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "My chicken sausage escarole soup came out so delicious that I’m thinking of posting my recipe. Do people still post recipes to their personal blogs? I originally did not want to start doing that again, but now I feel like I might as well.\n\n<img src=\"uploads/2018/08c509965c.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-14T14:11:58-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/14/my-chicken-sausage.html",
 				"tags": ["Journal"]
@@ -16401,7 +16426,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/14/the-crayola-experience.html",
 				
 				"content_html": "<p>The Crayola Experience was…OK, I guess. My daughter said she liked it. The rest of the day was a lot more fun, I think.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Crayola Experience was…OK, I guess. My daughter said she liked it. The rest of the day was a lot more fun, I think.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/7bfbf1a0e7.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "The Crayola Experience was…OK, I guess. My daughter said she liked it. The rest of the day was a lot more fun, I think.\n\n<img src=\"uploads/2018/7bfbf1a0e7.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-13T20:44:18-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/13/the-crayola-experience.html",
 				"tags": ["Journal"]
@@ -16410,7 +16435,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/13/its-a-road.html",
 				
 				"content_html": "<p>It’s a road trip day for me and my family. Picking the driving music 🎵 is the hardest part. We mostly stick to Laurie Berliner Band and Hamilton. I’d love it if we could branch out more from there.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s a road trip day for me and my family. Picking the driving music 🎵 is the hardest part. We mostly stick to Laurie Berliner Band and Hamilton. I’d love it if we could branch out more from there.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/0ade6348ae.jpg\" width=\"599\" height=\"600\" />\n",
+				"content_text": "It’s a road trip day for me and my family. Picking the driving music 🎵 is the hardest part. We mostly stick to Laurie Berliner Band and Hamilton. I’d love it if we could branch out more from there.\n\n<img src=\"uploads/2018/0ade6348ae.jpg\" width=\"599\" height=\"600\" />\n",
 				"date_published": "2018-01-13T09:58:29-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/13/its-a-road.html",
 				"tags": ["Audiophile"]
@@ -16419,7 +16444,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/13/in-my-s.html",
 				
 				"content_html": "<p>In my 20s I only drank Manhattans straight up. Now, deep into my 30s, I prefer them on the rocks—but only when homemade. It&rsquo;s been quite a week for me and now it is time to unwind. Cheers!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In my 20s I only drank Manhattans straight up. Now, deep into my 30s, I prefer them on the rocks—but only when homemade. It's been quite a week for me and now it is time to unwind. Cheers!\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/7b76a40bbf.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "In my 20s I only drank Manhattans straight up. Now, deep into my 30s, I prefer them on the rocks—but only when homemade. It's been quite a week for me and now it is time to unwind. Cheers!\n\n<img src=\"uploads/2018/7b76a40bbf.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-12T21:09:38-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/12/in-my-s.html",
 				"tags": ["Journal"]
@@ -16428,7 +16453,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/12/every-few-days.html",
 				
 				"content_html": "<p>Every few days I have to talk myself out of buying another pair of headphones. I don&rsquo;t need the HifiMan HE-400i, and their sound leakage probably wouldn&rsquo;t suit my listening needs at all, but I can’t stop thinking about adding an open-backed headphone to my meager collection.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Every few days I have to talk myself out of buying another pair of headphones. I don't need the HifiMan HE-400i, and their sound leakage probably wouldn't suit my listening needs at all, but I can’t stop thinking about adding an open-backed headphone to my meager collection.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/6cc2d36edd.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Every few days I have to talk myself out of buying another pair of headphones. I don't need the HifiMan HE-400i, and their sound leakage probably wouldn't suit my listening needs at all, but I can’t stop thinking about adding an open-backed headphone to my meager collection.\n\n<img src=\"uploads/2018/6cc2d36edd.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-12T16:25:34-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/12/every-few-days.html",
 				"tags": ["Audiophile"]
@@ -16473,7 +16498,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/10/i-submitted-a.html",
 				
 				"content_html": "<p>I submitted a new <a href=\"http://swiftodoapp.com\">SwiftoDo</a> build to the App Store for a &ldquo;Bug Fixes and Performance Improvements&rdquo; update. Now I can move on to more important things.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I submitted a new [SwiftoDo](http://swiftodoapp.com) build to the App Store for a \"Bug Fixes and Performance Improvements\" update. Now I can move on to more important things.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/243371c849.jpg\" width=\"600\" height=\"47\" />\n",
+				"content_text": "I submitted a new [SwiftoDo](http://swiftodoapp.com) build to the App Store for a \"Bug Fixes and Performance Improvements\" update. Now I can move on to more important things.\n\n<img src=\"uploads/2018/243371c849.jpg\" width=\"600\" height=\"47\" />\n",
 				"date_published": "2018-01-10T17:06:11-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/10/i-submitted-a.html",
 				"tags": ["Coding"]
@@ -16491,7 +16516,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/09/ready-player-one.html",
 				"title": "📚 Ready Player One",
 				"content_html": "<p>I just finished <em>Ready Player One</em> by Ernest Cline. It was light and enjoyable the whole way through. I&rsquo;m not sure just how much I liked it, as reading it was a little like watching somebody else play video games, which is not really my thing, but I did like it. I&rsquo;m glad the author addressed the isolation of all the main characters in real life, at least a little. It could have had more depth in that area, but that might have diminished its charm.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I just finished _Ready Player One_ by Ernest Cline. It was light and enjoyable the whole way through. I'm not sure just how much I liked it, as reading it was a little like watching somebody else play video games, which is not really my thing, but I did like it. I'm glad the author addressed the isolation of all the main characters in real life, at least a little. It could have had more depth in that area, but that might have diminished its charm.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/94ab55d10a.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "I just finished _Ready Player One_ by Ernest Cline. It was light and enjoyable the whole way through. I'm not sure just how much I liked it, as reading it was a little like watching somebody else play video games, which is not really my thing, but I did like it. I'm glad the author addressed the isolation of all the main characters in real life, at least a little. It could have had more depth in that area, but that might have diminished its charm.\n\n<img src=\"uploads/2018/94ab55d10a.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-09T18:42:37-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/09/ready-player-one.html",
 				"tags": ["Books"]
@@ -16500,7 +16525,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/09/the-dining-room.html",
 				
 				"content_html": "<p>The dining room is looking better now, too. I can’t believe we didn’t put anything up on that wall for 7 years.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The dining room is looking better now, too. I can’t believe we didn’t put anything up on that wall for 7 years.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/809e854066.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "The dining room is looking better now, too. I can’t believe we didn’t put anything up on that wall for 7 years.\n\n<img src=\"uploads/2018/809e854066.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-01-09T12:01:38-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/09/the-dining-room.html",
 				"tags": ["Journal"]
@@ -16527,7 +16552,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/08/i-posted-some.html",
 				
 				"content_html": "<p>I posted some photos I took in my son’s room. I hope he likes flowers. (He’s a baby.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I posted some photos I took in my son’s room. I hope he likes flowers. (He’s a baby.)\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/e7e3b446ac.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "I posted some photos I took in my son’s room. I hope he likes flowers. (He’s a baby.)\n\n<img src=\"uploads/2018/e7e3b446ac.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-01-08T17:34:52-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/08/i-posted-some.html",
 				"tags": ["Journal"]
@@ -16563,7 +16588,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/07/i-am-lazily.html",
 				
 				"content_html": "<p>I am lazily cooking salsa chicken thighs for either lunch or dinner.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am lazily cooking salsa chicken thighs for either lunch or dinner.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/8d45cf5704.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "I am lazily cooking salsa chicken thighs for either lunch or dinner.\n\n<img src=\"uploads/2018/8d45cf5704.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-07T11:40:31-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/07/i-am-lazily.html",
 				"tags": ["Journal"]
@@ -16590,7 +16615,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/06/i-dont-even.html",
 				
 				"content_html": "<p>I don’t even wish I was actually this good at solving The New York Times Mini Crossword Puzzle.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I don’t even wish I was actually this good at solving The New York Times Mini Crossword Puzzle.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/d5a192e283.jpg\" width=\"599\" height=\"600\" />\n",
+				"content_text": "I don’t even wish I was actually this good at solving The New York Times Mini Crossword Puzzle.\n\n<img src=\"uploads/2018/d5a192e283.jpg\" width=\"599\" height=\"600\" />\n",
 				"date_published": "2018-01-06T08:34:37-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/06/i-dont-even.html",
 				"tags": ["Gaming"]
@@ -16599,7 +16624,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/05/my-prediction-for.html",
 				
 				"content_html": "<p>📺 My prediction for &ldquo;The Good Place&rdquo; series finale (which hopefully will be several years from now): The <em>whole thing</em> is <em>Michael&rsquo;s</em> &ldquo;Bad Place&rdquo;. <em>He&rsquo;s</em> the one being tortured. Holy forking shirt balls!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📺 My prediction for \"The Good Place\" series finale (which hopefully will be several years from now): The _whole thing_ is _Michael's_ \"Bad Place\". _He's_ the one being tortured. Holy forking shirt balls!\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/5c584937a1.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "📺 My prediction for \"The Good Place\" series finale (which hopefully will be several years from now): The _whole thing_ is _Michael's_ \"Bad Place\". _He's_ the one being tortured. Holy forking shirt balls!\n\n<img src=\"uploads/2018/5c584937a1.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-01-05T16:47:09-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/05/my-prediction-for.html",
 				"tags": ["TV"]
@@ -16617,7 +16642,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/05/i-happened-slowly.html",
 				
 				"content_html": "<p>It happened slowly, but preferred music playback device size and wire count have gone up for me over time. 2010: iPod Shuffle. 2017: iPad Air 2 &amp; Oppo HA2-SE.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It happened slowly, but preferred music playback device size and wire count have gone up for me over time. 2010: iPod Shuffle. 2017: iPad Air 2 & Oppo HA2-SE.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/8480213f4d.jpg\" width=\"600\" height=\"379\" />\n",
+				"content_text": "It happened slowly, but preferred music playback device size and wire count have gone up for me over time. 2010: iPod Shuffle. 2017: iPad Air 2 & Oppo HA2-SE.\n\n<img src=\"uploads/2018/8480213f4d.jpg\" width=\"600\" height=\"379\" />\n",
 				"date_published": "2018-01-05T09:09:09-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/05/i-happened-slowly.html",
 				"tags": ["Audiophile"]
@@ -16635,7 +16660,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/04/dear-apple-music.html",
 				
 				"content_html": "<p>Dear Apple Music: Just because I listened to Sixpence Non The Richer&rsquo;s cover of &ldquo;There She Goes&rdquo; (originally by the La&rsquo;s, and arguably about <em>heroin</em>, for goodness sake), doesn&rsquo;t mean I want to listen to Christian music in all my personalized mixes. 🙄</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dear Apple Music: Just because I listened to Sixpence Non The Richer's cover of \"There She Goes\" (originally by the La's, and arguably about _heroin_, for goodness sake), doesn't mean I want to listen to Christian music in all my personalized mixes. 🙄\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/f15a2eda19.jpg\" width=\"599\" height=\"600\" />\n",
+				"content_text": "Dear Apple Music: Just because I listened to Sixpence Non The Richer's cover of \"There She Goes\" (originally by the La's, and arguably about _heroin_, for goodness sake), doesn't mean I want to listen to Christian music in all my personalized mixes. 🙄\n\n<img src=\"uploads/2018/f15a2eda19.jpg\" width=\"599\" height=\"600\" />\n",
 				"date_published": "2018-01-04T14:45:08-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/04/dear-apple-music.html",
 				"tags": ["Audiophile","Tech","Apple"]
@@ -16644,7 +16669,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/04/so-far-the.html",
 				
 				"content_html": "<p>So far the snowfall hasn’t been so bad—only a few inches so far. It is windy, though, and very cold. My daughter, home on a snow day, is watching “Frozen”, which is apt. I am turning my attention to hot tea and (less hot) database programming.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So far the snowfall hasn’t been so bad—only a few inches so far. It is windy, though, and very cold. My daughter, home on a snow day, is watching “Frozen”, which is apt. I am turning my attention to hot tea and (less hot) database programming. \n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/f227df6316.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "So far the snowfall hasn’t been so bad—only a few inches so far. It is windy, though, and very cold. My daughter, home on a snow day, is watching “Frozen”, which is apt. I am turning my attention to hot tea and (less hot) database programming. \n\n<img src=\"uploads/2018/f227df6316.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-04T10:16:32-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/04/so-far-the.html",
 				"tags": ["Journal"]
@@ -16671,7 +16696,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/04/we-are-bracing.html",
 				
 				"content_html": "<p>We are bracing for a blizzard tonight, which is expected to snow us in all day tomorrow. School is canceled already. (Work isn&rsquo;t.) I feel like it is a metaphor for what&rsquo;s going on in my life right now. (Photo is historical.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We are bracing for a blizzard tonight, which is expected to snow us in all day tomorrow. School is canceled already. (Work isn't.) I feel like it is a metaphor for what's going on in my life right now. (Photo is historical.)\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/65f94f6882.jpg\" width=\"600\" height=\"576\" />\n",
+				"content_text": "We are bracing for a blizzard tonight, which is expected to snow us in all day tomorrow. School is canceled already. (Work isn't.) I feel like it is a metaphor for what's going on in my life right now. (Photo is historical.)\n\n<img src=\"uploads/2018/65f94f6882.jpg\" width=\"600\" height=\"576\" />\n",
 				"date_published": "2018-01-03T21:35:25-05:00",
 				"url": "https://micro.mjdescy.me/2018/01/03/we-are-bracing.html",
 				"tags": ["Journal"]
@@ -16743,7 +16768,7 @@
 				"id": "http://mjdescy.micro.blog/2018/01/01/we-are-at.html",
 				
 				"content_html": "<p>We are at my neighbors' house for a simulated 7:30 PM ball drop. Fun NYE party!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We are at my neighbors' house for a simulated 7:30 PM ball drop. Fun NYE party!\n\n<img src=\"http://mjdescy.micro.blog/uploads/2018/d1c11909a1.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "We are at my neighbors' house for a simulated 7:30 PM ball drop. Fun NYE party!\n\n<img src=\"uploads/2018/d1c11909a1.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-12-31T19:04:56-05:00",
 				"url": "https://micro.mjdescy.me/2017/12/31/we-are-at.html",
 				"tags": ["Journal"]
@@ -16752,7 +16777,7 @@
 				"id": "http://mjdescy.micro.blog/2017/12/31/my-daughters-cookie.html",
 				
 				"content_html": "<p>My daughter’s cookie decorating skills are advancing! I’m so proud of her. 😀🍪</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My daughter’s cookie decorating skills are advancing! I’m so proud of her. 😀🍪\n\n<img src=\"http://mjdescy.micro.blog/uploads/2017/c24da40ea9.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "My daughter’s cookie decorating skills are advancing! I’m so proud of her. 😀🍪\n\n<img src=\"uploads/2017/c24da40ea9.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2017-12-31T11:56:28-05:00",
 				"url": "https://micro.mjdescy.me/2017/12/31/my-daughters-cookie.html",
 				"tags": ["Journal"]
@@ -16779,7 +16804,7 @@
 				"id": "http://mjdescy.micro.blog/2017/12/30/it-was-a.html",
 				
 				"content_html": "<p>It was a <em>really</em> close game!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It was a _really_ close game!\n\n<img src=\"http://mjdescy.micro.blog/uploads/2017/307c52335b.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "It was a _really_ close game!\n\n<img src=\"uploads/2017/307c52335b.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2017-12-30T10:10:36-05:00",
 				"url": "https://micro.mjdescy.me/2017/12/30/it-was-a.html",
 				"tags": ["Journal"]
@@ -16878,7 +16903,7 @@
 				"id": "http://mjdescy.micro.blog/2017/12/24/i-made-banana.html",
 				
 				"content_html": "<p>I made banana bread, too.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I made banana bread, too.\n\n<img src=\"http://mjdescy.micro.blog/uploads/2017/e4d0c59d19.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "I made banana bread, too.\n\n<img src=\"uploads/2017/e4d0c59d19.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2017-12-23T19:50:40-05:00",
 				"url": "https://micro.mjdescy.me/2017/12/23/i-made-banana.html",
 				"tags": ["Journal"]
@@ -16887,7 +16912,7 @@
 				"id": "http://mjdescy.micro.blog/2017/12/23/i-baked-snickerdoodles.html",
 				
 				"content_html": "<p>I baked Snickerdoodles for the family today. They are <em>really</em>, <em>really</em> good!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I baked Snickerdoodles for the family today. They are _really_, _really_ good!\n\n<img src=\"http://mjdescy.micro.blog/uploads/2017/fceeaa5b75.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "I baked Snickerdoodles for the family today. They are _really_, _really_ good!\n\n<img src=\"uploads/2017/fceeaa5b75.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-12-23T14:16:46-05:00",
 				"url": "https://micro.mjdescy.me/2017/12/23/i-baked-snickerdoodles.html",
 				"tags": ["Journal"]
@@ -17049,7 +17074,7 @@
 				"id": "http://mjdescy.micro.blog/2017/11/05/ulysses-a-peerless.html",
 				"title": "Ulysses, a peerless writing tool",
 				"content_html": "<p>I love <!-- raw HTML omitted -->Ulysses<!-- raw HTML omitted -->.</p>\n<p><!-- raw HTML omitted -->This post on the Ulysses blog<!-- raw HTML omitted --> illustrates its value proposition. It is a minimalistic plaintext editor. It eschews common word processing features (such as rich text formatting) and some high-end “writing app” features (storyboarding, a character name generator, etc.) in favor of a stark, clean interface and generalized organizational tools (a unified library of “sheets” that can be organized in folders or with keywords).</p>\n<p>In a way, its <!-- raw HTML omitted -->lack<!-- raw HTML omitted --> of features is its greatest feature. It focuses on the text, both from a writing standpoint and a publishing standpoint. That’s what writers should do—and <!-- raw HTML omitted -->want<!-- raw HTML omitted --> to do (really!). But writing is hard work. It requires incredible focus, and achieving and maintaining that focus is really hard. Just about anything is easier than writing most of the time. That’s why writers, famously, procrastinate. Sometimes, though, writers get into a <!-- raw HTML omitted -->flow state<!-- raw HTML omitted -->, just like software developers do, and any distraction will break that flow. App-induced distractions are particularly unwelcome. The worst offenders, ironically, tend to be features that promise to help make your writing process easier—especially if those features don’t exactly gel with what you are doing.</p>\n<p>Ulysses gets that. Its feature set is intentionally uncomplicated and applicable to a broad base of writers. It hides some of its most powerful functionality, such as its awesome publishing features, until you actually need it. It doesn’t impose any system, workflow, or rules on you. Its simple system of sheets, folders, and keywords allows you to build your own organizational system that is specific to your projects—or, alternatively, to ignore organization until you absolutely need it. Most importantly, it puts the focus on the text, right where it needs to be.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I love <a href=\"https://ulyssesapp.com\">Ulysses</a>.\n\n<a href=\"http://blog.nanowrimo.org/post/166793410661/5-tips-for-writing-a-bestseller-with-ulysses\">This post on the Ulysses blog</a> illustrates its value proposition. It is a minimalistic plaintext editor. It eschews common word processing features (such as rich text formatting) and some high-end “writing app” features (storyboarding, a character name generator, etc.) in favor of a stark, clean interface and generalized organizational tools (a unified library of “sheets” that can be organized in folders or with keywords).\n\nIn a way, its <em>lack</em> of features is its greatest feature. It focuses on the text, both from a writing standpoint and a publishing standpoint. That’s what writers should do—and <em>want</em> to do (really!). But writing is hard work. It requires incredible focus, and achieving and maintaining that focus is really hard. Just about anything is easier than writing most of the time. That’s why writers, famously, procrastinate. Sometimes, though, writers get into a <a href=\"http://www.businessinsider.com/concept-flow-help-get-in-zone-work-brad-stulberg-2017-9\">flow state</a>, just like software developers do, and any distraction will break that flow. App-induced distractions are particularly unwelcome. The worst offenders, ironically, tend to be features that promise to help make your writing process easier—especially if those features don’t exactly gel with what you are doing.\n\nUlysses gets that. Its feature set is intentionally uncomplicated and applicable to a broad base of writers. It hides some of its most powerful functionality, such as its awesome publishing features, until you actually need it. It doesn’t impose any system, workflow, or rules on you. Its simple system of sheets, folders, and keywords allows you to build your own organizational system that is specific to your projects—or, alternatively, to ignore organization until you absolutely need it. Most importantly, it puts the focus on the text, right where it needs to be.\n\n<img src=\"https://cdn.uploads.micro.blog/2098/2021/72ffa315ca.jpg\" /> \n",
+				"content_text": "I love <a href=\"https://ulyssesapp.com\">Ulysses</a>.\n\n<a href=\"http://blog.nanowrimo.org/post/166793410661/5-tips-for-writing-a-bestseller-with-ulysses\">This post on the Ulysses blog</a> illustrates its value proposition. It is a minimalistic plaintext editor. It eschews common word processing features (such as rich text formatting) and some high-end “writing app” features (storyboarding, a character name generator, etc.) in favor of a stark, clean interface and generalized organizational tools (a unified library of “sheets” that can be organized in folders or with keywords).\n\nIn a way, its <em>lack</em> of features is its greatest feature. It focuses on the text, both from a writing standpoint and a publishing standpoint. That’s what writers should do—and <em>want</em> to do (really!). But writing is hard work. It requires incredible focus, and achieving and maintaining that focus is really hard. Just about anything is easier than writing most of the time. That’s why writers, famously, procrastinate. Sometimes, though, writers get into a <a href=\"http://www.businessinsider.com/concept-flow-help-get-in-zone-work-brad-stulberg-2017-9\">flow state</a>, just like software developers do, and any distraction will break that flow. App-induced distractions are particularly unwelcome. The worst offenders, ironically, tend to be features that promise to help make your writing process easier—especially if those features don’t exactly gel with what you are doing.\n\nUlysses gets that. Its feature set is intentionally uncomplicated and applicable to a broad base of writers. It hides some of its most powerful functionality, such as its awesome publishing features, until you actually need it. It doesn’t impose any system, workflow, or rules on you. Its simple system of sheets, folders, and keywords allows you to build your own organizational system that is specific to your projects—or, alternatively, to ignore organization until you absolutely need it. Most importantly, it puts the focus on the text, right where it needs to be.\n\n<img src=\"uploads/2021/72ffa315ca.jpg\" /> \n",
 				"date_published": "2017-11-05T23:00:00-05:00",
 				"url": "https://micro.mjdescy.me/2017/11/05/ulysses-a-peerless.html",
 				"tags": ["Plaintext"]
