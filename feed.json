@@ -7,6 +7,74 @@
 	"items": [
 		
 			{
+				"id": "http://mjdescy.micro.blog/2023/09/13/i-forgot-that.html",
+				"title": "I forgot that I shouldn't get an Apple Store repair with a beta OS installed",
+				"content_html": "<p>Last night I went to the Apple Store to get a new battery for my iPhone 12 mini. Normally that process would take about an hour. Because I had the iOS 17 beta installed, however, they had to wipe my phone and downgrade it to iOS 16-something before they would swap the battery. The process took so long that I had to leave my phone with them overnight to get the repair, and will be getting it today at lunchtime.</p>\n",
+				"content_text": "Last night I went to the Apple Store to get a new battery for my iPhone 12 mini. Normally that process would take about an hour. Because I had the iOS 17 beta installed, however, they had to wipe my phone and downgrade it to iOS 16-something before they would swap the battery. The process took so long that I had to leave my phone with them overnight to get the repair, and will be getting it today at lunchtime.\n",
+				"date_published": "2023-09-13T10:49:02-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/13/i-forgot-that.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/12/i-will-watch.html",
+				
+				"content_html": "<p>I will watch the Apple iPhone announcement/informercial today, but I am not overly excited about it. I will be buying an iPhone 15 as soon as possible, however, to replace my wife&rsquo;s frequently overheating and storage-starved iPhone XR.</p>\n",
+				"content_text": "I will watch the Apple iPhone announcement/informercial today, but I am not overly excited about it. I will be buying an iPhone 15 as soon as possible, however, to replace my wife's frequently overheating and storage-starved iPhone XR.\n",
+				"date_published": "2023-09-12T09:51:57-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/12/i-will-watch.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/12/i-love-my.html",
+				
+				"content_html": "<p>⌨️ I love my (<!-- raw HTML omitted -->lamentably discontinued<!-- raw HTML omitted -->) Planck-EZ, but was amazed when I discovered that ZSA released a low-profile ergo split keyboard, the <!-- raw HTML omitted -->Voyager<!-- raw HTML omitted -->. It is the keyboard I would have bought instead of the Plank-EZ. (At the time I bought my first Planck-EZ I had my eye on a pre-built <!-- raw HTML omitted -->Corne<!-- raw HTML omitted -->) I would love to have one, but, at $365 USD, however, it is too expensive for me to buy on a whim.</p>\n",
+				"content_text": "⌨️ I love my (<a href=\"https://blog.zsa.io/2307-goodbye-planck-ez/\">lamentably discontinued</a>) Planck-EZ, but was amazed when I discovered that ZSA released a low-profile ergo split keyboard, the <a href=\"https://www.zsa.io/voyager/buy\">Voyager</a>. It is the keyboard I would have bought instead of the Plank-EZ. (At the time I bought my first Planck-EZ I had my eye on a pre-built <a href=\"https://github.com/foostan/crkbd\">Corne</a>) I would love to have one, but, at $365 USD, however, it is too expensive for me to buy on a whim.\n",
+				"date_published": "2023-09-12T09:23:23-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/12/i-love-my.html",
+				"tags": ["Keyboards"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/11/catch-is-witty.html",
+				
+				"content_html": "<p>📚 <em>Catch-22</em> is witty, surreal, and really keeps you on your toes as you read it.</p>\n",
+				"content_text": "📚 _Catch-22_ is witty, surreal, and really keeps you on your toes as you read it.\n",
+				"date_published": "2023-09-11T16:20:59-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/11/catch-is-witty.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/11/i-just-subscribed.html",
+				
+				"content_html": "<p>📺 I just subscribed to Paramount+ for the year. I got hooked on <em>Star Trek: Strange New Worlds</em> this summer, and now I want to watch all the other <em>Trek</em> that I missed. I am in the middle of <em>Star Trek: Discovery</em> now.</p>\n",
+				"content_text": "📺 I just subscribed to Paramount+ for the year. I got hooked on _Star Trek: Strange New Worlds_ this summer, and now I want to watch all the other _Trek_ that I missed. I am in the middle of _Star Trek: Discovery_ now.\n",
+				"date_published": "2023-09-11T09:49:50-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/11/i-just-subscribed.html",
+				"tags": ["TV"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/10/i-am-tabling.html",
+				
+				"content_html": "<p>📚 I am tabling <em>It</em> for now. Three chapters in, I’m not sure I like it. I just borrowed <em>Catch-22</em> from my local library, and will try that instead.</p>\n",
+				"content_text": "📚 I am tabling _It_ for now. Three chapters in, I’m not sure I like it. I just borrowed _Catch-22_ from my local library, and will try that instead. \n",
+				"date_published": "2023-09-10T21:32:58-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/10/i-am-tabling.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/10/i-started-reading.html",
+				
+				"content_html": "<p>📚 I started reading Stephen King’s <em>It</em>. I know it’s popular. I know it’s long. I’m not yet sure that it is <em>good</em>.</p>\n",
+				"content_text": "📚 I started reading Stephen King’s _It_. I know it’s popular. I know it’s long. I’m not yet sure that it is _good_. \n",
+				"date_published": "2023-09-10T15:10:38-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/10/i-started-reading.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/09/just-finished-reading.html",
+				
+				"content_html": "<p>📚 Just finished reading <em>Of Human Bondage</em> by W. Somerset Maugham. Loved it!</p>\n",
+				"content_text": "📚 Just finished reading _Of Human Bondage_ by W. Somerset Maugham. Loved it!\n",
+				"date_published": "2023-09-09T10:56:24-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/09/just-finished-reading.html"
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2023/09/07/it-turns-out.html",
 				
 				"content_html": "<p>It turns out waking up before you want to is a great way to get to sleep before you want to. Thanks, middle school schedule.</p>\n",
