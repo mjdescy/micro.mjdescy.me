@@ -7,6 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://mjdescy.micro.blog/2023/09/20/pico-is-so.html",
+				"title": "🎮 PICO-8 is so cool",
+				"content_html": "<p>I have known about the <!-- raw HTML omitted -->PICO-8<!-- raw HTML omitted --> fantasy console for a while, due to finding a PICO-8 item in <!-- raw HTML omitted -->Celeste<!-- raw HTML omitted -->, but I learned this week that all the game tools you need to create games with it (including a music editor and a sprite editor) are built in. You can also view the code of any published game, so you can change it, edit it, and even publish it. It is so cool! I bought a license this week. I think my son will like to create games with it.</p>\n",
+				"content_text": "I have known about the <a href=\"https://www.lexaloffle.com/pico-8.php\">PICO-8</a> fantasy console for a while, due to finding a PICO-8 item in <a href=\"https://www.celestegame.com/\">Celeste</a>, but I learned this week that all the game tools you need to create games with it (including a music editor and a sprite editor) are built in. You can also view the code of any published game, so you can change it, edit it, and even publish it. It is so cool! I bought a license this week. I think my son will like to create games with it.\n",
+				"date_published": "2023-09-20T08:30:42-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/20/pico-is-so.html",
+				"tags": ["Gaming"]
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/17/i-just-ordered.html",
+				
+				"content_html": "<p>I just ordered my wife an iPhone 15. I am not happy that I had to pay in full, rather than use Apple Card monthly installments, to buy one without connecting it to a Big Three carrier.</p>\n",
+				"content_text": "I just ordered my wife an iPhone 15. I am not happy that I had to pay in full, rather than use Apple Card monthly installments, to buy one without connecting it to a Big Three carrier.\n",
+				"date_published": "2023-09-17T21:58:21-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/17/i-just-ordered.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/17/we-all-had.html",
+				
+				"content_html": "<p>We all had a great time at Grounds for Sculpture today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We all had a great time at Grounds for Sculpture today. \n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Sculpture \">\n",
+				"date_published": "2023-09-17T16:04:09-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/17/we-all-had.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/16/the-past-couple.html",
+				
+				"content_html": "<p>The past couple days here in New Jersey have  been full of glorious early fall weather. 🌞</p>\n",
+				"content_text": "The past couple days here in New Jersey have  been full of glorious early fall weather. 🌞\n",
+				"date_published": "2023-09-16T09:32:14-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/16/the-past-couple.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/15/i-tried-apple.html",
+				"title": "I tried Apple News+ crosswords",
+				"content_html": "<p>Apple News+ crosswords have an excellent UI. Interacting with the grid and clues is fluid and simple. I wish it were available in a separate app or tab in the News app, though. Sadly, the crossword clueing is nowhere near as good as it is in New York Times crosswords, which makes the Apple crosswords less fun.</p>\n",
+				"content_text": "Apple News+ crosswords have an excellent UI. Interacting with the grid and clues is fluid and simple. I wish it were available in a separate app or tab in the News app, though. Sadly, the crossword clueing is nowhere near as good as it is in New York Times crosswords, which makes the Apple crosswords less fun.\n",
+				"date_published": "2023-09-15T15:23:13-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/15/i-tried-apple.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/13/last-month-i.html",
+				
+				"content_html": "<p>📚 Last month I read <em>Appointment in Samarra</em> by John O&rsquo;Hara. It is another 20th century classic that was on my reading list for a while, but I put it off because I had no idea what it was about. Turns out it&rsquo;s about crazy drunk people being social and antisocial during Prohibition. I found it easy to read and deliriously entertaining.</p>\n",
+				"content_text": "📚 Last month I read _Appointment in Samarra_ by John O'Hara. It is another 20th century classic that was on my reading list for a while, but I put it off because I had no idea what it was about. Turns out it's about crazy drunk people being social and antisocial during Prohibition. I found it easy to read and deliriously entertaining.\n",
+				"date_published": "2023-09-13T22:21:00-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/13/last-month-i.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/13/i-retrieved-my.html",
+				
+				"content_html": "<p>I retrieved my 3-year-old iPhone 12 mini from the Apple Store this afternoon and set it up (along with my Apple Watch Series 4) from scratch. I also bought a new case for it. They both feel spiffy and new, which I did not expect.</p>\n",
+				"content_text": "I retrieved my 3-year-old iPhone 12 mini from the Apple Store this afternoon and set it up (along with my Apple Watch Series 4) from scratch. I also bought a new case for it. They both feel spiffy and new, which I did not expect.\n",
+				"date_published": "2023-09-13T22:04:55-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/13/i-retrieved-my.html"
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2023/09/13/i-forgot-that.html",
 				"title": "I forgot that I shouldn't get an Apple Store repair with a beta OS installed",
 				"content_html": "<p>Last night I went to the Apple Store to get a new battery for my iPhone 12 mini. Normally that process would take about an hour. Because I had the iOS 17 beta installed, however, they had to wipe my phone and downgrade it to iOS 16-something before they would swap the battery. The process took so long that I had to leave my phone with them overnight to get the repair, and will be getting it today at lunchtime.</p>\n",
