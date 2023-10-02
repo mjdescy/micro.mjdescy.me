@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mjdescy.micro.blog/2023/10/02/i-finished-reading.html",
+				
+				"content_html": "<p>📚 I finished reading Joseph Heller’s  <em>Catch-22</em> last night and stayed up too late thinking about it. I’m very glad I read it. I will be thinking about it for a long time.</p>\n",
+				"content_text": "📚 I finished reading Joseph Heller’s  _Catch-22_ last night and stayed up too late thinking about it. I’m very glad I read it. I will be thinking about it for a long time.\n",
+				"date_published": "2023-10-02T18:40:27-04:00",
+				"url": "https://micro.mjdescy.me/2023/10/02/i-finished-reading.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2023/09/22/i-have-been.html",
+				
+				"content_html": "<p>I have been having a lot of fun playing <a href=\"https://apps.apple.com/app/id1598756238\">Knotwords</a> lately. It a fun and sometimes challenging reverse crossword puzzle in which you fill letters into a grid.</p>\n",
+				"content_text": "I have been having a lot of fun playing [Knotwords](https://apps.apple.com/app/id1598756238) lately. It a fun and sometimes challenging reverse crossword puzzle in which you fill letters into a grid.\n",
+				"date_published": "2023-09-22T20:39:36-04:00",
+				"url": "https://micro.mjdescy.me/2023/09/22/i-have-been.html"
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2023/09/20/pico-is-so.html",
 				"title": "🎮 PICO-8 is so cool",
 				"content_html": "<p>I have known about the <!-- raw HTML omitted -->PICO-8<!-- raw HTML omitted --> fantasy console for a while, due to finding a PICO-8 item in <!-- raw HTML omitted -->Celeste<!-- raw HTML omitted -->, but I learned this week that all the game tools you need to create games with it (including a music editor and a sprite editor) are built in. You can also view the code of any published game, so you can change it, edit it, and even publish it. It is so cool! I bought a license this week. I think my son will like to create games with it.</p>\n",
